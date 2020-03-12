@@ -15,10 +15,10 @@ Papers on urban computing
 
 ## Content
 
-- <a href = "#Trafic-forecasting">1. Trafic forecasting</a>
-  - <a href = "#GNN-papers-on-Traffic-forecasting">1.1 GNN papers on Traffic forecasting</a>
-  - <a href = "#Other-method-on-Traffic-forecasting">1.2 Other method on Traffic forecasting</a>
-- <a href = "#Crowd-Flows-Prediction">2. Crowd Flows Prediction</a>
+- <a href = "#trafic-forecasting">1. Trafic forecasting</a>
+  - <a href = "#gnn-papers-on-traffic-forecasting">1.1 GNN papers on Traffic forecasting</a>
+  - <a href = "#other-method-on-traffic-forecasting">1.2 Other method on Traffic forecasting</a>
+- <a href = "#crowd-flows-prediction">2. Crowd flows prediction</a>
 
 
 
