@@ -36,7 +36,7 @@ Graph neural network on traffic forecasting
 
 其他内容
 
-###[Other method on Traffic forecasting ](#content)
+### [Other method on Traffic forecasting ](#content)
 
 ### [Crowd Flows Prediction](#content)
 
