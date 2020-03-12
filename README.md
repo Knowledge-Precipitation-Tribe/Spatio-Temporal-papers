@@ -15,10 +15,10 @@ Papers on urban computing
 
 ## Content
 
-- <a href = "#Trafic forecasting">Trafic forecasting</a>
-  - <a href = "#GNN papers on Traffic forecasting"> GNN papers on Traffic forecasting</a>
-  - <a href = "#Other method on Traffic forecasting">Other method on Traffic forecasting</a>
-- <a href = "#Crowd Flows Prediction">Crowd Flows Prediction</a>
+- <a href = "#Trafic-forecasting">1. Trafic forecasting</a>
+  - <a href = "#GNN-papers-on-Traffic-forecasting">1.1 GNN papers on Traffic forecasting</a>
+  - <a href = "#Other-method-on-Traffic-forecasting">1.2 Other method on Traffic forecasting</a>
+- <a href = "#Crowd-Flows-Prediction">2. Crowd Flows Prediction</a>
 
 
 
@@ -33,8 +33,6 @@ Graph neural network on traffic forecasting
 [1] **Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting.** IJCAI 2018. [paper](https://arxiv.org/pdf/1709.04875.pdf)
 
 *Bing Yu, Haoteng Yin, Zhanxing Zhu*
-
-[2] 
 
 ###[Other method on Traffic forecasting ](#content)
 
