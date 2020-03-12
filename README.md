@@ -34,6 +34,8 @@ Graph neural network on traffic forecasting
 
 *Bing Yu, Haoteng Yin, Zhanxing Zhu*
 
+其他内容
+
 ###[Other method on Traffic forecasting ](#content)
 
 ### [Crowd Flows Prediction](#content)
