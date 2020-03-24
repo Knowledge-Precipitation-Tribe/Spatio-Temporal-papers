@@ -30,7 +30,9 @@ Papers on urban computing
 
 Graph neural network on traffic forecasting
 
-[1] **Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting.** IJCAI 2018. [paper](https://arxiv.org/pdf/1709.04875.pdf)
+[1] **Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting.** IJCAI 2018. [paper](https://arxiv.org/pdf/1709.04875.pdf).
+
+**[Detailed analysis](https://github.com/Knowledge-Precipitation-Tribe/STGCN-keras/tree/master/ppt)**
 
 *Bing Yu, Haoteng Yin, Zhanxing Zhu*
 
