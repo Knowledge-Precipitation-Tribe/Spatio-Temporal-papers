@@ -15,9 +15,26 @@ Papers on urban computing
 
 [2] JD city : [link](http://icity.jd.com/)
 
-[3] aliyun: [link](https://m.aliyun.com/markets/aliyun/citybraintraffic?spm=5176.12825654.eofdhaal5.151.54212c4aE2J0lt)
+[3] alibaba: [link](https://m.aliyun.com/markets/aliyun/citybraintraffic?spm=5176.12825654.eofdhaal5.151.54212c4aE2J0lt)
 
 [4] Huawei: [link](https://e.huawei.com/cn/solutions/industries/smart-city)
+
+[5] ByteDance: [link](https://ailab.bytedance.com/)
+
+[6] alibaba damo academy: [link](https://damo.alibaba.com/labs/city-brain)
+
+[7] Tencent: [link](https://ai.tencent.com/ailab/zh/index)
+
+[8] Microsoft: [link](https://www.microsoft.com/en-us/ai/ai-lab)
+
+[9] intel: [link](https://www.intel.com/content/www/us/en/artificial-intelligence/overview.html)
+
+[10] FACEBOOK: [link](https://ai.facebook.com/)
+
+[11] Google: [link](https://ai.google/)
+
+[12] National Laboratory od Pattern Recognition: [link](http://www.nlpr.ia.ac.cn/cn/)
+
 
 ## Dataset
 
@@ -28,8 +45,6 @@ Papers on urban computing
 - <a href = "#trafic-forecasting">1. Trafic forecasting</a>
   - <a href = "#gnn-papers-on-traffic-forecasting">1.1 GNN papers on Traffic forecasting</a>
   - <a href = "#other-method-on-traffic-forecasting">1.2 Other method on Traffic forecasting</a>
-- <a href = "#crowd-flows-prediction">2. Crowd flows prediction</a>
-
 
 
 ## Relevant papers
@@ -90,5 +105,4 @@ Graph neural network on traffic forecasting
 
 ### [Other method on Traffic forecasting ](#content)
 
-### [Crowd Flows Prediction](#content)
-
+loading...
