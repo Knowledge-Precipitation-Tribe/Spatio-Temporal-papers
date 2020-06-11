@@ -8,6 +8,9 @@ Papers on urban computing
 [2] [百度AI新基建版图](https://mp.weixin.qq.com/s/Dn36outlTv6a89t9aKAZhA)
 ![baidi](./img/baidu.jpeg)
 
+## 白皮书
+[1] [百度城市大脑白皮书]()
+[2] [区块链赋能新型智慧城市白皮书]()
 
 ## Experts or AI lab
 
@@ -35,6 +38,9 @@ Papers on urban computing
 
 [12] National Laboratory od Pattern Recognition: [link](http://www.nlpr.ia.ac.cn/cn/)
 
+[13] Baidu: [link](https://cloud.baidu.com/)
+
+[14] JD cloud: [link](https://www.jdcloud.com/cn/city/all)
 
 ## Dataset
 
