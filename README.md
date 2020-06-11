@@ -36,7 +36,22 @@ Graph neural network on traffic forecasting
 
 *Bing Yu, Haoteng Yin, Zhanxing Zhu*
 
-其他内容
+[2] **Spatiotemporal Multi-Graph Convolution Network for Ride-hailing Demand Forecasting.** AAAI 2019. [paper](http://www-scf.usc.edu/~yaguang/papers/aaai19_multi_graph_convolution.pdf).
+
+*Xu Geng, Yaguang Li, Leye Wang, Lingyu Zhang, Qiang Yang, Jieping Ye, Yan Liu*
+
+[3] **Spatio-Temporal Graph Structure Learning for Traffic Forecasting.** AAAI 2020. [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhangQ.7934.pdf).
+
+*Qi Zhang, Jianlong Chang, Gaofeng Meng, Shiming Xiang, Chunhong Pan*
+
+[4] **GMAN: A Graph Multi-Attention Network for Traffic Prediction.** AAAI 2020. [paper](https://arxiv.org/pdf/1911.08415.pdf).
+
+*Chuanpan Zheng, Xiaoliang Fan, Cheng Wang, Jianzhong Qi*
+
+[5] **Graph WaveNet for Deep Spatial-Temporal Graph Modeling.** IJCAI 2019. [paper](https://arxiv.org/abs/1906.00121).
+
+*Zonghan Wu, Shirui Pan, Guodong Long, Jing Jiang, Chengqi Zhang*
+
 
 ### [Other method on Traffic forecasting ](#content)
 
