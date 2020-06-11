@@ -12,9 +12,13 @@ Papers on urban computing
 
 ## 白皮书
 [1] [百度城市大脑白皮书](https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/blob/master/pdf/%E7%99%BE%E5%BA%A6%E5%9F%8E%E5%B8%82%E5%A4%A7%E8%84%91%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
+
 [2] [区块链赋能新型智慧城市白皮书](https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/blob/master/pdf/qukuailian.pdf)
+
 [3] [京东云智能城市白皮书2019](https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/blob/master/pdf/%E4%BA%AC%E4%B8%9C%E4%BA%91%E6%99%BA%E8%83%BD%E5%9F%8E%E5%B8%82%E7%99%BD%E7%9A%AE%E4%B9%A62019.pdf)
+
 [4] [中国智能城市发展战略与策略研究](https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/blob/master/pdf/JDCloud_intelligent_city_development_strategy_2019.pdf)
+
 [5] [城市交通数字化转型白皮书](https://mp.weixin.qq.com/s/tspBdFa2wc0Yfcvj3BpxZA)
 
 ## Experts or AI lab
