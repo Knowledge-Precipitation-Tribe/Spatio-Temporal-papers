@@ -52,7 +52,7 @@ Graph neural network on traffic forecasting
 
 ---
 
-[4] **GMAN: A Graph Multi-Attention Network for Traffic Prediction.** AAAI 2020. [paper](https://arxiv.org/pdf/1911.08415.pdf).
+[4] **GMAN: A Graph Multi-Attention Network for Traffic Prediction.** AAAI 2020. [paper](https://arxiv.org/pdf/1911.08415.pdf) [code](https://github.com/zhengchuanpan/GMAN).
 
 *Chuanpan Zheng, Xiaoliang Fan, Cheng Wang, Jianzhong Qi*
 
@@ -64,7 +64,7 @@ Graph neural network on traffic forecasting
 
 ---
 
-[6] **Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting.** AAAI 2020. [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-SongC.8074.pdf).
+[6] **Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting.** AAAI 2020. [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-SongC.8074.pdf) [code](https://github.com/Davidham3/STSGCN).
 
 *Chao Song, Youfang Lin, Shengnan Guo, Huaiyu Wan*
 
@@ -73,6 +73,12 @@ Graph neural network on traffic forecasting
 [7] **DIFFUSION CONVOLUTIONAL RECURRENT NEURAL NETWORK: DATA-DRIVEN TRAFFIC FORECASTING.** ICLR 2018. [paper](https://arxiv.org/abs/1707.01926).
 
 *Yaguang Li, Rose Yu, Cyrus Shahabi, Yan Liu*
+
+---
+
+[8] **Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting.** AAAI 2019. [paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/3881) [code](https://github.com/Davidham3/ASTGCN).
+
+*Shengnan Guo, Youfang Lin, Ning Feng, Chao Song, Huaiyu Wan*
 
 ### [Other method on Traffic forecasting ](#content)
 
