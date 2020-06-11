@@ -1,6 +1,14 @@
 # Urban-computing-papers
 Papers on urban computing
 
+## 新基建
+
+[1] [什么是新基建](http://www.xinhuanet.com/politics/2020-04/26/c_1125908061.htm)
+
+[2] [百度AI新基建版图](https://mp.weixin.qq.com/s/Dn36outlTv6a89t9aKAZhA)
+![baidi](./img/baidu.jpeg)
+
+
 ## Experts or AI lab
 
 [1] Yu Zheng: [link](http://urban-computing.com/yuzheng)
@@ -32,7 +40,7 @@ Papers on urban computing
 
 Graph neural network on traffic forecasting
 
-[1] **Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting.** IJCAI 2018. [paper](https://arxiv.org/pdf/1709.04875.pdf) [code](https://github.com/ShichengChen/Spatio-Temporal-Graph-Convolutional-Networks-A-Deep-Learning-Framework-for-Traffic-Forecasting).
+[1] **Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting.** IJCAI 2018. [paper](https://arxiv.org/pdf/1709.04875.pdf), [code](https://github.com/ShichengChen/Spatio-Temporal-Graph-Convolutional-Networks-A-Deep-Learning-Framework-for-Traffic-Forecasting).
 
 **[Detailed analysis](https://github.com/Knowledge-Precipitation-Tribe/STGCN-keras/tree/master/ppt)**
 
@@ -52,7 +60,7 @@ Graph neural network on traffic forecasting
 
 ---
 
-[4] **GMAN: A Graph Multi-Attention Network for Traffic Prediction.** AAAI 2020. [paper](https://arxiv.org/pdf/1911.08415.pdf) [code](https://github.com/zhengchuanpan/GMAN).
+[4] **GMAN: A Graph Multi-Attention Network for Traffic Prediction.** AAAI 2020. [paper](https://arxiv.org/pdf/1911.08415.pdf), [code](https://github.com/zhengchuanpan/GMAN).
 
 *Chuanpan Zheng, Xiaoliang Fan, Cheng Wang, Jianzhong Qi*
 
@@ -64,7 +72,7 @@ Graph neural network on traffic forecasting
 
 ---
 
-[6] **Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting.** AAAI 2020. [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-SongC.8074.pdf) [code](https://github.com/Davidham3/STSGCN).
+[6] **Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting.** AAAI 2020. [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-SongC.8074.pdf), [code](https://github.com/Davidham3/STSGCN).
 
 *Chao Song, Youfang Lin, Shengnan Guo, Huaiyu Wan*
 
