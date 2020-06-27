@@ -29,7 +29,11 @@ Papers on urban computing
 
 [3] Xun Zhou: [link](https://www.biz.uiowa.edu/faculty/xzhou/)
 
+[4] 万怀宇: [link](http://faculty.bjtu.edu.cn/8793/)
+
 ## AI Lab
+
+[1] iFly Tek: [link](https://www.iflytek.com/city)
 
 [2] JD city : [link](http://icity.jd.com/)
 
