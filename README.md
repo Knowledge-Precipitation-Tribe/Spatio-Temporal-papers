@@ -21,9 +21,15 @@ Papers on urban computing
 
 [5] [城市交通数字化转型白皮书](https://mp.weixin.qq.com/s/tspBdFa2wc0Yfcvj3BpxZA)
 
-## Experts or AI lab
+## Experts
 
 [1] Yu Zheng: [link](http://urban-computing.com/yuzheng)
+
+[2] Yanhua Li: [link](http://users.wpi.edu/~yli15/index.html)
+
+[3] Xun Zhou: [link](https://www.biz.uiowa.edu/faculty/xzhou/)
+
+## AI Lab
 
 [2] JD city : [link](http://icity.jd.com/)
 
