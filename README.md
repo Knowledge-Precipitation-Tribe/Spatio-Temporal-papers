@@ -21,7 +21,7 @@ Papers on urban computing
 
 [5] [城市交通数字化转型白皮书](https://mp.weixin.qq.com/s/tspBdFa2wc0Yfcvj3BpxZA)
 
-## Experts
+## professor
 
 [1] Yu Zheng: [link](http://urban-computing.com/yuzheng)
 
@@ -29,7 +29,15 @@ Papers on urban computing
 
 [3] Xun Zhou: [link](https://www.biz.uiowa.edu/faculty/xzhou/)
 
-[4] 万怀宇: [link](http://faculty.bjtu.edu.cn/8793/)
+[4] YaGuang Li: [link](http://www-scf.usc.edu/~yaguang/)
+
+[5] Zhenhui Jessie Li: [link](https://faculty.ist.psu.edu/jessieli/Site/index.html)
+
+[6] David S. Rosenblum: [link](https://www.comp.nus.edu.sg/~david/)
+
+[7] Huaiyu Wan: [link](http://faculty.bjtu.edu.cn/8793/)
+
+[8] Junbo Zhang: [link](https://zhangjunbo.org/)
 
 ## AI Lab
 
