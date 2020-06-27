@@ -55,6 +55,8 @@ Papers on urban computing
 
 [1] GAIA Open Dataset: [link](https://outreach.didichuxing.com/research/opendata/)
 
+[2] 智慧足迹: [link](http://www.smartsteps.com/)
+
 ## Content
 
 - <a href = "#trafic-forecasting">1. Trafic forecasting</a>
