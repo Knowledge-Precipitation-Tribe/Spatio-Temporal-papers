@@ -23,7 +23,9 @@ loading...
 
 [5] [城市交通数字化转型白皮书](https://mp.weixin.qq.com/s/tspBdFa2wc0Yfcvj3BpxZA)
 
-[6] [赛迪白皮书：2020城市新基建布局与发展白皮书]()
+[6] [赛迪白皮书：2020城市新基建布局与发展白皮书](https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/blob/master/pdf/赛迪白皮书：2020城市新基建布局与发展白皮书.pdf)
+
+[7] [赛迪报告：中国“新基建”发展研究报告]()
 
 ## professor
 
