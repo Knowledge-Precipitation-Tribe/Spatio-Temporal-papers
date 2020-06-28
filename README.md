@@ -25,7 +25,7 @@ loading...
 
 [6] [赛迪白皮书：2020城市新基建布局与发展白皮书](https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/blob/master/pdf/赛迪白皮书：2020城市新基建布局与发展白皮书.pdf)
 
-[7] [赛迪报告：中国“新基建”发展研究报告]()
+[7] [赛迪报告：中国“新基建”发展研究报告](https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/blob/master/pdf/赛迪报告：中国"新基建"发展研究报告.pdf)
 
 ## professor
 
