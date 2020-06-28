@@ -1,7 +1,7 @@
 # Urban-computing-papers
-## About
+## Introduction
 
-loading...
+The project is a collection of recent research in areas such as new infrastructure and urban computing, including white papers and academic papers.
 
 ## 新基建
 
