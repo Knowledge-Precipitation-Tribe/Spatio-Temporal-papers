@@ -27,6 +27,8 @@ This project is a collection of recent research in areas such as new infrastruct
 
 [7] [赛迪报告：中国“新基建”发展研究报告](https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/blob/master/pdf/赛迪报告：中国"新基建"发展研究报告.pdf)
 
+[8] [新基建，新机遇：中国智能经济发展白皮书（精华版）](https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/blob/master/pdf/新基建，新机遇：中国智能经济发展白皮书 (精华版).pdf)
+
 ## professor
 
 [1] Yu Zheng: [link](http://urban-computing.com/yuzheng)
