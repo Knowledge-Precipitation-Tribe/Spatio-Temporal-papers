@@ -124,7 +124,7 @@ Graph neural network on traffic forecasting
 
 ---
 
-[5] **Graph WaveNet for Deep Spatial-Temporal Graph Modeling.** IJCAI 2019. [paper](https://arxiv.org/abs/1906.00121).
+[5] **Graph WaveNet for Deep Spatial-Temporal Graph Modeling.** IJCAI 2019. [paper](https://arxiv.org/abs/1906.00121), [code](https://github.com/nnzhan/Graph-WaveNet).
 
 *Zonghan Wu, Shirui Pan, Guodong Long, Jing Jiang, Chengqi Zhang*
 
