@@ -161,6 +161,12 @@ This project is a collection of recent research in areas such as new infrastruct
 
 *Xiao Wang, Meiqi Zhu, Deyu Bo, Peng Cui, Chuan Shi, Jian Pei*
 
+---
+
+[3] **Heterogeneous Graph Neural Network.** SIGKDD 2019. [paper](https://dl.acm.org/doi/abs/10.1145/3292500.3330961)
+
+*Chuxu Zhang, Dongjin Song, Chao Huang, Ananthram Swami, Nitesh V. Chawla*
+
 ### [Traffic forecasting](#content)
 
 ### [GNN papers on Traffic forecasting](#content)
