@@ -83,9 +83,13 @@ This project is a collection of recent research in areas such as new infrastruct
 
 [2] 智慧足迹: [link](http://www.smartsteps.com/)
 
-[3] METR-LA: [link](http://geohub.lacity.org/datasets/traffic-data?geometry=-119.170%2C33.900%2C-117.193%2C34.298)
+[3] METR-LA: [link](http://geohub.lacity.org/datasets/traffic-data?geometry=-119.170%2C33.900%2C-117.193%2C34.298), [百度网盘](链接:https://pan.baidu.com/s/1g9yxZMDVf9nI0eN-ixeiPQ) 密码:xsz5
 
-[4] PEMS: [link](http://pems.dot.ca.gov/)
+[4] PEMS: [link](http://pems.dot.ca.gov/), [百度网盘](链接:https://pan.baidu.com/s/1ZOqjukNdcUIQDmCgYlb4xg) 密码:47cv
+
+[5] TaxiBJ: [link](), [百度网盘](链接:https://pan.baidu.com/s/1aoi7gEkFQFn2MTYlGuc7Iw) 密码:sg4n
+
+[6] BikeNYC: [link](), [百度网盘](链接:https://pan.baidu.com/s/1SdSPWu5c761H3e8XjtzuaA) 密码:lmwj
 
 ## Content
 
