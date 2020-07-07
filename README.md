@@ -124,6 +124,18 @@ This project is a collection of recent research in areas such as new infrastruct
 
 *Kaiqun Fu, Abdulaziz Alhamadani, Taoran Ji, Chang-Tien Lu*
 
+---
+
+[4] **Deep Learning for Spatio-Temporal Data Mining: A Survey. ** [paper](https://arxiv.org/pdf/1906.04928.pdf)
+
+*Senzhang Wang, Jiannong Cao, Fellow, Philip S. Yu*
+
+---
+
+[5] **GRAPH ATTENTION NETWORKS.** ICLR 2018. [paper](https://arxiv.org/pdf/1710.10903.pdf)
+
+*Petar Veliˇckovi´, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Li`, Yoshua Bengio*
+
 ### [Traffic forecasting](#content)
 
 ### [GNN papers on Traffic forecasting](#content)
@@ -184,7 +196,7 @@ Graph neural network on traffic forecasting
 
 *Cheonbok Park , Chunggi Lee , Hyojin Bahng, Taeyun won*
 
-
+---
 
 ### [Other method on Traffic forecasting ](#content)
 
@@ -197,6 +209,14 @@ Graph neural network on traffic forecasting
 [2] **Revisiting Spatial-Temporal Similarity: A Deep Learning Framework for Traffic Prediction.** AAAI 2019. [paper](https://arxiv.org/pdf/1803.01254.pdf)
 
 *Huaxiu Yao*, Xianfeng Tang, Hua Wei, Guanjie Zheng, Zhenhui Li*
+
+---
+
+[3] **Deep Spatial–Temporal 3D Convolutional Neural Networks for Traffic Data Forecasting. ** EEE Transactions on Intelligent Transportation Systems 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8684259/)
+
+*Shengnan Guo, Youfang Lin, Shijie Li, Zhaoming Chen, and Huaiyu Wan*
+
+---
 
 ### [Flows Prediction](#content)
 
@@ -212,5 +232,25 @@ Graph neural network on traffic forecasting
 
 ---
 
+[3] 
+
+---
+
 ### [Demand Prediction](#content)
+
+[1] **Deep Multi-View Spatial-Temporal Network for Taxi Demand Prediction.** AAAI 2018. [paper](https://arxiv.org/pdf/1802.08714.pdf)
+
+*Huaxiu Yao, Fei Wu, Jintao Ke, Xianfeng Tang, Yitian Jia, Siyu Lu, Pinghua Gong, Jieping Ye, Zhenhui Li*
+
+---
+
+[2] **Origin-Destination Matrix Prediction via Graph Convolution: a New Perspective of Passenger Demand Modeling. ** SIGKDD 2019. [paper](https://dl.acm.org/doi/abs/10.1145/3292500.3330877)
+
+*Yuandong Wang, Hongzhi Yin, Hongxu Chen, Tianyu Wo, Jie Xu*
+
+---
+
+[3] **STG2Seq: Spatial-temporal Graph to Sequence Model for Multi-step Passenger Demand Forecasting.** IJCAI 2019. [paper]()
+
+*Lei Bai1∗ , Lina Yao1 , Salil.S Kanhere1 and Xianzhi Wang2 , Quan.Z Sheng*
 
