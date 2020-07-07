@@ -97,12 +97,32 @@ This project is a collection of recent research in areas such as new infrastruct
 
 ## Content
 
+- <a href = "#survey">survey</a>
 - <a href = "#trafic-forecasting">1. Trafic forecasting</a>
-  - <a href = "#gnn-papers-on-traffic-forecasting">1.1 GNN papers on Traffic forecasting</a>
-  - <a href = "#other-method-on-traffic-forecasting">1.2 Other method on Traffic forecasting</a>
-
+  - <a href = "#gnn-papers-on-traffic-forecasting">1.1 GNN methods on Traffic forecasting</a>
+  - <a href = "#other-method-on-traffic-forecasting">1.2 Other methods on Traffic forecasting</a>
+- <a href = "Flows Prediction">2. Flows Prediction</a>
+- <a href = "Demand Prediction">3. Demand Prediction</a>
 
 ## Relevant papers
+
+### [survey](#content)
+
+[1] **Urban Computing: Concepts, Methodologies, and Applications.** TIST 2014. [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/UrbanComputing-zheng-tist2014.pdf)
+
+*YU ZHENG, LICIA CAPRA, OURI WOLFSON, HAI YANG*
+
+---
+
+[2] **A Comprehensive Survey on Graph Neural Networks.** IEEE Transactions on Neural Networks and Learning Systems 2020. [paper](https://arxiv.org/pdf/1901.00596.pdf)
+
+*Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu*
+
+---
+
+[3] **Batman or the Joker? The Powerful Urban Computing and its Ethics Issues.** SIGSPATIAL 2019. [paper](https://dl.acm.org/doi/abs/10.1145/3377000.3377003)
+
+*Kaiqun Fu, Abdulaziz Alhamadani, Taoran Ji, Chang-Tien Lu*
 
 ### [Traffic forecasting](#content)
 
@@ -158,6 +178,39 @@ Graph neural network on traffic forecasting
 
 *Shengnan Guo, Youfang Lin, Ning Feng, Chao Song, Huaiyu Wan*
 
+---
+
+[9] **STGRAT: A Spatio-Temporal Graph Attention Network for Traffic Forecasting.** [paper](http://arxiv-export-lb.library.cornell.edu/pdf/1911.13181)
+
+*Cheonbok Park , Chunggi Lee , Hyojin Bahng, Taeyun won*
+
+
+
 ### [Other method on Traffic forecasting ](#content)
 
-loading...
+[1] **Urban Traffic Prediction from Spatio-Temporal Data Using Deep Meta Learning.** SIGKDD 2019. [paper](http://urban-computing.com/pdf/kdd_2019_camera_ready_ST_MetaNet.pdf)
+
+*Zheyi Pan , Yuxuan Liang , Weifeng Wang, Yong Yu, Yu Zheng, Junbo Zhang*
+
+---
+
+[2] **Revisiting Spatial-Temporal Similarity: A Deep Learning Framework for Traffic Prediction.** AAAI 2019. [paper](https://arxiv.org/pdf/1803.01254.pdf)
+
+*Huaxiu Yao*, Xianfeng Tang, Hua Wei, Guanjie Zheng, Zhenhui Li*
+
+### [Flows Prediction](#content)
+
+[1] **Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction.** AAAI 2017. [paper](https://arxiv.org/pdf/1610.00081.pdf)
+
+*Junbo Zhang, Yu Zheng, Dekang Qi*
+
+---
+
+[2] **UrbanFM: Inferring Fine-Grained Urban Flows.** SIGKDD 2019. [paper](https://arxiv.org/pdf/1902.05377.pdf)
+
+*Yuxuan Liang, Kun Ouyang, Lin Jing, Sijie Ruan, Ye Liu1 Junbo Zhang, David S. Rosenblum, Yu Zheng*
+
+---
+
+### [Demand Prediction](#content)
+
