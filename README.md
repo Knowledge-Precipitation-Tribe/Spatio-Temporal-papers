@@ -98,7 +98,7 @@ This project is a collection of recent research in areas such as new infrastruct
 ## Content
 
 - <a href = "#survey">survey</a>
-- <a herf = "GNN">GNN</a>
+- <a herf = "#GNN">GNN</a>
 - <a href = "#trafic-forecasting">1. Trafic forecasting</a>
   - <a href = "#gnn-papers-on-traffic-forecasting">1.1 GNN methods on Traffic forecasting</a>
   - <a href = "#other-method-on-traffic-forecasting">1.2 Other methods on Traffic forecasting</a>
