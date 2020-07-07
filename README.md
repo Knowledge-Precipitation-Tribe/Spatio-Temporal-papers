@@ -98,6 +98,7 @@ This project is a collection of recent research in areas such as new infrastruct
 ## Content
 
 - <a href = "#survey">survey</a>
+- <a herf = "GNN">GNN</a>
 - <a href = "#trafic-forecasting">1. Trafic forecasting</a>
   - <a href = "#gnn-papers-on-traffic-forecasting">1.1 GNN methods on Traffic forecasting</a>
   - <a href = "#other-method-on-traffic-forecasting">1.2 Other methods on Traffic forecasting</a>
@@ -132,9 +133,33 @@ This project is a collection of recent research in areas such as new infrastruct
 
 ---
 
-[5] **GRAPH ATTENTION NETWORKS.** ICLR 2018. [paper](https://arxiv.org/pdf/1710.10903.pdf)
+[5] **Urban flows prediction from spatial-temporal data using machine learning: A survey.** Information Fusion 2020. [paper](https://www.sciencedirect.com/science/article/pii/S1566253519303094)
+
+*Peng Xie, Tianrui Li, Jia Liu, Shengdong Du, Xin Yang, Junbo Zhang*
+
+---
+
+[6] **How to Build a Graph-Based Deep Learning Architecture in Traffic Domain: A Survey.** [paper](https://arxiv.org/pdf/2005.11691.pdf)
+
+*Jiexia Ye, Juanjuan Zhao, Kejiang Ye, Chengzhong Xu*
+
+---
+
+[7] **A Survey on Modern Deep Neural Network for Traffic Prediction: Trends, Methods and Challenges.** IEEE Transactions on Knowledge and Data Engineering 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9112608)
+
+*David Alexander Tedjopurnomo, Zhifeng Bao, Baihua Zheng, Farhana Murtaza Choudhury, Kai Qin*
+
+### [GNN](#content)
+
+[1] **GRAPH ATTENTION NETWORKS.** ICLR 2018. [paper](https://arxiv.org/pdf/1710.10903.pdf)
 
 *Petar Veliˇckovi´, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Li`, Yoshua Bengio*
+
+---
+
+[2] **AM-GCN: Adaptive Multi-channel Graph Convolutional Networks. ** KDD 2020. [paper](http://www.shichuan.org/doc/86.pdf)
+
+*Xiao Wang, Meiqi Zhu, Deyu Bo, Peng Cui, Chuan Shi, Jian Pei*
 
 ### [Traffic forecasting](#content)
 
@@ -198,6 +223,24 @@ Graph neural network on traffic forecasting
 
 ---
 
+[10] **Temporal Multi-Graph Convolutional Network for Traffic Flow Prediction.** IEEE Transactions on Intelligent Transportation Systems 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9098104)
+
+*Mingqi Lv , Zhaoxiong Hong, Ling Chen , Tieming Chen, Tiantian Zhu , and Shouling Ji*
+
+---
+
+[11] **Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data.** KDD 2020. [paper](https://arxiv.org/pdf/2006.12715.pdf)
+
+*Rui Dai, Shenkun Xu, Qian Gu, Chenguang Ji, Kaikui Liu*
+
+---
+
+[12] **Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting.** AAAI 2020. [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ChenW.6413.pdf)
+
+*Weiqi Chen, Ling Chen, Yu Xie, Wei Cao, Yusong Gao, Xiaojie Feng*
+
+---
+
 ### [Other method on Traffic forecasting ](#content)
 
 [1] **Urban Traffic Prediction from Spatio-Temporal Data Using Deep Meta Learning.** SIGKDD 2019. [paper](http://urban-computing.com/pdf/kdd_2019_camera_ready_ST_MetaNet.pdf)
@@ -232,7 +275,21 @@ Graph neural network on traffic forecasting
 
 ---
 
-[3] 
+[3] **DeepSTD: Mining Spatio-Temporal Disturbances of Multiple Context Factors for Citywide Traffic Flow Prediction.** IEEE Transactions on Intelligent Transportation Systems 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8793226)
+
+*Chuanpan Zheng, Xiaoliang Fan, Chenglu Wen, Longbiao Chen, Cheng Wang, Jonathan Li*
+
+---
+
+[4] **Dynamic Spatial-Temporal Representation Learning for Traffic Flow Prediction.** IEEE Transactions on Intelligent Transportation Systems 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9127874/)
+
+*Lingbo Liu, Jiajie Zhen, Guanbin Li , Geng Zhan, Zhaocheng He,Bowen Du,Liang Lin*
+
+---
+
+[5] **AutoST: Efficient Neural Architecture Search for Spatio-Temporal Prediction.** KDD 2020. [paper](http://urban-computing.com/pdf/AutoST_kdd20_camera_ready.pdf)
+
+*Ting Li, Junbo Zhang, Kainan Bao, Yuxuan Liang, Yexin Li, Yu Zheng*
 
 ---
 
