@@ -83,7 +83,7 @@ This project is a collection of recent research in areas such as new infrastruct
 
 [2] 智慧足迹: [link](http://www.smartsteps.com/)
 
-[3] BYC OpenData: [link](https://opendata.cityofnewyork.us/)
+[3] NYC OpenData: [link](https://opendata.cityofnewyork.us/)
 
 [4] METR-LA: [link](http://geohub.lacity.org/datasets/traffic-data?geometry=-119.170%2C33.900%2C-117.193%2C34.298), [百度网盘](链接:https://pan.baidu.com/s/1g9yxZMDVf9nI0eN-ixeiPQ) 密码:xsz5
 
