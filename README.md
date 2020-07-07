@@ -127,7 +127,7 @@ This project is a collection of recent research in areas such as new infrastruct
 
 ---
 
-[4] **Deep Learning for Spatio-Temporal Data Mining: A Survey. ** [paper](https://arxiv.org/pdf/1906.04928.pdf)
+[4] **Deep Learning for Spatio-Temporal Data Mining: A Survey.** [paper](https://arxiv.org/pdf/1906.04928.pdf)
 
 *Senzhang Wang, Jiannong Cao, Fellow, Philip S. Yu*
 
@@ -157,7 +157,7 @@ This project is a collection of recent research in areas such as new infrastruct
 
 ---
 
-[2] **AM-GCN: Adaptive Multi-channel Graph Convolutional Networks. ** KDD 2020. [paper](http://www.shichuan.org/doc/86.pdf)
+[2] **AM-GCN: Adaptive Multi-channel Graph Convolutional Networks.** KDD 2020. [paper](http://www.shichuan.org/doc/86.pdf)
 
 *Xiao Wang, Meiqi Zhu, Deyu Bo, Peng Cui, Chuan Shi, Jian Pei*
 
@@ -259,7 +259,7 @@ This project is a collection of recent research in areas such as new infrastruct
 
 ---
 
-[3] **Deep Spatial–Temporal 3D Convolutional Neural Networks for Traffic Data Forecasting. ** EEE Transactions on Intelligent Transportation Systems 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8684259/)
+[3] **Deep Spatial–Temporal 3D Convolutional Neural Networks for Traffic Data Forecasting.** EEE Transactions on Intelligent Transportation Systems 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8684259/)
 
 *Shengnan Guo, Youfang Lin, Shijie Li, Zhaoming Chen, and Huaiyu Wan*
 
@@ -305,7 +305,7 @@ This project is a collection of recent research in areas such as new infrastruct
 
 ---
 
-[2] **Origin-Destination Matrix Prediction via Graph Convolution: a New Perspective of Passenger Demand Modeling. ** SIGKDD 2019. [paper](https://dl.acm.org/doi/abs/10.1145/3292500.3330877)
+[2] **Origin-Destination Matrix Prediction via Graph Convolution: a New Perspective of Passenger Demand Modeling.** SIGKDD 2019. [paper](https://dl.acm.org/doi/abs/10.1145/3292500.3330877)
 
 *Yuandong Wang, Hongzhi Yin, Hongxu Chen, Tianyu Wo, Jie Xu*
 
