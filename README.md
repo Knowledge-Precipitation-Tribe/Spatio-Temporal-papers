@@ -150,6 +150,8 @@ This project is a collection of recent research in areas such as new infrastruct
 
 [6] **How to Build a Graph-Based Deep Learning Architecture in Traffic Domain: A Survey.** [paper](https://arxiv.org/pdf/2005.11691.pdf)
 
+[translation](https://github.com/Knowledge-Precipitation-Tribe/How-to-Build-a-Graph-Based-Deep-Learning-Architecture-in-Traffic-Domain)
+
 *Jiexia Ye, Juanjuan Zhao, Kejiang Ye, Chengzhong Xu*
 
 ---
