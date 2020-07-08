@@ -151,6 +151,8 @@ This project is a collection of recent research in areas such as new infrastruct
 
 ### [GNN](#content)
 
+**[More graph neural network contents](https://docs.gnn.knowledge-precipitation.site/)**
+
 [1] **GRAPH ATTENTION NETWORKS.** ICLR 2018. [paper](https://arxiv.org/pdf/1710.10903.pdf)
 
 *Petar Veliˇckovi´, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Li`, Yoshua Bengio*
