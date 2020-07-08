@@ -313,5 +313,5 @@ This project is a collection of recent research in areas such as new infrastruct
 
 [3] **STG2Seq: Spatial-temporal Graph to Sequence Model for Multi-step Passenger Demand Forecasting.** IJCAI 2019. [paper]()
 
-*Lei Bai1∗ , Lina Yao1 , Salil.S Kanhere1 and Xianzhi Wang2 , Quan.Z Sheng*
+*Lei Bai, Lina Yao , Salil.S Kanhere, Xianzhi Wang, Quan.Z Sheng*
 
