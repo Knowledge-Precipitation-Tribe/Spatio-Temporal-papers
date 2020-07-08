@@ -94,6 +94,8 @@ This project is a collection of recent research in areas such as new infrastruct
 
 [14] JD cloud: [link](https://www.jdcloud.com/cn/city/all)
 
+[15] **Urban Computing Foundation Interactive Landscape: [link](https://landscape.uc.foundation/)**
+
 ## [Dataset](#content)
 
 [1] GAIA Open Dataset: [link](https://outreach.didichuxing.com/research/opendata/)
