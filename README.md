@@ -11,7 +11,6 @@ This project is a collection of recent research in areas such as new infrastruct
 - <a href = "#AI-Lab">AI Lab</a>
 - <a href = "#Dataset">Dataset</a>
 
----
 **Relevant papers**
 - <a href = "#survey">survey</a>
 - <a href = "#GNN">GNN</a>
