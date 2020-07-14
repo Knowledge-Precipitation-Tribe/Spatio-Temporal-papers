@@ -112,9 +112,32 @@ This project is a collection of recent research in areas such as new infrastruct
 
 [7] BikeNYC: [link](https://www.citibikenyc.com/system-data), [百度网盘](https://pan.baidu.com/s/1SdSPWu5c761H3e8XjtzuaA) 密码:lmwj
 
-[8] NYC-Taxi-Bike: [link](https://github.com/tangxianfeng/STDN), [百度网盘](https://pan.baidu.com/s/1W2UV-xiDG_wbM9tuPvfrsA) 密码:022y
+[8] NYC-Taxi: [link](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page), [百度网盘](https://pan.baidu.com/s/1W2UV-xiDG_wbM9tuPvfrsA) 密码:022y
+
+[9] NYC-Bike: [link](https://www.citibikenyc.com/system-data
+https://crawdad.org/)
+
+[10] San Francisco taxi: [link](https://crawdad.org/)
+
+[11] Chicago bike: [link](https://www.divvybikes.com/system-data)
+
+[12] BikeDC: [link](https://www.capitalbikeshare.com/system-data)
+
+
 
 ## Relevant papers
+
+### [summary](#content)
+
+| Reference | year | Directions | Models | Modules |
+| --------- | ---- | ---------- | ------ | ------- |
+| [link]()  |      |            |        |         |
+| [link]()  |      |            |        |         |
+| [link]()  |      |            |        |         |
+| [link]()  |      |            |        |         |
+| [link]()  |      |            |        |         |
+| [link]()  |      |            |        |         |
+|           |      |            |        |         |
 
 ### [survey](#content)
 
