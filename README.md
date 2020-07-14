@@ -141,7 +141,7 @@ https://crawdad.org/)
 
 | Reference                | year       | Directions         | Models | Modules       |
 | ------------------------ | ---------- | ------------------ | ------ | ------------- |
-| <a href = "#one">[1]</a> | 2019 IJCAI | Traffic Prediction | STGCN  | GCN,Gated CNN |
+| <a href = "#oneone">[1.1]</a> | 2019 IJCAI | Traffic Prediction | STGCN  | GCN,Gated CNN |
 | [link]()                 |            |                    |        |               |
 | [link]()                 |            |                    |        |               |
 | [link]()                 |            |                    |        |               |
@@ -217,7 +217,9 @@ https://crawdad.org/)
 
 ### [GNN papers on Traffic forecasting](#content)
 
-<p id="one">[1]</p> **Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting.** IJCAI 2018. [paper](https://arxiv.org/pdf/1709.04875.pdf), [code](https://github.com/ShichengChen/Spatio-Temporal-Graph-Convolutional-Networks-A-Deep-Learning-Framework-for-Traffic-Forecasting).
+<p id="oneone">[1.1]</p> 
+
+**Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting.** IJCAI 2018. [paper](https://arxiv.org/pdf/1709.04875.pdf), [code](https://github.com/ShichengChen/Spatio-Temporal-Graph-Convolutional-Networks-A-Deep-Learning-Framework-for-Traffic-Forecasting).
 
 **[Detailed analysis](https://github.com/Knowledge-Precipitation-Tribe/STGCN-keras/tree/master/ppt)**
 
