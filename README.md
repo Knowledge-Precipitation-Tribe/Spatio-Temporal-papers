@@ -139,15 +139,15 @@ https://crawdad.org/)
 
 ### [summary](#content)
 
-| Reference                | year       | Directions         | Models | Modules       |
-| ------------------------ | ---------- | ------------------ | ------ | ------------- |
-| <a href = "#oneone">[1.1]</a> | 2019 IJCAI | Traffic Prediction | STGCN  | GCN,Gated CNN |
-| <a href = "#onetwo">[1.2]</a> | 2019 AAAI  | Demand Forecasting | ST-MGCN | GCN,CGRNN     |
-| <a href = "#"></a>                 |            |                    |        |               |
-| <a href = "#"></a>                 |            |                    |        |               |
-| <a href = "#"></a>                 |            |                    |        |               |
-| <a href = "#"></a>                 |            |                    |        |               |
-| <a href = "#"></a>                 |            |                    |        |               |
+| Reference                | year       | Directions         | Models | Modules       | Architecture |
+| ------------------------ | ---------- | ------------------ | ------ | ------------- | ------------------------ |
+| <a href = "#oneone">[1.1]</a> | 2019 IJCAI | Traffic Prediction | STGCN  | GCN,Gated CNN | ![STGCN](./img/STGCN.png) |
+| <a href = "#onetwo">[1.2]</a> | 2019 AAAI  | Demand Forecasting | ST-MGCN | GCN,CGRNN     | ![STMGCN](./img/STMGCN.png) |
+| <a href = "#"></a>                 |            |                    |        |               |  |
+| <a href = "#"></a>                 |            |                    |        |               |  |
+| <a href = "#"></a>                 |            |                    |        |               |  |
+| <a href = "#"></a>                 |            |                    |        |               |  |
+| <a href = "#"></a>                 |            |                    |        |               |  |
 
 ### [survey](#content)
 
