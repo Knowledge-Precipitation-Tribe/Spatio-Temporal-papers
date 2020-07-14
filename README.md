@@ -146,8 +146,8 @@ https://crawdad.org/)
 | <a href = "#oneone">[1.1]</a> | 2019 IJCAI | Traffic Prediction | STGCN  | GCN,Gated CNN | ![STGCN](./img/STGCN.png) |
 | <a href = "#onetwo">[1.2]</a> | 2019 AAAI  | Demand Forecasting | STMGCN | GCN,CGRNN     | ![STMGCN](./img/STMGCN.png) |
 | <a href = "#onethree">[1.3]</a>| 2020 AAAI|  Traffic Prediction | SLC| SLCNN, P3D  | ![SLC](./img/SLC.png) |
-| <a href = "#"></a>                 |            |                    |        |               |  |
-| <a href = "#"></a>                 |            |                    |        |               |  |
+| <a href = "#onefour">[1.4]</a> | 2020 AAAI|  Traffic Prediction | GMAN| Encoder-Decoder,ST-Attention | ![GMAN](./img/GMAN.png) |
+| <a href = "#onefive">[1.5]</a> | 2019 IJCAI| Traffic Prediction | GWN| GCN with adaptive Matrix,Gated TCN | ![GWN](./img/GWN.png) |
 | <a href = "#"></a>                 |            |                    |        |               |  |
 | <a href = "#"></a>                 |            |                    |        |               |  |
 
@@ -245,13 +245,17 @@ https://crawdad.org/)
 
 ---
 
-[4] **GMAN: A Graph Multi-Attention Network for Traffic Prediction.** AAAI 2020. [paper](https://arxiv.org/pdf/1911.08415.pdf), [code](https://github.com/zhengchuanpan/GMAN).
+<p id = "onefour">[1.4]</p>
+
+**GMAN: A Graph Multi-Attention Network for Traffic Prediction.** AAAI 2020. [paper](https://arxiv.org/pdf/1911.08415.pdf), [code](https://github.com/zhengchuanpan/GMAN).
 
 *Chuanpan Zheng, Xiaoliang Fan, Cheng Wang, Jianzhong Qi*
 
 ---
 
-[5] **Graph WaveNet for Deep Spatial-Temporal Graph Modeling.** IJCAI 2019. [paper](https://arxiv.org/abs/1906.00121), [code](https://github.com/nnzhan/Graph-WaveNet).
+<p id = "onefive">[1.5]</p>
+
+**Graph WaveNet for Deep Spatial-Temporal Graph Modeling.** IJCAI 2019. [paper](https://arxiv.org/abs/1906.00121), [code](https://github.com/nnzhan/Graph-WaveNet).
 
 *Zonghan Wu, Shirui Pan, Guodong Long, Jing Jiang, Chengqi Zhang*
 
