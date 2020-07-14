@@ -12,6 +12,8 @@ This project is a collection of recent research in areas such as new infrastruct
 - <a href = "#Dataset">Dataset</a>
 
 **Relevant papers**
+
+- <a href = "#summary">summary</a>
 - <a href = "#survey">survey</a>
 - <a href = "#GNN">GNN</a>
 - <a href = "#trafic-forecasting">1. Trafic forecasting</a>
@@ -142,8 +144,8 @@ https://crawdad.org/)
 | Reference                | year       | Directions         | Models | Modules       | Architecture |
 | ------------------------ | ---------- | ------------------ | ------ | ------------- | ------------------------ |
 | <a href = "#oneone">[1.1]</a> | 2019 IJCAI | Traffic Prediction | STGCN  | GCN,Gated CNN | ![STGCN](./img/STGCN.png) |
-| <a href = "#onetwo">[1.2]</a> | 2019 AAAI  | Demand Forecasting | ST-MGCN | GCN,CGRNN     | ![STMGCN](./img/STMGCN.png) |
-| <a href = "#"></a>                 |            |                    |        |               |  |
+| <a href = "#onetwo">[1.2]</a> | 2019 AAAI  | Demand Forecasting | STMGCN | GCN,CGRNN     | ![STMGCN](./img/STMGCN.png) |
+| <a href = "#onethree">[1.3]</a>| 2020 AAAI|  Traffic Prediction | SLC| SLCNN, P3D  | ![SLC](./img/SLC.png) |
 | <a href = "#"></a>                 |            |                    |        |               |  |
 | <a href = "#"></a>                 |            |                    |        |               |  |
 | <a href = "#"></a>                 |            |                    |        |               |  |
@@ -235,7 +237,9 @@ https://crawdad.org/)
 
 ---
 
-[3] **Spatio-Temporal Graph Structure Learning for Traffic Forecasting.** AAAI 2020. [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhangQ.7934.pdf).
+<p id = "onethree">[1.3]</p>
+
+**Spatio-Temporal Graph Structure Learning for Traffic Forecasting.** AAAI 2020. [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhangQ.7934.pdf).
 
 *Qi Zhang, Jianlong Chang, Gaofeng Meng, Shiming Xiang, Chunhong Pan*
 
