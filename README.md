@@ -146,7 +146,7 @@ https://crawdad.org/)
 | <a href = "#oneone">[1.1]</a> | 2019 IJCAI | Traffic Prediction | STGCN  | GCN,Gated CNN | ![STGCN](./img/STGCN.png) |
 | <a href = "#onetwo">[1.2]</a> | 2019 AAAI  | Demand Forecasting | STMGCN | GCN,CGRNN     | ![STMGCN](./img/STMGCN.png) |
 | <a href = "#onethree">[1.3]</a>| 2020 AAAI|  Traffic Prediction | SLC| SLCNN, P3D  | ![SLC](./img/SLC.png) |
-| <a href = "#onefour">[1.4]</a> | 2020 AAAI|  Traffic Prediction | GMAN| Encoder-Decoder,ST-Attention | ![GMAN](./img/GMAN.png) |
+| <a href = "#onefour">[1.4]</a> | 2020 AAAI|  Traffic Prediction | GMAN| Encoder-Decoder,ST-Attention,Transform Attention | ![GMAN](./img/GMAN.png) |
 | <a href = "#onefive">[1.5]</a> | 2019 IJCAI| Traffic Prediction | GWN| GCN with adaptive Matrix,Gated TCN | ![GWN](./img/GWN.png) |
 | <a href = "#"></a>                 |            |                    |        |               |  |
 | <a href = "#"></a>                 |            |                    |        |               |  |
