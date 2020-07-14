@@ -116,8 +116,7 @@ This project is a collection of recent research in areas such as new infrastruct
 
 [8] NYC-Taxi: [link](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page), [百度网盘](https://pan.baidu.com/s/1W2UV-xiDG_wbM9tuPvfrsA) 密码:022y
 
-[9] NYC-Bike: [link](https://www.citibikenyc.com/system-data
-https://crawdad.org/)
+[9] NYC-Bike: [link](https://www.citibikenyc.com/system-data)
 
 [10] San Francisco taxi: [link](https://crawdad.org/)
 
@@ -141,12 +140,12 @@ https://crawdad.org/)
 
 ### [summary](#content)
 
-| Reference                | year       | Directions         | Models | Modules       | Architecture |
+| Reference                | Year       | Directions         | Models | Modules       | Architecture |
 | ------------------------ | ---------- | ------------------ | ------ | ------------- | ------------------------ |
 | <a href = "#oneone">[1.1]</a> | 2019 IJCAI | Traffic Prediction | STGCN  | GCN,Gated CNN | ![STGCN](./img/STGCN.png) |
 | <a href = "#onetwo">[1.2]</a> | 2019 AAAI  | Demand Forecasting | STMGCN | GCN,CGRNN     | ![STMGCN](./img/STMGCN.png) |
 | <a href = "#onethree">[1.3]</a>| 2020 AAAI|  Traffic Prediction | SLC| SLCNN, P3D  | ![SLC](./img/SLC.png) |
-| <a href = "#onefour">[1.4]</a> | 2020 AAAI|  Traffic Prediction | GMAN| Encoder-Decoder,ST-Attention,Transform Attention | ![GMAN](./img/GMAN.png) |
+| <a href = "#onefour">[1.4]</a> | 2020 AAAI|  Traffic Prediction | GMAN| Encoder-Decoder,ST-Attention,Trans Attention | ![GMAN](./img/GMAN.png) |
 | <a href = "#onefive">[1.5]</a> | 2019 IJCAI| Traffic Prediction | GWN| GCN with adaptive Matrix,Gated TCN | ![GWN](./img/GWN.png) |
 | <a href = "#"></a>                 |            |                    |        |               |  |
 | <a href = "#"></a>                 |            |                    |        |               |  |
