@@ -123,7 +123,17 @@ https://crawdad.org/)
 
 [12] BikeDC: [link](https://www.capitalbikeshare.com/system-data)
 
+[13] Weather and events data: [link](https://www.wunderground.com/)
 
+[14] UK traffic flow datasets: [link](https://www.gov.uk/)
+
+[15] Illinois traffic flow datasets: [link](http://www.travelmidwest.com/)
+
+[16] Weather and climate data: [link](https://www.ncdc.noaa.gov/data-access)
+
+[17] NSW POI data: [link](https://sdi.nsw.gov.au/catalog/search/resource/details.page?uuid=%7BC41F6FE5-1C56-4556-%209EC6-EC9BD7094BBB%7D)
+
+[18] Road network data: [link](http://networkrepository.com/road.php)
 
 ## Relevant papers
 
