@@ -11,7 +11,13 @@ This project is a collection of recent research in areas such as new infrastruct
 - <a href = "#AI-Lab">AI Lab</a>
 - <a href = "#Dataset">Dataset</a>
 
-**Relevant papers**
+### **method summary**
+
+- <a href = "#Spatial-dependence-modeling">Spatial dependence modeling</a>
+- <a href = "#temporal-dependence-modeling">temporal dependence modeling</a>
+- <a href = "#External-factors">External factors</a>
+
+### **Relevant papers**
 
 - <a href = "#summary">summary</a>
 - <a href = "#survey">survey</a>
@@ -136,6 +142,44 @@ This project is a collection of recent research in areas such as new infrastruct
 
 [18] Road network data: [link](http://networkrepository.com/road.php)
 
+
+## [method summary](#content)
+
+### [Spatial dependence modeling](#content)
+
+
+
+| Rederence | Modules | description | Architecture |
+| --------- | ------- | ----------- | ------------ |
+|           |         |             |              |
+|           |         |             |              |
+|           |         |             |              |
+|           |         |             |              |
+
+
+
+### [temporal dependence modeling](#content)
+
+
+
+| Rederence | Modules | description | Architecture |
+| --------- | ------- | ----------- | ------------ |
+|           |         |             |              |
+|           |         |             |              |
+|           |         |             |              |
+|           |         |             |              |
+
+### [External factors](#content)
+
+
+
+| Rederence | Modules | description | Architecture |
+| --------- | ------- | ----------- | ------------ |
+|           |         |             |              |
+|           |         |             |              |
+|           |         |             |              |
+|           |         |             |              |
+
 ## Relevant papers
 
 ### [summary](#content)
@@ -149,6 +193,7 @@ This project is a collection of recent research in areas such as new infrastruct
 | <a href = "#onefive">[1.5]</a> | 2019 IJCAI| Traffic Prediction | GWN| GCN with adaptive Matrix,Gated TCN | ![GWN](./img/GWN.png) |
 | <a href = "#"></a>                 |            |                    |        |               |  |
 | <a href = "#"></a>                 |            |                    |        |               |  |
+
 
 ### [survey](#content)
 
