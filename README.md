@@ -14,14 +14,14 @@ This project is a collection of recent research in areas such as new infrastruct
 ### **method summary**
 
 - <a href = "#Spatial-dependence-modeling">Spatial dependence modeling</a>
-- <a href = "#temporal-dependence-modeling">temporal dependence modeling</a>
+- <a href = "#Temporal-dependence-modeling">Temporal dependence modeling</a>
 - <a href = "#External-factors">External factors</a>
 - <a href = "#Tricks">Tricks</a>
 
 ### **Relevant papers**
 
-- <a href = "#summary">summary</a>
-- <a href = "#survey">survey</a>
+- <a href = "#Summary">Summary</a>
+- <a href = "#Survey">Survey</a>
 - <a href = "#GNN">GNN</a>
 - <a href = "#trafic-forecasting">1. Trafic forecasting</a>
   - <a href = "#gnn-papers-on-traffic-forecasting">1.1 GNN methods on Traffic forecasting</a>
@@ -153,13 +153,13 @@ This project is a collection of recent research in areas such as new infrastruct
 | Reference                       | Modules | description                                                  | Architecture                            |
 | ------------------------------- | ------- | ------------------------------------------------------------ | --------------------------------------- |
 | <a href = "#threeone">[3.1]</a> | CNN     | First convert the city into grid-shaped data, and then use CNN to capture spatial dependencies. Expand the size of the receptive field by stacking convolutional layers. | ![STResnet](./img/spatial/STResnet.png) |
-|                                 |         |                                                              |                                         |
+| <a href = "#threeone">[3.1]</a> | GCN     | The traffic network generally organizes as a graph structure. It is natural and reasonable to formulate road networks as graphs mathematically. The graph convolution is employed directly on graph-structured data to extract highly meaningful patterns and features in the space domain. | ![GCN](./img/spatial/GCN.png)           |
 |                                 |         |                                                              |                                         |
 |                                 |         |                                                              |                                         |
 
 
 
-### [temporal dependence modeling](#content)
+### [Temporal dependence modeling](#content)
 
 
 
@@ -167,19 +167,19 @@ This project is a collection of recent research in areas such as new infrastruct
 | ------------------------------ | -------------------------- | ------------------------------------------------------------ | -------------------------------------------------- |
 | <a href = "#oneone">[1.1]</a>  | causal convolution         | Based on the past observation data, predict the possible future value $y$. Consider the sequence of time during the convolution process. If you want to model a long time sequence, you need to stack more convolutional layers. | ![causal](./img/temporal/causal.png)               |
 | <a href = "#onefive">[1.5]</a> | dilated casual convolution | In order to solve the problems such as the disappearance of gradients, the explosion of gradients, and the difficulty of model training in long-term sequences caused by causal convolution. The time dependence can be modeled using dilated causal convolution. Dilated convolution achieves a larger receptive field with fewer convolutional layers by skipping part of the input. | ![dilatedCasual](./img/temporal/dilatedCasual.png) |
-|                                |                            |                                                              |                                                    |
+| <a href = "#twotwo">[2.2]</a>  | LSTM                       | Use Long Short-Term Memory (LSTM) network to capture the temporal sequential dependency, which is proposed to address the exploding and vanishing gradient issue of traditional Recurrent Neural Network (RNN). | ![dilatedCasual](./img/temporal/STDN.png)          |
 |                                |                            |                                                              |                                                    |
 
 ### [External factors](#content)
 
 
 
-| Reference                       | Modules            | description                                                  | Architecture                             |
-| ------------------------------- | ------------------ | ------------------------------------------------------------ | ---------------------------------------- |
-| <a href = "#threeone">[3.1]</a> | External Component | Mainly consider weather, holiday event, and metadata (i.e. DayOfWeek, Weekday/Weekend). To predict flows at time interval $t$,the holiday event and metadata can be directly obtained. The weather  can use the forecasting weather at time interval $t$ or the approximate weather at time interval $t−1$. | ![STResnet](./img/external/STResnet.png) |
-|                                 |                    |                                                              |                                          |
-|                                 |                    |                                                              |                                          |
-|                                 |                    |                                                              |                                          |
+| Reference                       | Modules                | description                                                  | Architecture                             |
+| ------------------------------- | ---------------------- | ------------------------------------------------------------ | ---------------------------------------- |
+| <a href = "#threeone">[3.1]</a> | External Component     | Mainly consider weather, holiday event, and metadata (i.e. DayOfWeek, Weekday/Weekend). To predict flows at time interval $t$,the holiday event and metadata can be directly obtained. The weather  can use the forecasting weather at time interval $t$ or the approximate weather at time interval $t−1$. | ![STResnet](./img/external/STResnet.png) |
+| <a href = "#twofour">[2.4]</a>  | External Factor Fusion | First incorporate the temporal factors including time features, meteorological features, and SensorID which specifies the target sensor. weather  can use the forecasting weather at time interval $t$. Most of these factors are categorical which cannot be fed to neural networks directly, we transform each categorical attribute into a low- dimensional vector by feeding them into different embedding layers separately. | ![GeoMAN](./img/external/GeoMAN.png)     |
+|                                 |                        |                                                              |                                          |
+|                                 |                        |                                                              |                                          |
 
 ### [Tricks](#content)
 
@@ -192,7 +192,7 @@ This project is a collection of recent research in areas such as new infrastruct
 
 ## Relevant papers
 
-### [summary](#content)
+### [Summary](#content)
 
 | Reference                | Year       | Directions         | Models | Modules       | Architecture |
 | ------------------------ | ---------- | ------------------ | ------ | ------------- | ------------------------ |
@@ -205,7 +205,7 @@ This project is a collection of recent research in areas such as new infrastruct
 | <a href = "#"></a>                 |            |                    |        |               |  |
 
 
-### [survey](#content)
+### [Survey](#content)
 
 [1] **Urban Computing: Concepts, Methodologies, and Applications.** TIST 2014. [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/UrbanComputing-zheng-tist2014.pdf)
 
@@ -367,15 +367,27 @@ This project is a collection of recent research in areas such as new infrastruct
 
 ---
 
-[2] **Revisiting Spatial-Temporal Similarity: A Deep Learning Framework for Traffic Prediction.** AAAI 2019. [paper](https://arxiv.org/pdf/1803.01254.pdf)
+<p id = "twotwo">[2.2]</p>
+
+**Revisiting Spatial-Temporal Similarity: A Deep Learning Framework for Traffic Prediction.** AAAI 2019. [paper](https://arxiv.org/pdf/1803.01254.pdf)
 
 *Huaxiu Yao*, Xianfeng Tang, Hua Wei, Guanjie Zheng, Zhenhui Li*
 
 ---
 
-[3] **Deep Spatial–Temporal 3D Convolutional Neural Networks for Traffic Data Forecasting.** EEE Transactions on Intelligent Transportation Systems 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8684259/)
+<p id = "twothree">[2.3]</p>
+
+**Deep Spatial–Temporal 3D Convolutional Neural Networks for Traffic Data Forecasting.** IEEE Transactions on Intelligent Transportation Systems 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8684259/)
 
 *Shengnan Guo, Youfang Lin, Shijie Li, Zhaoming Chen, and Huaiyu Wan*
+
+---
+
+<p id = "twofour">[2.4]</p>
+
+**GeoMAN: Multi-level Attention Networks for Geo-sensory Time Series Prediction** IJCAI 2018. [paper](https://www.ijcai.org/Proceedings/2018/0476.pdf), [code](https://github.com/yoshall/GeoMAN)
+
+*Yuxuan Liang, Songyu Ke, Junbo Zhang, Xiuwen Yi, Yu Zheng*
 
 ---
 
