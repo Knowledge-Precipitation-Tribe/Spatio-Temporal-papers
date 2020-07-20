@@ -333,7 +333,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 ---
 
-[6] **Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting.** AAAI 2020. [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-SongC.8074.pdf), [code](https://github.com/Davidham3/STSGCN).
+<p id = "onesix">[1.6]</p>
+
+**Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting.** AAAI 2020. [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-SongC.8074.pdf), [code](https://github.com/Davidham3/STSGCN).
 
 | Models | Modules | Architecture |
 | ------ | ------- | ------------ |
@@ -345,7 +347,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 ---
 
-[7] **DIFFUSION CONVOLUTIONAL RECURRENT NEURAL NETWORK: DATA-DRIVEN TRAFFIC FORECASTING.** ICLR 2018. [paper](https://arxiv.org/abs/1707.01926).
+<p id = "oneseven">[1.7]</p> 
+
+**DIFFUSION CONVOLUTIONAL RECURRENT NEURAL NETWORK: DATA-DRIVEN TRAFFIC FORECASTING.** ICLR 2018. [paper](https://arxiv.org/abs/1707.01926).
 
 | Models | Modules | Architecture |
 | ------ | ------- | ------------ |
@@ -357,7 +361,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 ---
 
-[8] **Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting.** AAAI 2019. [paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/3881) [code](https://github.com/Davidham3/ASTGCN).
+<p id = "oneeight">[1.8]</p> 
+
+**Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting.** AAAI 2019. [paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/3881) [code](https://github.com/Davidham3/ASTGCN).
 
 | Models | Modules | Architecture |
 | ------ | ------- | ------------ |
@@ -369,7 +375,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 ---
 
-[9] **STGRAT: A Spatio-Temporal Graph Attention Network for Traffic Forecasting.** [paper](http://arxiv-export-lb.library.cornell.edu/pdf/1911.13181)
+<p id = "onenine">[1.9]</p> 
+
+**STGRAT: A Spatio-Temporal Graph Attention Network for Traffic Forecasting.** [paper](http://arxiv-export-lb.library.cornell.edu/pdf/1911.13181)
 
 | Models | Modules | Architecture |
 | ------ | ------- | ------------ |
@@ -381,7 +389,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 ---
 
-[10] **Temporal Multi-Graph Convolutional Network for Traffic Flow Prediction.** IEEE Transactions on Intelligent Transportation Systems 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9098104)
+<p id = "oneten">[1.10]</p> 
+
+**Temporal Multi-Graph Convolutional Network for Traffic Flow Prediction.** IEEE Transactions on Intelligent Transportation Systems 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9098104)
 
 | Models | Modules | Architecture |
 | ------ | ------- | ------------ |
@@ -393,7 +403,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 ---
 
-[11] **Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data.** KDD 2020. [paper](https://arxiv.org/pdf/2006.12715.pdf)
+<p id = "oneoneone">[1.11]</p> 
+
+**Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data.** KDD 2020. [paper](https://arxiv.org/pdf/2006.12715.pdf)
 
 | Models | Modules | Architecture |
 | ------ | ------- | ------------ |
@@ -405,7 +417,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 ---
 
-[12] **Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting.** AAAI 2020. [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ChenW.6413.pdf)
+<p id = "oneonetwo">[1.12]</p> 
+
+**Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting.** AAAI 2020. [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ChenW.6413.pdf)
 
 | Models | Modules | Architecture |
 | ------ | ------- | ------------ |
@@ -423,6 +437,12 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **Urban Traffic Prediction from Spatio-Temporal Data Using Deep Meta Learning.** SIGKDD 2019. [paper](http://urban-computing.com/pdf/kdd_2019_camera_ready_ST_MetaNet.pdf)
 
+| Models | Modules | Architecture |
+| ------ | ------- | ------------ |
+|        |         |              |
+
+
+
 *Zheyi Pan , Yuxuan Liang , Weifeng Wang, Yong Yu, Yu Zheng, Junbo Zhang*
 
 ---
@@ -431,6 +451,12 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **Revisiting Spatial-Temporal Similarity: A Deep Learning Framework for Traffic Prediction.** AAAI 2019. [paper](https://arxiv.org/pdf/1803.01254.pdf)
 
+| Models | Modules | Architecture |
+| ------ | ------- | ------------ |
+|        |         |              |
+
+
+
 *Huaxiu Yao*, Xianfeng Tang, Hua Wei, Guanjie Zheng, Zhenhui Li*
 
 ---
@@ -438,6 +464,12 @@ This project is a collection of recent research in areas such as new infrastruct
 <p id = "twothree">[2.3]</p>
 
 **Deep Spatial–Temporal 3D Convolutional Neural Networks for Traffic Data Forecasting.** IEEE Transactions on Intelligent Transportation Systems 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8684259/)
+
+| Models | Modules | Architecture |
+| ------ | ------- | ------------ |
+|        |         |              |
+
+
 
 *Shengnan Guo, Youfang Lin, Shijie Li, Zhaoming Chen, and Huaiyu Wan*
 
@@ -457,29 +489,67 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction.** AAAI 2017. [paper](https://arxiv.org/pdf/1610.00081.pdf)
 
+| Models | Modules | Architecture |
+| ------ | ------- | ------------ |
+|        |         |              |
+
+
+
 *Junbo Zhang, Yu Zheng, Dekang Qi*
 
 ---
 
-[2] **UrbanFM: Inferring Fine-Grained Urban Flows.** SIGKDD 2019. [paper](https://arxiv.org/pdf/1902.05377.pdf)
+<p id = "threetwo">[3.2]</p>  
+
+**UrbanFM: Inferring Fine-Grained Urban Flows.** SIGKDD 2019. [paper](https://arxiv.org/pdf/1902.05377.pdf)
+
+| Models | Modules | Architecture |
+| ------ | ------- | ------------ |
+|        |         |              |
+
+
 
 *Yuxuan Liang, Kun Ouyang, Lin Jing, Sijie Ruan, Ye Liu1 Junbo Zhang, David S. Rosenblum, Yu Zheng*
 
 ---
 
-[3] **DeepSTD: Mining Spatio-Temporal Disturbances of Multiple Context Factors for Citywide Traffic Flow Prediction.** IEEE Transactions on Intelligent Transportation Systems 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8793226)
+<p id = "threethree">[3.3]</p>  
+
+**DeepSTD: Mining Spatio-Temporal Disturbances of Multiple Context Factors for Citywide Traffic Flow Prediction.** IEEE Transactions on Intelligent Transportation Systems 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8793226)
+
+| Models | Modules | Architecture |
+| ------ | ------- | ------------ |
+|        |         |              |
+
+
 
 *Chuanpan Zheng, Xiaoliang Fan, Chenglu Wen, Longbiao Chen, Cheng Wang, Jonathan Li*
 
 ---
 
-[4] **Dynamic Spatial-Temporal Representation Learning for Traffic Flow Prediction.** IEEE Transactions on Intelligent Transportation Systems 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9127874/)
+<p id = "threefour">[3.4]</p>  
+
+**Dynamic Spatial-Temporal Representation Learning for Traffic Flow Prediction.** IEEE Transactions on Intelligent Transportation Systems 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9127874/)
+
+| Models | Modules | Architecture |
+| ------ | ------- | ------------ |
+|        |         |              |
+
+
 
 *Lingbo Liu, Jiajie Zhen, Guanbin Li , Geng Zhan, Zhaocheng He,Bowen Du,Liang Lin*
 
 ---
 
-[5] **AutoST: Efficient Neural Architecture Search for Spatio-Temporal Prediction.** KDD 2020. [paper](http://urban-computing.com/pdf/AutoST_kdd20_camera_ready.pdf)
+<p id = "threefive">[3.5]</p>  
+
+**AutoST: Efficient Neural Architecture Search for Spatio-Temporal Prediction.** KDD 2020. [paper](http://urban-computing.com/pdf/AutoST_kdd20_camera_ready.pdf)
+
+| Models | Modules | Architecture |
+| ------ | ------- | ------------ |
+|        |         |              |
+
+
 
 *Ting Li, Junbo Zhang, Kainan Bao, Yuxuan Liang, Yexin Li, Yu Zheng*
 
@@ -491,17 +561,39 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **Deep Multi-View Spatial-Temporal Network for Taxi Demand Prediction.** AAAI 2018. [paper](https://arxiv.org/pdf/1802.08714.pdf)
 
+| Models | Modules | Architecture |
+| ------ | ------- | ------------ |
+|        |         |              |
+
+
+
 *Huaxiu Yao, Fei Wu, Jintao Ke, Xianfeng Tang, Yitian Jia, Siyu Lu, Pinghua Gong, Jieping Ye, Zhenhui Li*
 
 ---
 
-[2] **Origin-Destination Matrix Prediction via Graph Convolution: a New Perspective of Passenger Demand Modeling.** SIGKDD 2019. [paper](https://dl.acm.org/doi/abs/10.1145/3292500.3330877)
+<p id = "fourtwo">[4.2]</p>  
+
+**Origin-Destination Matrix Prediction via Graph Convolution: a New Perspective of Passenger Demand Modeling.** SIGKDD 2019. [paper](https://dl.acm.org/doi/abs/10.1145/3292500.3330877)
+
+| Models | Modules | Architecture |
+| ------ | ------- | ------------ |
+|        |         |              |
+
+
 
 *Yuandong Wang, Hongzhi Yin, Hongxu Chen, Tianyu Wo, Jie Xu*
 
 ---
 
-[3] **STG2Seq: Spatial-temporal Graph to Sequence Model for Multi-step Passenger Demand Forecasting.** IJCAI 2019. [paper]()
+<p id = "fourthree">[4.3]</p>  
+
+**STG2Seq: Spatial-temporal Graph to Sequence Model for Multi-step Passenger Demand Forecasting.** IJCAI 2019. [paper]()
+
+| Models | Modules | Architecture |
+| ------ | ------- | ------------ |
+|        |         |              |
+
+
 
 *Lei Bai, Lina Yao , Salil.S Kanhere, Xianzhi Wang, Quan.Z Sheng*
 
