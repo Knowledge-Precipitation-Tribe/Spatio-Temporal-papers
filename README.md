@@ -149,7 +149,7 @@ This project is a collection of recent research in areas such as new infrastruct
 
 
 
-| Rederence | Modules | description | Architecture |
+| Reference | Modules | description | Architecture |
 | --------- | ------- | ----------- | ------------ |
 |           |         |             |              |
 |           |         |             |              |
@@ -162,7 +162,7 @@ This project is a collection of recent research in areas such as new infrastruct
 
 
 
-| Rederence | Modules | description | Architecture |
+| Reference | Modules | description | Architecture |
 | --------- | ------- | ----------- | ------------ |
 |           |         |             |              |
 |           |         |             |              |
@@ -173,12 +173,12 @@ This project is a collection of recent research in areas such as new infrastruct
 
 
 
-| Rederence | Modules | description | Architecture |
-| --------- | ------- | ----------- | ------------ |
-|           |         |             |              |
-|           |         |             |              |
-|           |         |             |              |
-|           |         |             |              |
+| Reference                       | Modules            | description                                                  | Architecture                             |
+| ------------------------------- | ------------------ | ------------------------------------------------------------ | ---------------------------------------- |
+| <a href = "#threeone">[3.1]</a> | External Component | Mainly consider weather, holiday event, and metadata (i.e. DayOfWeek, Weekday/Weekend). To predict flows at time interval $t$,the holiday event and metadata can be directly obtained. The weather  can use the forecasting weather at time interval $t$ or the approximate weather at time interval $t−1$. | ![STResnet](./img/external/STResnet.png) |
+|                                 |                    |                                                              |                                          |
+|                                 |                    |                                                              |                                          |
+|                                 |                    |                                                              |                                          |
 
 ## Relevant papers
 
@@ -349,7 +349,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 ### [Other method on Traffic forecasting ](#content)
 
-[1] **Urban Traffic Prediction from Spatio-Temporal Data Using Deep Meta Learning.** SIGKDD 2019. [paper](http://urban-computing.com/pdf/kdd_2019_camera_ready_ST_MetaNet.pdf)
+<p id = "twoone">[2.1]</p>
+
+**Urban Traffic Prediction from Spatio-Temporal Data Using Deep Meta Learning.** SIGKDD 2019. [paper](http://urban-computing.com/pdf/kdd_2019_camera_ready_ST_MetaNet.pdf)
 
 *Zheyi Pan , Yuxuan Liang , Weifeng Wang, Yong Yu, Yu Zheng, Junbo Zhang*
 
@@ -369,7 +371,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 ### [Flows Prediction](#content)
 
-[1] **Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction.** AAAI 2017. [paper](https://arxiv.org/pdf/1610.00081.pdf)
+<p id = "threeone">[3.1]</p> 
+
+**Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction.** AAAI 2017. [paper](https://arxiv.org/pdf/1610.00081.pdf)
 
 *Junbo Zhang, Yu Zheng, Dekang Qi*
 
@@ -401,7 +405,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 ### [Demand Prediction](#content)
 
-[1] **Deep Multi-View Spatial-Temporal Network for Taxi Demand Prediction.** AAAI 2018. [paper](https://arxiv.org/pdf/1802.08714.pdf)
+<p id = "fourone">[4.1]</p> 
+
+**Deep Multi-View Spatial-Temporal Network for Taxi Demand Prediction.** AAAI 2018. [paper](https://arxiv.org/pdf/1802.08714.pdf)
 
 *Huaxiu Yao, Fei Wu, Jintao Ke, Xianfeng Tang, Yitian Jia, Siyu Lu, Pinghua Gong, Jieping Ye, Zhenhui Li*
 
