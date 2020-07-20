@@ -7,11 +7,11 @@ This project is a collection of recent research in areas such as new infrastruct
 
 - <a href = "#新基建">新基建</a>
 - <a href = "#白皮书">白皮书</a>
-- <a href = "#expert">expert</a>
+- <a href = "#Expert">Expert</a>
 - <a href = "#AI-Lab">AI Lab</a>
 - <a href = "#Dataset">Dataset</a>
 
-### **method summary**
+### **Method summary**
 
 - <a href = "#Spatial-dependence-modeling">Spatial dependence modeling</a>
 - <a href = "#Temporal-dependence-modeling">Temporal dependence modeling</a>
@@ -20,7 +20,6 @@ This project is a collection of recent research in areas such as new infrastruct
 
 ### **Relevant papers**
 
-- <a href = "#Summary">Summary</a>
 - <a href = "#Survey">Survey</a>
 - <a href = "#GNN">GNN</a>
 - <a href = "#trafic-forecasting">1. Trafic forecasting</a>
@@ -55,7 +54,7 @@ This project is a collection of recent research in areas such as new infrastruct
 
 [8] [新基建，新机遇：中国智能经济发展白皮书](https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/blob/master/pdf/%E6%96%B0%E5%9F%BA%E5%BB%BA%EF%BC%8C%E6%96%B0%E6%9C%BA%E9%81%87%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%99%BA%E8%83%BD%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E7%99%BD%E7%9A%AE%E4%B9%A6%20(%E7%B2%BE%E5%8D%8E%E7%89%88).pdf)
 
-## [expert](#content)
+## [Expert](#content)
 
 [1] Yu Zheng: [link](http://urban-computing.com/yuzheng)
 
@@ -144,7 +143,7 @@ This project is a collection of recent research in areas such as new infrastruct
 [18] Road network data: [link](http://networkrepository.com/road.php)
 
 
-## [method summary](#content)
+## [Method summary](#content)
 
 ### [Spatial dependence modeling](#content)
 
@@ -191,19 +190,6 @@ This project is a collection of recent research in areas such as new infrastruct
 |                                 |                     |                                                              |                                      |
 
 ## Relevant papers
-
-### [Summary](#content)
-
-| Reference                | Year       | Directions         | Models | Modules       | Architecture |
-| ------------------------ | ---------- | ------------------ | ------ | ------------- | ------------------------ |
-| <a href = "#oneone">[1.1]</a> | 2019 IJCAI | Traffic Prediction | STGCN  | GCN,Gated CNN | ![STGCN](./img/STGCN.png) |
-| <a href = "#onetwo">[1.2]</a> | 2019 AAAI  | Demand Forecasting | STMGCN | GCN,CGRNN     | ![STMGCN](./img/STMGCN.png) |
-| <a href = "#onethree">[1.3]</a>| 2020 AAAI|  Traffic Prediction | SLC| SLCNN, P3D  | ![SLC](./img/SLC.png) |
-| <a href = "#onefour">[1.4]</a> | 2020 AAAI|  Traffic Prediction | GMAN| Encoder-Decoder,ST-Attention,Trans Attention | ![GMAN](./img/GMAN.png) |
-| <a href = "#onefive">[1.5]</a> | 2019 IJCAI| Traffic Prediction | GWN| GCN with adaptive Matrix,Gated TCN | ![GWN](./img/GWN.png) |
-| <a href = "#"></a>                 |            |                    |        |               |  |
-| <a href = "#"></a>                 |            |                    |        |               |  |
-
 
 ### [Survey](#content)
 
@@ -277,6 +263,12 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting.** IJCAI 2018. [paper](https://arxiv.org/pdf/1709.04875.pdf), [code](https://github.com/ShichengChen/Spatio-Temporal-Graph-Convolutional-Networks-A-Deep-Learning-Framework-for-Traffic-Forecasting).
 
+| Models | Modules       | Architecture              |
+| ------ | ------------- | ------------------------- |
+| STGCN  | GCN,Gated CNN | ![STGCN](./img/STGCN.png) |
+
+
+
 **[Detailed analysis](https://github.com/Knowledge-Precipitation-Tribe/STGCN-keras/tree/master/ppt)**
 
 *Bing Yu, Haoteng Yin, Zhanxing Zhu*
@@ -287,6 +279,14 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **Spatiotemporal Multi-Graph Convolution Network for Ride-hailing Demand Forecasting.** AAAI 2019. [paper](http://www-scf.usc.edu/~yaguang/papers/aaai19_multi_graph_convolution.pdf).
 
+| Models | Modules   | Architecture                |
+| ------ | --------- | --------------------------- |
+| STMGCN | GCN,CGRNN | ![STMGCN](./img/STMGCN.png) |
+
+
+
+
+
 *Xu Geng, Yaguang Li, Leye Wang, Lingyu Zhang, Qiang Yang, Jieping Ye, Yan Liu*
 
 ---
@@ -294,6 +294,12 @@ This project is a collection of recent research in areas such as new infrastruct
 <p id = "onethree">[1.3]</p>
 
 **Spatio-Temporal Graph Structure Learning for Traffic Forecasting.** AAAI 2020. [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhangQ.7934.pdf).
+
+| Models | Modules    | Architecture          |
+| ------ | ---------- | --------------------- |
+| SLC    | SLCNN, P3D | ![SLC](./img/SLC.png) |
+
+
 
 *Qi Zhang, Jianlong Chang, Gaofeng Meng, Shiming Xiang, Chunhong Pan*
 
@@ -303,6 +309,12 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **GMAN: A Graph Multi-Attention Network for Traffic Prediction.** AAAI 2020. [paper](https://arxiv.org/pdf/1911.08415.pdf), [code](https://github.com/zhengchuanpan/GMAN).
 
+| Models | Modules                                      | Architecture            |
+| ------ | -------------------------------------------- | ----------------------- |
+| GMAN   | Encoder-Decoder,ST-Attention,Trans Attention | ![GMAN](./img/GMAN.png) |
+
+
+
 *Chuanpan Zheng, Xiaoliang Fan, Cheng Wang, Jianzhong Qi*
 
 ---
@@ -311,11 +323,23 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **Graph WaveNet for Deep Spatial-Temporal Graph Modeling.** IJCAI 2019. [paper](https://arxiv.org/abs/1906.00121), [code](https://github.com/nnzhan/Graph-WaveNet).
 
+| Models | Modules                            | Architecture          |
+| ------ | ---------------------------------- | --------------------- |
+| GWN    | GCN with adaptive Matrix,Gated TCN | ![GWN](./img/GWN.png) |
+
+
+
 *Zonghan Wu, Shirui Pan, Guodong Long, Jing Jiang, Chengqi Zhang*
 
 ---
 
 [6] **Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting.** AAAI 2020. [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-SongC.8074.pdf), [code](https://github.com/Davidham3/STSGCN).
+
+| Models | Modules | Architecture |
+| ------ | ------- | ------------ |
+|        |         |              |
+
+
 
 *Chao Song, Youfang Lin, Shengnan Guo, Huaiyu Wan*
 
@@ -323,11 +347,23 @@ This project is a collection of recent research in areas such as new infrastruct
 
 [7] **DIFFUSION CONVOLUTIONAL RECURRENT NEURAL NETWORK: DATA-DRIVEN TRAFFIC FORECASTING.** ICLR 2018. [paper](https://arxiv.org/abs/1707.01926).
 
+| Models | Modules | Architecture |
+| ------ | ------- | ------------ |
+|        |         |              |
+
+
+
 *Yaguang Li, Rose Yu, Cyrus Shahabi, Yan Liu*
 
 ---
 
 [8] **Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting.** AAAI 2019. [paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/3881) [code](https://github.com/Davidham3/ASTGCN).
+
+| Models | Modules | Architecture |
+| ------ | ------- | ------------ |
+|        |         |              |
+
+
 
 *Shengnan Guo, Youfang Lin, Ning Feng, Chao Song, Huaiyu Wan*
 
@@ -335,11 +371,23 @@ This project is a collection of recent research in areas such as new infrastruct
 
 [9] **STGRAT: A Spatio-Temporal Graph Attention Network for Traffic Forecasting.** [paper](http://arxiv-export-lb.library.cornell.edu/pdf/1911.13181)
 
+| Models | Modules | Architecture |
+| ------ | ------- | ------------ |
+|        |         |              |
+
+
+
 *Cheonbok Park , Chunggi Lee , Hyojin Bahng, Taeyun won*
 
 ---
 
 [10] **Temporal Multi-Graph Convolutional Network for Traffic Flow Prediction.** IEEE Transactions on Intelligent Transportation Systems 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9098104)
+
+| Models | Modules | Architecture |
+| ------ | ------- | ------------ |
+|        |         |              |
+
+
 
 *Mingqi Lv , Zhaoxiong Hong, Ling Chen , Tieming Chen, Tiantian Zhu , and Shouling Ji*
 
@@ -347,11 +395,23 @@ This project is a collection of recent research in areas such as new infrastruct
 
 [11] **Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data.** KDD 2020. [paper](https://arxiv.org/pdf/2006.12715.pdf)
 
+| Models | Modules | Architecture |
+| ------ | ------- | ------------ |
+|        |         |              |
+
+
+
 *Rui Dai, Shenkun Xu, Qian Gu, Chenguang Ji, Kaikui Liu*
 
 ---
 
 [12] **Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting.** AAAI 2020. [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ChenW.6413.pdf)
+
+| Models | Modules | Architecture |
+| ------ | ------- | ------------ |
+|        |         |              |
+
+
 
 *Weiqi Chen, Ling Chen, Yu Xie, Wei Cao, Yusong Gao, Xiaojie Feng*
 
