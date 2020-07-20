@@ -263,9 +263,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting.** IJCAI 2018. [paper](https://arxiv.org/pdf/1709.04875.pdf), [code](https://github.com/ShichengChen/Spatio-Temporal-Graph-Convolutional-Networks-A-Deep-Learning-Framework-for-Traffic-Forecasting).
 
-| Models |    Modules    |       Architecture        | conclusion |
-| :----- | :-----------: | :-----------------------: | :--------: |
-| STGCN  | GCN,Gated CNN | ![STGCN](./img/STGCN.png) |            |
+| Models |    Modules    |       Architecture        |                          conclusion                          |
+| :----- | :-----------: | :-----------------------: | :----------------------------------------------------------: |
+| STGCN  | GCN,Gated CNN | ![STGCN](./img/STGCN.png) | 本篇论文采用GCN对空间依赖性建模，时间依赖性建模使用因果卷积，而且采用了门控机制GLU。在结构上使用瓶颈策略实现特征压缩。这篇论文也是GCN在交通领域的首次应用。 |
 
 
 
@@ -295,9 +295,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **Spatio-Temporal Graph Structure Learning for Traffic Forecasting.** AAAI 2020. [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhangQ.7934.pdf).
 
-| Models |  Modules   |     Architecture      | conclusion |
-| :----: | :--------: | :-------------------: | :--------: |
-|  SLC   | SLCNN, P3D | ![SLC](./img/SLC.png) |            |
+| Models |  Modules   |     Architecture      |                          conclusion                          |
+| :----: | :--------: | :-------------------: | :----------------------------------------------------------: |
+|  SLC   | SLCNN, P3D | ![SLC](./img/SLC.png) | 本篇论文提出新型的图卷积公式，文章提到**不仅要学习图上的特征信息，也要学习图的结构信息**，也就意味着图的结构是动态变化的。采用P3D对时间依赖性进行建模。 |
 
 
 
@@ -323,9 +323,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **Graph WaveNet for Deep Spatial-Temporal Graph Modeling.** IJCAI 2019. [paper](https://arxiv.org/abs/1906.00121), [code](https://github.com/nnzhan/Graph-WaveNet).
 
-| Models |              Modules               |     Architecture      | conclusion |
-| :----: | :--------------------------------: | :-------------------: | :--------: |
-|  GWN   | GCN with adaptive Matrix,Gated TCN | ![GWN](./img/GWN.png) |            |
+| Models |              Modules               |     Architecture      |                          conclusion                          |
+| :----: | :--------------------------------: | :-------------------: | :----------------------------------------------------------: |
+|  GWN   | GCN with adaptive Matrix,Gated TCN | ![GWN](./img/GWN.png) | 本篇论文在DCRNN的基础上提出了带有自适应邻接矩阵的扩散卷积公式，在训练的过程中也强调图的结构是动态变化的，论文采用两个嵌入向量来动态学习图结构。采用扩散因果卷积来对时间依赖性进行建模。模型整体结构与WaveNet类似。 |
 
 
 
@@ -337,9 +337,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting.** AAAI 2020. [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-SongC.8074.pdf), [code](https://github.com/Davidham3/STSGCN).
 
-| Models |               Modules               |        Architecture         | conclusion |
-| :----: | :---------------------------------: | :-------------------------: | :--------: |
-| STSGCN | Spatial-Temporal Embedding, STSGCM, | ![STSGCN](./img/STSGCN.png) |            |
+| Models |               Modules               |        Architecture         |                          conclusion                          |
+| :----: | :---------------------------------: | :-------------------------: | :----------------------------------------------------------: |
+| STSGCN | Spatial-Temporal Embedding, STSGCM, | ![STSGCN](./img/STSGCN.png) | 本篇论文提出了一种新的结构局部时空图，通过将相邻时间片的图结构组合成为一个局部时空图，构建新的邻接矩阵，这样可以实现同时捕获时空依赖性。 |
 
 
 
@@ -351,9 +351,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **DIFFUSION CONVOLUTIONAL RECURRENT NEURAL NETWORK: DATA-DRIVEN TRAFFIC FORECASTING.** ICLR 2018. [paper](https://arxiv.org/abs/1707.01926).
 
-| Models |                       Modules                       |       Architecture        | conclusion |
-| :----: | :-------------------------------------------------: | :-----------------------: | :--------: |
-| DCRNN  | Diffusion Convolutional Layer, encoder-decoder, GRU | ![DCRNN](./img/DCRNN.png) |            |
+| Models |                       Modules                       |       Architecture        |                          conclusion                          |
+| :----: | :-------------------------------------------------: | :-----------------------: | :----------------------------------------------------------: |
+| DCRNN  | Diffusion Convolutional Layer, encoder-decoder, GRU | ![DCRNN](./img/DCRNN.png) | 本篇论文提出基于随机游走的扩散卷积用于建模时空依赖性。使用GRU对时间依赖性进行建模。 |
 
 
 
@@ -449,11 +449,11 @@ This project is a collection of recent research in areas such as new infrastruct
 
 <p id = "twotwo">[2.2]</p>
 
-**Revisiting Spatial-Temporal Similarity: A Deep Learning Framework for Traffic Prediction.** AAAI 2019. [paper](https://arxiv.org/pdf/1803.01254.pdf)
+**Revisiting Spatial-Temporal Similarity: A Deep Learning Framework for Traffic Prediction.** AAAI 2019. [paper](https://arxiv.org/pdf/1803.01254.pdf), [code](https://github.com/tangxianfeng/STDN)
 
-| Models |          Modules          |      Architecture       | conclusion |
-| :----: | :-----------------------: | :---------------------: | :--------: |
-|  STDN  | CNN, LSTM, Attention, FGM | ![STDN](./img/STDN.png) |            |
+| Models |          Modules          |      Architecture       |                          conclusion                          |
+| :----: | :-----------------------: | :---------------------: | :----------------------------------------------------------: |
+|  STDN  | CNN, LSTM, Attention, FGM | ![STDN](./img/STDN.png) | 本篇论文是在网格数据上进行操作，空间依赖性建模采用CNN，时间依赖性建模采用LSTM，并引入注意力机制建模时间的周期性变化。 |
 
 
 
@@ -495,9 +495,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction.** AAAI 2017. [paper](https://arxiv.org/pdf/1610.00081.pdf)
 
-|  Models   |         Modules         |          Architecture           | conclusion |
-| :-------: | :---------------------: | :-----------------------------: | :--------: |
-| ST-ResNet | CNN, Extract key frames | ![STResnet](./img/STResnet.png) |            |
+|  Models   |         Modules         |          Architecture           |                          conclusion                          |
+| :-------: | :---------------------: | :-----------------------------: | :----------------------------------------------------------: |
+| ST-ResNet | CNN, Extract key frames | ![STResnet](./img/STResnet.png) | 本篇论文是在网格数据上的操作，使用CNN加残差连接对空间依赖性建模，使用抽取关键帧的方式来分别模拟时间维度上的趋势性，周期性，临近性，并且考虑了外部因素。 |
 
 
 
@@ -509,9 +509,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **UrbanFM: Inferring Fine-Grained Urban Flows.** SIGKDD 2019. [paper](https://arxiv.org/pdf/1902.05377.pdf)
 
-| Models  |             Modules             |         Architecture          | conclusion |
-| :-----: | :-----------------------------: | :---------------------------: | :--------: |
-| UrbanFM | CNN, Upsampling, SubPixel Block | ![UrbanFM](./img/UrbanFM.png) |            |
+| Models  |             Modules             |         Architecture          |                          conclusion                          |
+| :-----: | :-----------------------------: | :---------------------------: | :----------------------------------------------------------: |
+| UrbanFM | CNN, Upsampling, SubPixel Block | ![UrbanFM](./img/UrbanFM.png) | 本篇论文类似于图像的分辨率转换，目的在于根据观测情况获取城市更细粒度的流量信息。 |
 
 
 
