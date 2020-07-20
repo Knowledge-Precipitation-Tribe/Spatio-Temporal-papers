@@ -16,6 +16,7 @@ This project is a collection of recent research in areas such as new infrastruct
 - <a href = "#Spatial-dependence-modeling">Spatial dependence modeling</a>
 - <a href = "#temporal-dependence-modeling">temporal dependence modeling</a>
 - <a href = "#External-factors">External factors</a>
+- <a href = "#Tricks">Tricks</a>
 
 ### **Relevant papers**
 
@@ -149,12 +150,12 @@ This project is a collection of recent research in areas such as new infrastruct
 
 
 
-| Reference | Modules | description | Architecture |
-| --------- | ------- | ----------- | ------------ |
-|           |         |             |              |
-|           |         |             |              |
-|           |         |             |              |
-|           |         |             |              |
+| Reference                       | Modules | description                                                  | Architecture                            |
+| ------------------------------- | ------- | ------------------------------------------------------------ | --------------------------------------- |
+| <a href = "#threeone">[3.1]</a> | CNN     | First convert the city into grid-shaped data, and then use CNN to capture spatial dependencies. Expand the size of the receptive field by stacking convolutional layers. | ![STResnet](./img/spatial/STResnet.png) |
+|                                 |         |                                                              |                                         |
+|                                 |         |                                                              |                                         |
+|                                 |         |                                                              |                                         |
 
 
 
@@ -162,12 +163,12 @@ This project is a collection of recent research in areas such as new infrastruct
 
 
 
-| Reference | Modules | description | Architecture |
-| --------- | ------- | ----------- | ------------ |
-|           |         |             |              |
-|           |         |             |              |
-|           |         |             |              |
-|           |         |             |              |
+| Reference                     | Modules | description | Architecture |
+| ----------------------------- | ------- | ----------- | ------------ |
+| <a href = "#oneone">[1.1]</a> |         |             |              |
+|                               |         |             |              |
+|                               |         |             |              |
+|                               |         |             |              |
 
 ### [External factors](#content)
 
@@ -179,6 +180,15 @@ This project is a collection of recent research in areas such as new infrastruct
 |                                 |                    |                                                              |                                          |
 |                                 |                    |                                                              |                                          |
 |                                 |                    |                                                              |                                          |
+
+### [Tricks](#content)
+
+| Reference                       | Modules             | description                                                  | Architecture                         |
+| ------------------------------- | ------------------- | ------------------------------------------------------------ | ------------------------------------ |
+| <a href = "#threeone">[3.1]</a> | Residual connection | As the network deepens, the accuracy of the training set has decreased. We can be sure that this is not caused by overfitting (the training set should have a high accuracy in the case of overfitting); so the author raised this question A new kind of network, called deep residual network, which allows the network to deepen as much as possible. | ![STResnet](./img/tricks/Resnet.png) |
+|                                 |                     |                                                              |                                      |
+|                                 |                     |                                                              |                                      |
+|                                 |                     |                                                              |                                      |
 
 ## Relevant papers
 
