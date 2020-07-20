@@ -162,12 +162,12 @@ This project is a collection of recent research in areas such as new infrastruct
 
 
 
-| Reference                      | Modules                    | description                                                  | Architecture                                       |
-| ------------------------------ | -------------------------- | ------------------------------------------------------------ | -------------------------------------------------- |
-| <a href = "#oneone">[1.1]</a>  | causal convolution         | Based on the past observation data, predict the possible future value $y$. Consider the sequence of time during the convolution process. If you want to model a long time sequence, you need to stack more convolutional layers. | ![causal](./img/temporal/causal.png)               |
-| <a href = "#onefive">[1.5]</a> | dilated casual convolution | In order to solve the problems such as the disappearance of gradients, the explosion of gradients, and the difficulty of model training in long-term sequences caused by causal convolution. The time dependence can be modeled using dilated causal convolution. Dilated convolution achieves a larger receptive field with fewer convolutional layers by skipping part of the input. | ![dilatedCasual](./img/temporal/dilatedCasual.png) |
-| <a href = "#twotwo">[2.2]</a>  | LSTM                       | Use Long Short-Term Memory (LSTM) network to capture the temporal sequential dependency, which is proposed to address the exploding and vanishing gradient issue of traditional Recurrent Neural Network (RNN). | ![dilatedCasual](./img/temporal/STDN.png)          |
-|                                |                            |                                                              |                                                    |
+| Reference                       | Modules                    | description                                                  | Architecture                                       |
+| ------------------------------- | -------------------------- | ------------------------------------------------------------ | -------------------------------------------------- |
+| <a href = "#oneone">[1.1]</a>   | causal convolution         | Based on the past observation data, predict the possible future value $y$. Consider the sequence of time during the convolution process. If you want to model a long time sequence, you need to stack more convolutional layers. | ![causal](./img/temporal/causal.png)               |
+| <a href = "#onefive">[1.5]</a>  | dilated casual convolution | In order to solve the problems such as the disappearance of gradients, the explosion of gradients, and the difficulty of model training in long-term sequences caused by causal convolution. The time dependence can be modeled using dilated causal convolution. Dilated convolution achieves a larger receptive field with fewer convolutional layers by skipping part of the input. | ![dilatedCasual](./img/temporal/dilatedCasual.png) |
+| <a href = "#twotwo">[2.2]</a>   | LSTM                       | Use Long Short-Term Memory (LSTM) network to capture the temporal sequential dependency, which is proposed to address the exploding and vanishing gradient issue of traditional Recurrent Neural Network (RNN). | ![dilatedCasual](./img/temporal/STDN.png)          |
+| <a href = "#oneseven">[1.7]</a> | GRU                        | Gated Recurrent Units (GRU) , which is a simple yet powerful variant of RNNs. | ![dilatedCasual](./img/temporal/GRU.png)           |
 
 ### [External factors](#content)
 
@@ -337,9 +337,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting.** AAAI 2020. [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-SongC.8074.pdf), [code](https://github.com/Davidham3/STSGCN).
 
-| Models | Modules | Architecture |
-| ------ | ------- | ------------ |
-|        |         |              |
+| Models | Modules                             | Architecture                |
+| ------ | ----------------------------------- | --------------------------- |
+| STSGCN | Spatial-Temporal Embedding, STSGCM, | ![STSGCN](./img/STSGCN.png) |
 
 
 
@@ -351,9 +351,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **DIFFUSION CONVOLUTIONAL RECURRENT NEURAL NETWORK: DATA-DRIVEN TRAFFIC FORECASTING.** ICLR 2018. [paper](https://arxiv.org/abs/1707.01926).
 
-| Models | Modules | Architecture |
-| ------ | ------- | ------------ |
-|        |         |              |
+| Models | Modules                                             | Architecture              |
+| ------ | --------------------------------------------------- | ------------------------- |
+| DCRNN  | Diffusion Convolutional Layer, encoder-decoder, GRU | ![DCRNN](./img/DCRNN.png) |
 
 
 
@@ -451,9 +451,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **Revisiting Spatial-Temporal Similarity: A Deep Learning Framework for Traffic Prediction.** AAAI 2019. [paper](https://arxiv.org/pdf/1803.01254.pdf)
 
-| Models | Modules | Architecture |
-| ------ | ------- | ------------ |
-|        |         |              |
+| Models | Modules                   | Architecture            |
+| ------ | ------------------------- | ----------------------- |
+| STDN   | CNN, LSTM, Attention, FGM | ![STDN](./img/STDN.png) |
 
 
 
@@ -479,6 +479,12 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **GeoMAN: Multi-level Attention Networks for Geo-sensory Time Series Prediction** IJCAI 2018. [paper](https://www.ijcai.org/Proceedings/2018/0476.pdf), [code](https://github.com/yoshall/GeoMAN)
 
+| Models | Modules                                                     | Architecture                |
+| ------ | ----------------------------------------------------------- | --------------------------- |
+| GeoMAN | Spatial Attention,Temporal Attention, LSTM, Encoder-decoder | ![GeoMAN](./img/GeoMAN.png) |
+
+
+
 *Yuxuan Liang, Songyu Ke, Junbo Zhang, Xiuwen Yi, Yu Zheng*
 
 ---
@@ -489,9 +495,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction.** AAAI 2017. [paper](https://arxiv.org/pdf/1610.00081.pdf)
 
-| Models | Modules | Architecture |
-| ------ | ------- | ------------ |
-|        |         |              |
+| Models    | Modules                 | Architecture                    |
+| --------- | ----------------------- | ------------------------------- |
+| ST-ResNet | CNN, Extract key frames | ![STResnet](./img/STResnet.png) |
 
 
 
@@ -503,9 +509,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **UrbanFM: Inferring Fine-Grained Urban Flows.** SIGKDD 2019. [paper](https://arxiv.org/pdf/1902.05377.pdf)
 
-| Models | Modules | Architecture |
-| ------ | ------- | ------------ |
-|        |         |              |
+| Models  | Modules                         | Architecture                  |
+| ------- | ------------------------------- | ----------------------------- |
+| UrbanFM | CNN, Upsampling, SubPixel Block | ![UrbanFM](./img/UrbanFM.png) |
 
 
 
