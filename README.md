@@ -163,12 +163,12 @@ This project is a collection of recent research in areas such as new infrastruct
 
 
 
-| Reference                     | Modules | description | Architecture |
-| ----------------------------- | ------- | ----------- | ------------ |
-| <a href = "#oneone">[1.1]</a> |         |             |              |
-|                               |         |             |              |
-|                               |         |             |              |
-|                               |         |             |              |
+| Reference                      | Modules                    | description                                                  | Architecture                                       |
+| ------------------------------ | -------------------------- | ------------------------------------------------------------ | -------------------------------------------------- |
+| <a href = "#oneone">[1.1]</a>  | causal convolution         | Based on the past observation data, predict the possible future value $y$. Consider the sequence of time during the convolution process. If you want to model a long time sequence, you need to stack more convolutional layers. | ![causal](./img/temporal/causal.png)               |
+| <a href = "#onefive">[1.5]</a> | dilated casual convolution | In order to solve the problems such as the disappearance of gradients, the explosion of gradients, and the difficulty of model training in long-term sequences caused by causal convolution. The time dependence can be modeled using dilated causal convolution. Dilated convolution achieves a larger receptive field with fewer convolutional layers by skipping part of the input. | ![dilatedCasual](./img/temporal/dilatedCasual.png) |
+|                                |                            |                                                              |                                                    |
+|                                |                            |                                                              |                                                    |
 
 ### [External factors](#content)
 
