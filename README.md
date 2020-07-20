@@ -263,9 +263,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting.** IJCAI 2018. [paper](https://arxiv.org/pdf/1709.04875.pdf), [code](https://github.com/ShichengChen/Spatio-Temporal-Graph-Convolutional-Networks-A-Deep-Learning-Framework-for-Traffic-Forecasting).
 
-| Models | Modules       | Architecture              |
-| ------ | ------------- | ------------------------- |
-| STGCN  | GCN,Gated CNN | ![STGCN](./img/STGCN.png) |
+| Models |    Modules    |       Architecture        | conclusion |
+| :----- | :-----------: | :-----------------------: | :--------: |
+| STGCN  | GCN,Gated CNN | ![STGCN](./img/STGCN.png) |            |
 
 
 
@@ -279,9 +279,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **Spatiotemporal Multi-Graph Convolution Network for Ride-hailing Demand Forecasting.** AAAI 2019. [paper](http://www-scf.usc.edu/~yaguang/papers/aaai19_multi_graph_convolution.pdf).
 
-| Models | Modules   | Architecture                |
-| ------ | --------- | --------------------------- |
-| STMGCN | GCN,CGRNN | ![STMGCN](./img/STMGCN.png) |
+| Models |  Modules  |        Architecture         | conclusion |
+| :----: | :-------: | :-------------------------: | :--------: |
+| STMGCN | GCN,CGRNN | ![STMGCN](./img/STMGCN.png) |            |
 
 
 
@@ -295,9 +295,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **Spatio-Temporal Graph Structure Learning for Traffic Forecasting.** AAAI 2020. [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhangQ.7934.pdf).
 
-| Models | Modules    | Architecture          |
-| ------ | ---------- | --------------------- |
-| SLC    | SLCNN, P3D | ![SLC](./img/SLC.png) |
+| Models |  Modules   |     Architecture      | conclusion |
+| :----: | :--------: | :-------------------: | :--------: |
+|  SLC   | SLCNN, P3D | ![SLC](./img/SLC.png) |            |
 
 
 
@@ -309,9 +309,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **GMAN: A Graph Multi-Attention Network for Traffic Prediction.** AAAI 2020. [paper](https://arxiv.org/pdf/1911.08415.pdf), [code](https://github.com/zhengchuanpan/GMAN).
 
-| Models | Modules                                      | Architecture            |
-| ------ | -------------------------------------------- | ----------------------- |
-| GMAN   | Encoder-Decoder,ST-Attention,Trans Attention | ![GMAN](./img/GMAN.png) |
+| Models |                   Modules                    |      Architecture       | conclusion |
+| :----: | :------------------------------------------: | :---------------------: | :--------: |
+|  GMAN  | Encoder-Decoder,ST-Attention,Trans Attention | ![GMAN](./img/GMAN.png) |            |
 
 
 
@@ -323,9 +323,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **Graph WaveNet for Deep Spatial-Temporal Graph Modeling.** IJCAI 2019. [paper](https://arxiv.org/abs/1906.00121), [code](https://github.com/nnzhan/Graph-WaveNet).
 
-| Models | Modules                            | Architecture          |
-| ------ | ---------------------------------- | --------------------- |
-| GWN    | GCN with adaptive Matrix,Gated TCN | ![GWN](./img/GWN.png) |
+| Models |              Modules               |     Architecture      | conclusion |
+| :----: | :--------------------------------: | :-------------------: | :--------: |
+|  GWN   | GCN with adaptive Matrix,Gated TCN | ![GWN](./img/GWN.png) |            |
 
 
 
@@ -337,9 +337,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting.** AAAI 2020. [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-SongC.8074.pdf), [code](https://github.com/Davidham3/STSGCN).
 
-| Models | Modules                             | Architecture                |
-| ------ | ----------------------------------- | --------------------------- |
-| STSGCN | Spatial-Temporal Embedding, STSGCM, | ![STSGCN](./img/STSGCN.png) |
+| Models |               Modules               |        Architecture         | conclusion |
+| :----: | :---------------------------------: | :-------------------------: | :--------: |
+| STSGCN | Spatial-Temporal Embedding, STSGCM, | ![STSGCN](./img/STSGCN.png) |            |
 
 
 
@@ -351,9 +351,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **DIFFUSION CONVOLUTIONAL RECURRENT NEURAL NETWORK: DATA-DRIVEN TRAFFIC FORECASTING.** ICLR 2018. [paper](https://arxiv.org/abs/1707.01926).
 
-| Models | Modules                                             | Architecture              |
-| ------ | --------------------------------------------------- | ------------------------- |
-| DCRNN  | Diffusion Convolutional Layer, encoder-decoder, GRU | ![DCRNN](./img/DCRNN.png) |
+| Models |                       Modules                       |       Architecture        | conclusion |
+| :----: | :-------------------------------------------------: | :-----------------------: | :--------: |
+| DCRNN  | Diffusion Convolutional Layer, encoder-decoder, GRU | ![DCRNN](./img/DCRNN.png) |            |
 
 
 
@@ -365,9 +365,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting.** AAAI 2019. [paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/3881) [code](https://github.com/Davidham3/ASTGCN).
 
-| Models | Modules | Architecture |
-| ------ | ------- | ------------ |
-|        |         |              |
+| Models | Modules | Architecture | conclusion |
+| :----: | :-----: | :----------: | :--------: |
+|        |         |              |            |
 
 
 
@@ -379,9 +379,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **STGRAT: A Spatio-Temporal Graph Attention Network for Traffic Forecasting.** [paper](http://arxiv-export-lb.library.cornell.edu/pdf/1911.13181)
 
-| Models | Modules | Architecture |
-| ------ | ------- | ------------ |
-|        |         |              |
+| Models | Modules | Architecture | conclusion |
+| :----: | :-----: | :----------: | :--------: |
+|        |         |              |            |
 
 
 
@@ -393,9 +393,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **Temporal Multi-Graph Convolutional Network for Traffic Flow Prediction.** IEEE Transactions on Intelligent Transportation Systems 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9098104)
 
-| Models | Modules | Architecture |
-| ------ | ------- | ------------ |
-|        |         |              |
+| Models | Modules | Architecture | conclusion |
+| :----: | :-----: | :----------: | :--------: |
+|        |         |              |            |
 
 
 
@@ -407,9 +407,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data.** KDD 2020. [paper](https://arxiv.org/pdf/2006.12715.pdf)
 
-| Models | Modules | Architecture |
-| ------ | ------- | ------------ |
-|        |         |              |
+| Models | Modules | Architecture | conclusion |
+| :----: | :-----: | :----------: | :--------: |
+|        |         |              |            |
 
 
 
@@ -421,9 +421,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting.** AAAI 2020. [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ChenW.6413.pdf)
 
-| Models | Modules | Architecture |
-| ------ | ------- | ------------ |
-|        |         |              |
+| Models | Modules | Architecture | conclusion |
+| :----: | :-----: | :----------: | :--------: |
+|        |         |              |            |
 
 
 
@@ -437,9 +437,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **Urban Traffic Prediction from Spatio-Temporal Data Using Deep Meta Learning.** SIGKDD 2019. [paper](http://urban-computing.com/pdf/kdd_2019_camera_ready_ST_MetaNet.pdf)
 
-| Models | Modules | Architecture |
-| ------ | ------- | ------------ |
-|        |         |              |
+| Models | Modules | Architecture | conclusion |
+| :----: | :-----: | :----------: | :--------: |
+|        |         |              |            |
 
 
 
@@ -451,9 +451,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **Revisiting Spatial-Temporal Similarity: A Deep Learning Framework for Traffic Prediction.** AAAI 2019. [paper](https://arxiv.org/pdf/1803.01254.pdf)
 
-| Models | Modules                   | Architecture            |
-| ------ | ------------------------- | ----------------------- |
-| STDN   | CNN, LSTM, Attention, FGM | ![STDN](./img/STDN.png) |
+| Models |          Modules          |      Architecture       | conclusion |
+| :----: | :-----------------------: | :---------------------: | :--------: |
+|  STDN  | CNN, LSTM, Attention, FGM | ![STDN](./img/STDN.png) |            |
 
 
 
@@ -465,9 +465,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **Deep Spatial–Temporal 3D Convolutional Neural Networks for Traffic Data Forecasting.** IEEE Transactions on Intelligent Transportation Systems 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8684259/)
 
-| Models | Modules | Architecture |
-| ------ | ------- | ------------ |
-|        |         |              |
+| Models | Modules | Architecture | conclusion |
+| :----: | :-----: | :----------: | :--------: |
+|        |         |              |            |
 
 
 
@@ -479,9 +479,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **GeoMAN: Multi-level Attention Networks for Geo-sensory Time Series Prediction** IJCAI 2018. [paper](https://www.ijcai.org/Proceedings/2018/0476.pdf), [code](https://github.com/yoshall/GeoMAN)
 
-| Models | Modules                                                     | Architecture                |
-| ------ | ----------------------------------------------------------- | --------------------------- |
-| GeoMAN | Spatial Attention,Temporal Attention, LSTM, Encoder-decoder | ![GeoMAN](./img/GeoMAN.png) |
+| Models |                           Modules                           |        Architecture         | conclusion |
+| :----: | :---------------------------------------------------------: | :-------------------------: | :--------: |
+| GeoMAN | Spatial Attention,Temporal Attention, LSTM, Encoder-decoder | ![GeoMAN](./img/GeoMAN.png) |            |
 
 
 
@@ -495,9 +495,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction.** AAAI 2017. [paper](https://arxiv.org/pdf/1610.00081.pdf)
 
-| Models    | Modules                 | Architecture                    |
-| --------- | ----------------------- | ------------------------------- |
-| ST-ResNet | CNN, Extract key frames | ![STResnet](./img/STResnet.png) |
+|  Models   |         Modules         |          Architecture           | conclusion |
+| :-------: | :---------------------: | :-----------------------------: | :--------: |
+| ST-ResNet | CNN, Extract key frames | ![STResnet](./img/STResnet.png) |            |
 
 
 
@@ -509,9 +509,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **UrbanFM: Inferring Fine-Grained Urban Flows.** SIGKDD 2019. [paper](https://arxiv.org/pdf/1902.05377.pdf)
 
-| Models  | Modules                         | Architecture                  |
-| ------- | ------------------------------- | ----------------------------- |
-| UrbanFM | CNN, Upsampling, SubPixel Block | ![UrbanFM](./img/UrbanFM.png) |
+| Models  |             Modules             |         Architecture          | conclusion |
+| :-----: | :-----------------------------: | :---------------------------: | :--------: |
+| UrbanFM | CNN, Upsampling, SubPixel Block | ![UrbanFM](./img/UrbanFM.png) |            |
 
 
 
@@ -523,9 +523,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **DeepSTD: Mining Spatio-Temporal Disturbances of Multiple Context Factors for Citywide Traffic Flow Prediction.** IEEE Transactions on Intelligent Transportation Systems 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8793226)
 
-| Models | Modules | Architecture |
-| ------ | ------- | ------------ |
-|        |         |              |
+| Models | Modules | Architecture | conclusion |
+| :----: | :-----: | :----------: | :--------: |
+|        |         |              |            |
 
 
 
@@ -537,9 +537,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **Dynamic Spatial-Temporal Representation Learning for Traffic Flow Prediction.** IEEE Transactions on Intelligent Transportation Systems 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9127874/)
 
-| Models | Modules | Architecture |
-| ------ | ------- | ------------ |
-|        |         |              |
+| Models | Modules | Architecture | conclusion |
+| :----: | :-----: | :----------: | :--------: |
+|        |         |              |            |
 
 
 
@@ -551,9 +551,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **AutoST: Efficient Neural Architecture Search for Spatio-Temporal Prediction.** KDD 2020. [paper](http://urban-computing.com/pdf/AutoST_kdd20_camera_ready.pdf)
 
-| Models | Modules | Architecture |
-| ------ | ------- | ------------ |
-|        |         |              |
+| Models | Modules | Architecture | conclusion |
+| :----: | :-----: | :----------: | :--------: |
+|        |         |              |            |
 
 
 
@@ -567,9 +567,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **Deep Multi-View Spatial-Temporal Network for Taxi Demand Prediction.** AAAI 2018. [paper](https://arxiv.org/pdf/1802.08714.pdf)
 
-| Models | Modules | Architecture |
-| ------ | ------- | ------------ |
-|        |         |              |
+| Models | Modules | Architecture | conclusion |
+| :----: | :-----: | :----------: | :--------: |
+|        |         |              |            |
 
 
 
@@ -581,9 +581,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **Origin-Destination Matrix Prediction via Graph Convolution: a New Perspective of Passenger Demand Modeling.** SIGKDD 2019. [paper](https://dl.acm.org/doi/abs/10.1145/3292500.3330877)
 
-| Models | Modules | Architecture |
-| ------ | ------- | ------------ |
-|        |         |              |
+| Models | Modules | Architecture | conclusion |
+| :----: | :-----: | :----------: | :--------: |
+|        |         |              |            |
 
 
 
@@ -595,9 +595,9 @@ This project is a collection of recent research in areas such as new infrastruct
 
 **STG2Seq: Spatial-temporal Graph to Sequence Model for Multi-step Passenger Demand Forecasting.** IJCAI 2019. [paper]()
 
-| Models | Modules | Architecture |
-| ------ | ------- | ------------ |
-|        |         |              |
+| Models | Modules | Architecture | conclusion |
+| :----: | :-----: | :----------: | :--------: |
+|        |         |              |            |
 
 
 
