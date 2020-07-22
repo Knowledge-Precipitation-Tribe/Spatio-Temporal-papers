@@ -72,6 +72,8 @@ This project is a collection of recent research in areas such as new infrastruct
 
 [8] Junbo Zhang: [link](https://zhangjunbo.org/)
 
+[9] Shining Xiang:[link](https://scholar.google.com/citations?hl=zh-CN&user=0ggsACEAAAAJ)
+
 ## [AI Lab](#content)
 
 [1] iFly Tek: [link](https://www.iflytek.com/city)
