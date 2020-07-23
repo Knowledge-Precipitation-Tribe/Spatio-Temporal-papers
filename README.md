@@ -54,15 +54,15 @@ This project is a collection of recent research in areas such as new infrastruct
 
 [8] [新基建，新机遇：中国智能经济发展白皮书](https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/blob/master/pdf/%E6%96%B0%E5%9F%BA%E5%BB%BA%EF%BC%8C%E6%96%B0%E6%9C%BA%E9%81%87%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%99%BA%E8%83%BD%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E7%99%BD%E7%9A%AE%E4%B9%A6%20(%E7%B2%BE%E5%8D%8E%E7%89%88).pdf)
 
-[9] [新基建政策白皮书]()
+[9] [新基建政策白皮书](https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/blob/master/pdf/"新基建"政策白皮书.pdf)
 
-[10] [新基建发展白皮书]()
+[10] [新基建发展白皮书](https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/blob/master/pdf/"新基建"发展白皮书.pdf)
 
-[11] [我国各省市新基建发展潜力白皮书]()
+[11] [我国各省市新基建发展潜力白皮书](https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/blob/master/pdf/我国各省区市"新基建"发展潜力白皮书.pdf)
 
-[12] [中国城市人工智能发展指数报告]()
+[12] [中国城市人工智能发展指数报告](https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/blob/master/pdf/中国城市人工智能发展指数报告.pdf)
 
-[13] [人工智能与工业融合发展研究报告]()
+[13] [人工智能与工业融合发展研究报告](https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/blob/master/pdf/人工智能与工业融合发展研究报告.pdf)
 
 ## [Expert](#content)
 
