@@ -22,6 +22,7 @@ This project is a collection of recent research in areas such as new infrastruct
 
 - <a href = "#Survey">Survey</a>
 - <a href = "#GNN">GNN</a>
+- <a herf ="#Long-term-Dependencies">Long-term Dependencies</a>
 - <a href = "#trafic-forecasting">1. Trafic forecasting</a>
   - <a href = "#gnn-papers-on-traffic-forecasting">1.1 GNN methods on Traffic forecasting</a>
   - <a href = "#other-method-on-traffic-forecasting">1.2 Other methods on Traffic forecasting</a>
@@ -159,8 +160,6 @@ This project is a collection of recent research in areas such as new infrastruct
 
 ### [Spatial dependence modeling](#content)
 
-
-
 | Reference                       | Modules | description                                                  | Architecture                            |
 | ------------------------------- | ------- | ------------------------------------------------------------ | --------------------------------------- |
 | <a href = "#threeone">[3.1]</a> | CNN     | First convert the city into grid-shaped data, and then use CNN to capture spatial dependencies. Expand the size of the receptive field by stacking convolutional layers. | ![STResnet](./img/spatial/STResnet.png) |
@@ -172,8 +171,6 @@ This project is a collection of recent research in areas such as new infrastruct
 
 ### [Temporal dependence modeling](#content)
 
-
-
 | Reference                       | Modules                    | description                                                  | Architecture                                       |
 | ------------------------------- | -------------------------- | ------------------------------------------------------------ | -------------------------------------------------- |
 | <a href = "#oneone">[1.1]</a>   | causal convolution         | Based on the past observation data, predict the possible future value $y$. Consider the sequence of time during the convolution process. If you want to model a long time sequence, you need to stack more convolutional layers. | ![causal](./img/temporal/causal.png)               |
@@ -182,8 +179,6 @@ This project is a collection of recent research in areas such as new infrastruct
 | <a href = "#oneseven">[1.7]</a> | GRU                        | Gated Recurrent Units (GRU) , which is a simple yet powerful variant of RNNs. | ![dilatedCasual](./img/temporal/GRU.png)           |
 
 ### [External factors](#content)
-
-
 
 | Reference                       | Modules                | description                                                  | Architecture                             |
 | ------------------------------- | ---------------------- | ------------------------------------------------------------ | ---------------------------------------- |
@@ -247,9 +242,13 @@ This project is a collection of recent research in areas such as new infrastruct
 
 *David Alexander Tedjopurnomo, Zhifeng Bao, Baihua Zheng, Farhana Murtaza Choudhury, Kai Qin*
 
-### [GNN](#content)
+---
 
-**[More graph neural network contents](https://docs.gnn.knowledge-precipitation.site/)**
+[8] **A Survey of Hybrid Deep Learning Methods for Traffic Flow Prediction.** ACM International Conference Proceeding Series 2019. [paper](https://dl.acm.org/doi/pdf/10.1145/3373419.3373429)
+
+*Yan Shi, Haoran Feng, Xiongfei Geng, Xingui Tang, Yongcai Wang*
+
+### [GNN](#content)
 
 [1] **GRAPH ATTENTION NETWORKS.** ICLR 2018. [paper](https://arxiv.org/pdf/1710.10903.pdf)
 
@@ -266,6 +265,24 @@ This project is a collection of recent research in areas such as new infrastruct
 [3] **Heterogeneous Graph Neural Network.** SIGKDD 2019. [paper](https://dl.acm.org/doi/abs/10.1145/3292500.3330961)
 
 *Chuxu Zhang, Dongjin Song, Chao Huang, Ananthram Swami, Nitesh V. Chawla*
+
+---
+
+[4] **Adaptive Graph Convolutional Neural Networks.** AAAI 2018. [paper](https://arxiv.org/abs/1801.03226)
+
+*Ruoyu Li, Sheng Wang, Feiyun Zhu, Junzhou Huang*
+
+---
+
+[4] **Temporal Graph Networks for Deep Learning on Dynamic Graphs.** arxiv 2020. [paper](https://arxiv.org/abs/2006.10637)
+
+*Ben Chamberlain, Fabrizio Frasca, Davide Eynard, Federico Monti, Michael Bronstein*
+
+### [Long-term Dependencies](#content)
+
+[1] **Learning Long-term Dependencies Using Cognitive Inductive Biases in Self-attention RNNs.** PMLR 2020. [paper](https://arxiv.org/pdf/1806.01261.pdf)
+
+*Giancarlo Kerg, Bhargav Kanuparthi, Anirudh Goyal, Kyle Goyette, Yoshua Bengio, Guillaume Lajoie*
 
 ### [Traffic forecasting](#content)
 
@@ -443,6 +460,20 @@ This project is a collection of recent research in areas such as new infrastruct
 
 ---
 
+<p id = "oneonethree">[1.13]</p> 
+
+**LSGCN: Long Short-Term Traffic Prediction with Graph Convolutional Networks.** IJCAI 2020. [paper](https://www.ijcai.org/Proceedings/2020/0326.pdf)
+
+| Models | Modules | Architecture | conclusion |
+| :----: | :-----: | :----------: | :--------: |
+|        |         |              |            |
+
+
+
+*Rongzhou Huang , Chuyin Huang, Yubao Liu, Genan Dai, Weiyang Kong*
+
+---
+
 ### [Other method on Traffic forecasting ](#content)
 
 <p id = "twoone">[2.1]</p>
@@ -469,7 +500,7 @@ This project is a collection of recent research in areas such as new infrastruct
 
 
 
-*Huaxiu Yao*, Xianfeng Tang, Hua Wei, Guanjie Zheng, Zhenhui Li*
+*Huaxiu Yao, Xianfeng Tang, Hua Wei, Guanjie Zheng, Zhenhui Li*
 
 ---
 
@@ -498,6 +529,34 @@ This project is a collection of recent research in areas such as new infrastruct
 
 
 *Yuxuan Liang, Songyu Ke, Junbo Zhang, Xiuwen Yi, Yu Zheng*
+
+---
+
+<p id = "twofive">[2.5]</p>
+
+**Preserving Dynamic Attention for Long-Term Spatial-Temporal Prediction.** KDD 2020. [paper](https://arxiv.org/abs/2006.08849)
+
+| Models | Modules | Architecture | conclusion |
+| :----: | :-----: | :----------: | :--------: |
+|        |         |              |            |
+
+
+
+*Haoxing Lin, Rufan Bai,Weijia Jia,Xinyu Yang,Yongjian You*
+
+---
+
+<p id = "twosix">[2.6]</p>
+
+**Self-Attention ConvLSTM for Spatiotemporal Prediction.** AAAI 2020. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/6819)
+
+| Models | Modules | Architecture | conclusion |
+| :----: | :-----: | :----------: | :--------: |
+|        |         |              |            |
+
+
+
+*Zhihui Lin,Maomao Li,Zhuobin Zheng,Yangyang Cheng,Chun Yuan*
 
 ---
 
@@ -570,6 +629,90 @@ This project is a collection of recent research in areas such as new infrastruct
 
 
 *Ting Li, Junbo Zhang, Kainan Bao, Yuxuan Liang, Yexin Li, Yu Zheng*
+
+---
+
+<p id = "threesix">[3.6]</p>  
+
+**Flow Prediction in Spatio-Temporal Networks Based on Multitask Deep Learning.** TKDE 2020. [paper](https://ieeexplore.ieee.org/document/8606218)
+
+| Models | Modules | Architecture | conclusion |
+| :----: | :-----: | :----------: | :--------: |
+|        |         |              |            |
+
+
+
+*Junbo Zhang, Yu Zheng, Junkai Sun, Dekang Qi*
+
+---
+
+<p id = "threeseven">[3.7]</p>  
+
+**Multi-Graph Convolutional Network for Short-Term Passenger Flow Forecasting in Urban Rail Transit.** arxiv. [paper](https://arxiv.org/pdf/2001.07512.pdf)
+
+| Models | Modules | Architecture | conclusion |
+| :----: | :-----: | :----------: | :--------: |
+|        |         |              |            |
+
+
+
+*Junbo Zhang, Yu Zheng, Junkai Sun, Dekang Qi*
+
+---
+
+<p id = "threeeight">[3.8]</p>  
+
+**Revisiting Convolutional Neural Networks for Urban Flow Analytics** arxiv 2020. [paper](https://arxiv.org/pdf/2003.00895.pdf)
+
+| Models | Modules | Architecture | conclusion |
+| :----: | :-----: | :----------: | :--------: |
+|        |         |              |            |
+
+
+
+*Yuxuan Liang, Kun Ouyang1, Junbo Zhang, Yu Zheng, David S. Rosenblum*
+
+---
+
+<p id = "threenine">[3.9]</p>  
+
+**Citywide Traffic Flow Prediction Based on Multiple Gated Spatio-temporal Convolutional Neural Networks.** ACM Transactions on Knowledge Discovery from Data 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3385414)
+
+| Models | Modules | Architecture | conclusion |
+| :----: | :-----: | :----------: | :--------: |
+|        |         |              |            |
+
+
+
+*CEN CHEN, KENLI LI,SIN G. TEO,XIAOFENG ZOU,KEQIN LI,ZENG ZENG*
+
+---
+
+<p id = "threeten">[3.10]</p>  
+
+**Physical-Virtual Collaboration Modeling for Intra-and Inter-Station Metro Ridership Prediction.** arxiv 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3385414)
+
+| Models | Modules | Architecture | conclusion |
+| :----: | :-----: | :----------: | :--------: |
+|        |         |              |            |
+
+
+
+*Lingbo Liu, Jingwen Chen, Hefeng Wu, Jiajie Zhen, Guanbin Li, Liang Lin*
+
+---
+
+<p id = "threeten">[3.10]</p>  
+
+**Predicting Citywide Crowd Flows in Irregular Regions Using Multi-View Graph Convolutional Networks.** arxiv 2020. [paper](https://arxiv.org/abs/1903.07789)
+
+| Models | Modules | Architecture | conclusion |
+| :----: | :-----: | :----------: | :--------: |
+|        |         |              |            |
+
+
+
+*Junkai Sun, Junbo Zhang, Qiaofei Li, Xiuwen Yi, Yuxuan Liang, Yu Zheng*
 
 ---
 
