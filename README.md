@@ -1,44 +1,53 @@
 # Urban-computing-papers
-## Introduction
+![awesome](https://camo.githubusercontent.com/54fdbe8888c0a75717d7939b42f3d744b77483b0/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f617765736f6d652e737667)  <a href="https://github.com/SuperSupeng">     <img border="0" src="https://camo.githubusercontent.com/41e8e16b771d56dd768f7055354613254961d169/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6769746875622f677265656e2d666f6c6c6f772e737667" /> </a> 
+<a href="https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers">     <img border="0" src="https://camo.githubusercontent.com/bd178ee1821930a9d09ab11a63e86925bf42094f/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6769746875622f677265656e2d666f726b2e737667" /> </a>
+<a href="https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers">     <img border="0" src="https://camo.githubusercontent.com/201071a2ff1f9ef339cc6cdf37a508c32d479641/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6769746875622f677265656e2d737461722e737667" /> </a>
+<a href="https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers">     <img border="0" src="https://camo.githubusercontent.com/013c283843363c72b1463af208803bfbd5746292/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f7765636861742e737667" /> </a>
+
+# Introduction
 
 This project is a collection of recent research in areas such as new infrastructure and urban computing, including white papers, academic papers, AI lab and dataset etc.
 
-## Content
+# Contribute
 
-- <a href = "#新基建">新基建</a>
-- <a href = "#白皮书">白皮书</a>
+Contributions are always welcome! Make an individual pull request for each suggestion.
+
+# Content
+
+- <a href = "#New-infrastructure">New infrastructure</a>
+- <a href = "#WhitePaper">WhitePaper</a>
 - <a href = "#Expert">Expert</a>
 - <a href = "#AI-Lab">AI Lab</a>
 - <a href = "#Dataset">Dataset</a>
 
-### **Method summary**
+## **Method summary**
 
 - <a href = "#Spatial-dependence-modeling">Spatial dependence modeling</a>
 - <a href = "#Temporal-dependence-modeling">Temporal dependence modeling</a>
 - <a href = "#External-factors">External factors</a>
 - <a href = "#Tricks">Tricks</a>
 
-### **Relevant papers**
+## **Relevant papers**
 
 - <a href = "#Survey">Survey</a>
 - <a href = "#GNN">GNN</a>
-- <a herf ="#Long-term-Dependencies">Long-term Dependencies</a>
+- <a href ="#Long-term-Dependencies">Long-term Dependencies</a>
 - <a href = "#trafic-forecasting">1. Trafic forecasting</a>
   - <a href = "#gnn-papers-on-traffic-forecasting">1.1 GNN methods on Traffic forecasting</a>
   - <a href = "#other-method-on-traffic-forecasting">1.2 Other methods on Traffic forecasting</a>
 - <a href = "Flows Prediction">2. Flows Prediction</a>
 - <a href = "Demand Prediction">3. Demand Prediction</a>
 
-## [新基建](#content)
+# [New infrastructure](#content)
 
-[1] [什么是新基建](http://www.xinhuanet.com/politics/2020-04/26/c_1125908061.htm)
+[1] [What is new infrastructure](http://www.xinhuanet.com/politics/2020-04/26/c_1125908061.htm)
 
-[2] [百度AI新基建版图](https://mp.weixin.qq.com/s/Dn36outlTv6a89t9aKAZhA)
+[2] [Baidu AI new infrastructure layout](https://mp.weixin.qq.com/s/Dn36outlTv6a89t9aKAZhA)
 ![baidi](./img/baidu.jpeg)
 
-[3] [新基建项目盘点](https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/blob/master/pdf/%E9%A1%B9%E7%9B%AE%E7%9B%98%E7%82%B9.pdf)
+[3] [Inventory of new infrastructure projects](https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/blob/master/pdf/%E9%A1%B9%E7%9B%AE%E7%9B%98%E7%82%B9.pdf)
 
-## [白皮书](#content)
+# [WhitePaper](#content)
 [1] [百度城市大脑白皮书](https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/blob/master/pdf/%E7%99%BE%E5%BA%A6%E5%9F%8E%E5%B8%82%E5%A4%A7%E8%84%91%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
 
 [2] [区块链赋能新型智慧城市白皮书](https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/blob/master/pdf/qukuailian.pdf)
@@ -65,7 +74,7 @@ This project is a collection of recent research in areas such as new infrastruct
 
 [13] [人工智能与工业融合发展研究报告](https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/blob/master/pdf/人工智能与工业融合发展研究报告.pdf)
 
-## [Expert](#content)
+# [Expert](#content)
 
 [1] Yu Zheng: [link](http://urban-computing.com/yuzheng)
 
@@ -85,7 +94,7 @@ This project is a collection of recent research in areas such as new infrastruct
 
 [9] Shining Xiang:[link](https://scholar.google.com/citations?hl=zh-CN&user=0ggsACEAAAAJ)
 
-## [AI Lab](#content)
+# [AI Lab](#content)
 
 [1] iFly Tek: [link](https://www.iflytek.com/city)
 
@@ -117,7 +126,7 @@ This project is a collection of recent research in areas such as new infrastruct
 
 [15] **Urban Computing Foundation Interactive Landscape: [link](https://landscape.uc.foundation/)**
 
-## [Dataset](#content)
+# [Dataset](#content)
 
 [1] GAIA Open Dataset: [link](https://outreach.didichuxing.com/research/opendata/)
 
@@ -125,15 +134,15 @@ This project is a collection of recent research in areas such as new infrastruct
 
 [3] NYC OpenData: [link](https://opendata.cityofnewyork.us/)
 
-[4] METR-LA: [link](http://geohub.lacity.org/datasets/traffic-data?geometry=-119.170%2C33.900%2C-117.193%2C34.298), [百度网盘](https://pan.baidu.com/s/1g9yxZMDVf9nI0eN-ixeiPQ) 密码:xsz5
+[4] METR-LA: [link](http://geohub.lacity.org/datasets/traffic-data?geometry=-119.170%2C33.900%2C-117.193%2C34.298), [Baidu Netdisk](https://pan.baidu.com/s/1g9yxZMDVf9nI0eN-ixeiPQ) password:xsz5
 
-[5] PEMS: [link](http://pems.dot.ca.gov/), [百度网盘](https://pan.baidu.com/s/1c3NNV7nGnDylFJ9tBYUF0g) 密码:jutw
+[5] PEMS: [link](http://pems.dot.ca.gov/), [Baidu Netdisk](https://pan.baidu.com/s/1c3NNV7nGnDylFJ9tBYUF0g) password:jutw
 
-[6] TaxiBJ: [link](https://github.com/TolicWang/DeepST/tree/master/data/TaxiBJ), [百度网盘](https://pan.baidu.com/s/1aoi7gEkFQFn2MTYlGuc7Iw) 密码:sg4n
+[6] TaxiBJ: [link](https://github.com/TolicWang/DeepST/tree/master/data/TaxiBJ), [Baidu Netdisk](https://pan.baidu.com/s/1aoi7gEkFQFn2MTYlGuc7Iw) password:sg4n
 
-[7] BikeNYC: [link](https://www.citibikenyc.com/system-data), [百度网盘](https://pan.baidu.com/s/1SdSPWu5c761H3e8XjtzuaA) 密码:lmwj
+[7] BikeNYC: [link](https://www.citibikenyc.com/system-data), [Baidu Netdisk](https://pan.baidu.com/s/1SdSPWu5c761H3e8XjtzuaA) password:lmwj
 
-[8] NYC-Taxi: [link](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page), [百度网盘](https://pan.baidu.com/s/1W2UV-xiDG_wbM9tuPvfrsA) 密码:022y
+[8] NYC-Taxi: [link](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page), [Baidu Netdisk](https://pan.baidu.com/s/1W2UV-xiDG_wbM9tuPvfrsA) password:022y
 
 [9] NYC-Bike: [link](https://www.citibikenyc.com/system-data)
 
