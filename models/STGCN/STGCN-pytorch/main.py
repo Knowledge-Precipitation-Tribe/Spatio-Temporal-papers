@@ -22,14 +22,15 @@ num_timesteps_input = 12
 num_timesteps_output = 3
 
 epochs = 1000
-batch_size = 50
+batch_size = 16
 
 parser = argparse.ArgumentParser(description='STGCN')
 parser.add_argument('--enable-cuda', action='store_true',
                     help='Enable CUDA')
 args = parser.parse_args()
 args.device = None
-if args.enable_cuda and torch.cuda.is_available():
+# if args.enable_cuda and torch.cuda.is_available():
+if torch.cuda.is_available():
     args.device = torch.device('cuda')
 else:
     args.device = torch.device('cpu')
@@ -71,11 +72,12 @@ if __name__ == '__main__':
     A, X, means, stds = load_metr_la_data()
 
     split_line1 = int(X.shape[2] * 0.6)
-    split_line2 = int(X.shape[2] * 0.8)
+    split_line2 = int(X.shape[2] * 0.65)
 
     train_original_data = X[:, :, :split_line1]
     val_original_data = X[:, :, split_line1:split_line2]
     test_original_data = X[:, :, split_line2:]
+
 
     training_input, training_target = generate_dataset(train_original_data,
                                                        num_timesteps_input=num_timesteps_input,
