@@ -1,7 +1,10 @@
 # Urban-computing-papers
-![awesome](https://camo.githubusercontent.com/54fdbe8888c0a75717d7939b42f3d744b77483b0/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f617765736f6d652e737667)  <a href="https://github.com/SuperSupeng">     <img border="0" src="https://camo.githubusercontent.com/41e8e16b771d56dd768f7055354613254961d169/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6769746875622f677265656e2d666f6c6c6f772e737667" /> </a> 
-<a href="https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers">     <img border="0" src="https://camo.githubusercontent.com/bd178ee1821930a9d09ab11a63e86925bf42094f/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6769746875622f677265656e2d666f726b2e737667" /> </a>
-<a href="https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers">     <img border="0" src="https://camo.githubusercontent.com/201071a2ff1f9ef339cc6cdf37a508c32d479641/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6769746875622f677265656e2d737461722e737667" /> </a>
+![awesome](https://camo.githubusercontent.com/54fdbe8888c0a75717d7939b42f3d744b77483b0/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f617765736f6d652e737667) 
+<a href="https://github.com/SuperSupeng">     <img border="0" src="https://camo.githubusercontent.com/41e8e16b771d56dd768f7055354613254961d169/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6769746875622f677265656e2d666f6c6c6f772e737667" /> </a> 
+<a href="https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/issues">     <img border="0" src="https://img.shields.io/github/issues/Knowledge-Precipitation-Tribe/Urban-computing-papers" /> </a>
+<a href="https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/network/members">     <img border="0" src="https://img.shields.io/github/forks/Knowledge-Precipitation-Tribe/Urban-computing-papers" /> </a>
+<a href="https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/stargazers">     <img border="0" src="https://img.shields.io/github/stars/Knowledge-Precipitation-Tribe/Urban-computing-papers" /> </a>
+<a href="https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/blob/master/LICENSE">     <img border="0" src="https://img.shields.io/github/license/Knowledge-Precipitation-Tribe/Urban-computing-papers" /> </a>
 <a href="https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/blob/master/wechat.md">     <img border="0" src="https://camo.githubusercontent.com/013c283843363c72b1463af208803bfbd5746292/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f7765636861742e737667" /> </a>
 
 # Introduction
