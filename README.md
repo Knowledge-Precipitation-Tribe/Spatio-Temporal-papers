@@ -33,6 +33,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 ## **Method summary**
 
+- <a href = "#Mind-map">Mind map</a>
 - <a href = "#Spatial-dependence-modeling">Spatial dependence modeling</a>
 - <a href = "#Temporal-dependence-modeling">Temporal dependence modeling</a>
 - <a href = "#External-factors">External factors</a>
@@ -193,13 +194,15 @@ Loading...
 
 [12] BikeDC: [link](https://www.capitalbikeshare.com/system-data)
 
-## [Method summary](#content)
+# [Method summary](#content)
 
-[中文版思维导图](https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/blob/master/img/urban-computing.png)
+## [Mind map](#content)
 
-![urban-computing](./img/urban-computing-english.png)
+[中文版思维导图](https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/blob/master/img/Urban-computing.png)
 
-### [Spatial dependence modeling](#content)
+![urban-computing](https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/blob/master/img/Urban-computing-english.png)
+
+## [Spatial dependence modeling](#content)
 
 | Reference                       | Modules | description                                                  | Architecture                            |
 | ------------------------------- | ------- | ------------------------------------------------------------ | --------------------------------------- |
@@ -210,7 +213,7 @@ Loading...
 
 
 
-### [Temporal dependence modeling](#content)
+## [Temporal dependence modeling](#content)
 
 | Reference                       | Modules                    | description                                                  | Architecture                                       |
 | ------------------------------- | -------------------------- | ------------------------------------------------------------ | -------------------------------------------------- |
@@ -219,7 +222,7 @@ Loading...
 | <a href = "#twotwo">[2.2]</a>   | LSTM                       | Use Long Short-Term Memory (LSTM) network to capture the temporal sequential dependency, which is proposed to address the exploding and vanishing gradient issue of traditional Recurrent Neural Network (RNN). | ![dilatedCasual](./img/temporal/STDN.png)          |
 | <a href = "#oneseven">[1.7]</a> | GRU                        | Gated Recurrent Units (GRU) , which is a simple yet powerful variant of RNNs. | ![dilatedCasual](./img/temporal/GRU.png)           |
 
-### [External factors](#content)
+## [External factors](#content)
 
 | Reference                       | Modules                | description                                                  | Architecture                             |
 | ------------------------------- | ---------------------- | ------------------------------------------------------------ | ---------------------------------------- |
@@ -228,7 +231,7 @@ Loading...
 |                                 |                        |                                                              |                                          |
 |                                 |                        |                                                              |                                          |
 
-### [Tricks](#content)
+## [Tricks](#content)
 
 | Reference                       | Modules             | description                                                  | Architecture                         |
 | ------------------------------- | ------------------- | ------------------------------------------------------------ | ------------------------------------ |
