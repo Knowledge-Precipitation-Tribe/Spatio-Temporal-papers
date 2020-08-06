@@ -26,6 +26,10 @@ Contributions are always welcome! Make an individual pull request for each sugge
 - <a href = "#Expert">Expert</a>
 - <a href = "#AI-Lab">AI Lab</a>
 - <a href = "#Dataset">Dataset</a>
+  - <a href = "#Sensor-data">Sensor-data</a>
+  - <a href = "#Trajectory-data">Trajectory data</a>
+  - <a href = "#Demand-data">Demand data</a>
+  - <a href = "#Public-transportation-system-transaction-records">Public transportation system transaction records</a>
 
 ## **Method summary**
 
@@ -139,11 +143,41 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 [2] 智慧足迹: [link](http://www.smartsteps.com/)
 
+## [Sensor data](#content)
+
+[1] UK traffic flow datasets: [link](https://www.gov.uk/)
+
+[2] Illinois traffic flow datasets: [link](http://www.travelmidwest.com/)
+
+[3] PEMS: [link](http://pems.dot.ca.gov/), [Baidu Netdisk](https://pan.baidu.com/s/1c3NNV7nGnDylFJ9tBYUF0g) password:jutw
+
+## [Trajectory data](#content)
+
+Loading...
+
+## [Demand data](#content)
+
+Loading...
+
+## [Public transportation system transaction records](#content)
+
+Loading...
+
+## [Others](#content)
+
+[1] Weather and events data: [link](https://www.wunderground.com/)
+
+[2] Weather and climate data: [link](https://www.ncdc.noaa.gov/data-access)
+
+[3] NSW POI data: [link](https://sdi.nsw.gov.au/catalog/search/resource/details.page?uuid=%7BC41F6FE5-1C56-4556-%209EC6-EC9BD7094BBB%7D)
+
+[4] Road network data: [link](http://networkrepository.com/road.php)
+
+
+
 [3] NYC OpenData: [link](https://opendata.cityofnewyork.us/)
 
 [4] METR-LA: [link](http://geohub.lacity.org/datasets/traffic-data?geometry=-119.170%2C33.900%2C-117.193%2C34.298), [Baidu Netdisk](https://pan.baidu.com/s/1g9yxZMDVf9nI0eN-ixeiPQ) password:xsz5
-
-[5] PEMS: [link](http://pems.dot.ca.gov/), [Baidu Netdisk](https://pan.baidu.com/s/1c3NNV7nGnDylFJ9tBYUF0g) password:jutw
 
 [6] TaxiBJ: [link](https://github.com/TolicWang/DeepST/tree/master/data/TaxiBJ), [Baidu Netdisk](https://pan.baidu.com/s/1aoi7gEkFQFn2MTYlGuc7Iw) password:sg4n
 
@@ -159,20 +193,11 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 [12] BikeDC: [link](https://www.capitalbikeshare.com/system-data)
 
-[13] Weather and events data: [link](https://www.wunderground.com/)
-
-[14] UK traffic flow datasets: [link](https://www.gov.uk/)
-
-[15] Illinois traffic flow datasets: [link](http://www.travelmidwest.com/)
-
-[16] Weather and climate data: [link](https://www.ncdc.noaa.gov/data-access)
-
-[17] NSW POI data: [link](https://sdi.nsw.gov.au/catalog/search/resource/details.page?uuid=%7BC41F6FE5-1C56-4556-%209EC6-EC9BD7094BBB%7D)
-
-[18] Road network data: [link](http://networkrepository.com/road.php)
-
-
 ## [Method summary](#content)
+
+[中文版思维导图](https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/blob/master/img/urban-computing.png)
+
+![urban-computing](./img/urban-computing-english.png)
 
 ### [Spatial dependence modeling](#content)
 
