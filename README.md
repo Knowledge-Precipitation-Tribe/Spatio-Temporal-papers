@@ -59,6 +59,8 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 [3] [Inventory of new infrastructure projects](https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/blob/master/pdf/%E9%A1%B9%E7%9B%AE%E7%9B%98%E7%82%B9.pdf)
 
+[4] [Map of new infrastructure enterprises](./img/map.jpeg)
+
 # [WhitePaper](#content)
 [1] [百度城市大脑白皮书](https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/blob/master/pdf/%E7%99%BE%E5%BA%A6%E5%9F%8E%E5%B8%82%E5%A4%A7%E8%84%91%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
 
