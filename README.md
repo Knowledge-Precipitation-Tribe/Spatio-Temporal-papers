@@ -156,15 +156,9 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 ## [Trajectory data](#content)
 
-Loading...
+[1] Chengdu: [link](https://outreach.didichuxing.com/app-vue/TTItrajectory?id=1001)
 
-## [Demand data](#content)
-
-Loading...
-
-## [Public transportation system transaction records](#content)
-
-Loading...
+[2] Xian: [link](https://outreach.didichuxing.com/app-vue/TTItrajectory?id=1001)
 
 ## [Others](#content)
 
@@ -176,25 +170,23 @@ Loading...
 
 [4] Road network data: [link](http://networkrepository.com/road.php)
 
+[5] NYC OpenData: [link](https://opendata.cityofnewyork.us/)
 
+[6] METR-LA: [link](http://geohub.lacity.org/datasets/traffic-data?geometry=-119.170%2C33.900%2C-117.193%2C34.298), [Baidu Netdisk](https://pan.baidu.com/s/1g9yxZMDVf9nI0eN-ixeiPQ) password:xsz5
 
-[3] NYC OpenData: [link](https://opendata.cityofnewyork.us/)
+[7] TaxiBJ: [link](https://github.com/TolicWang/DeepST/tree/master/data/TaxiBJ), [Baidu Netdisk](https://pan.baidu.com/s/1aoi7gEkFQFn2MTYlGuc7Iw) password:sg4n
 
-[4] METR-LA: [link](http://geohub.lacity.org/datasets/traffic-data?geometry=-119.170%2C33.900%2C-117.193%2C34.298), [Baidu Netdisk](https://pan.baidu.com/s/1g9yxZMDVf9nI0eN-ixeiPQ) password:xsz5
+[8] BikeNYC: [link](https://www.citibikenyc.com/system-data), [Baidu Netdisk](https://pan.baidu.com/s/1SdSPWu5c761H3e8XjtzuaA) password:lmwj
 
-[6] TaxiBJ: [link](https://github.com/TolicWang/DeepST/tree/master/data/TaxiBJ), [Baidu Netdisk](https://pan.baidu.com/s/1aoi7gEkFQFn2MTYlGuc7Iw) password:sg4n
+[9] NYC-Taxi: [link](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page), [Baidu Netdisk](https://pan.baidu.com/s/1W2UV-xiDG_wbM9tuPvfrsA) password:022y
 
-[7] BikeNYC: [link](https://www.citibikenyc.com/system-data), [Baidu Netdisk](https://pan.baidu.com/s/1SdSPWu5c761H3e8XjtzuaA) password:lmwj
+[10] NYC-Bike: [link](https://www.citibikenyc.com/system-data)
 
-[8] NYC-Taxi: [link](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page), [Baidu Netdisk](https://pan.baidu.com/s/1W2UV-xiDG_wbM9tuPvfrsA) password:022y
+[11] San Francisco taxi: [link](https://crawdad.org/)
 
-[9] NYC-Bike: [link](https://www.citibikenyc.com/system-data)
+[12] Chicago bike: [link](https://www.divvybikes.com/system-data)
 
-[10] San Francisco taxi: [link](https://crawdad.org/)
-
-[11] Chicago bike: [link](https://www.divvybikes.com/system-data)
-
-[12] BikeDC: [link](https://www.capitalbikeshare.com/system-data)
+[13] BikeDC: [link](https://www.capitalbikeshare.com/system-data)
 
 # [Method summary](#content)
 
@@ -238,7 +230,7 @@ Loading...
 | Reference                       | Modules             | description                                                  | Architecture                         |
 | ------------------------------- | ------------------- | ------------------------------------------------------------ | ------------------------------------ |
 | <a href = "#threeone">[3.1]</a> | Residual connection | As the network deepens, the accuracy of the training set has decreased. We can be sure that this is not caused by overfitting (the training set should have a high accuracy in the case of overfitting); so the author raised this question A new kind of network, called deep residual network, which allows the network to deepen as much as possible. | ![STResnet](./img/tricks/Resnet.png) |
-|                                 |                     |                                                              |                                      |
+|                                 | Attention           |                                                              |                                      |
 |                                 |                     |                                                              |                                      |
 |                                 |                     |                                                              |                                      |
 
@@ -246,7 +238,7 @@ Loading...
 
 ### [Survey](#content)
 
-[1] **Urban Computing: Concepts, Methodologies, and Applications.** TIST 2014. [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/UrbanComputing-zheng-tist2014.pdf)
+[1] **Urban Computing: Concepts, Methodologies, and Applications.** TITS 2014. [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/UrbanComputing-zheng-tist2014.pdf)
 
 *YU ZHENG, LICIA CAPRA, OURI WOLFSON, HAI YANG*
 
@@ -284,7 +276,7 @@ Loading...
 
 ---
 
-[7] **A Survey on Modern Deep Neural Network for Traffic Prediction: Trends, Methods and Challenges.** IEEE Transactions on Knowledge and Data Engineering 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9112608)
+[7] **A Survey on Modern Deep Neural Network for Traffic Prediction: Trends, Methods and Challenges.** TKDE 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9112608)
 
 *David Alexander Tedjopurnomo, Zhifeng Bao, Baihua Zheng, Farhana Murtaza Choudhury, Kai Qin*
 
@@ -308,7 +300,7 @@ Loading...
 
 ---
 
-[3] **Heterogeneous Graph Neural Network.** SIGKDD 2019. [paper](https://dl.acm.org/doi/abs/10.1145/3292500.3330961)
+[3] **Heterogeneous Graph Neural Network.** KDD 2019. [paper](https://dl.acm.org/doi/abs/10.1145/3292500.3330961)
 
 *Chuxu Zhang, Dongjin Song, Chao Huang, Ananthram Swami, Nitesh V. Chawla*
 
@@ -466,7 +458,7 @@ Loading...
 
 <p id = "oneten">[1.10]</p> 
 
-**Temporal Multi-Graph Convolutional Network for Traffic Flow Prediction.** IEEE Transactions on Intelligent Transportation Systems 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9098104)
+**Temporal Multi-Graph Convolutional Network for Traffic Flow Prediction.** TITS 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9098104)
 
 | Models | Modules | Architecture | conclusion |
 | :----: | :-----: | :----------: | :--------: |
@@ -520,11 +512,21 @@ Loading...
 
 ---
 
+<p id = "oneonefour">[1.14]</p>
+
+**Optimized Graph Convolution Recurrent Neural Network for Traffic Prediction** TITS 2020. [paper]()
+
+**Kan Guo, Yongli Hu, ZhenQian, Hao Liu, Ke Zhang, Yanfeng Sun, Junbin Gao, Baocai Yin**
+
+---
+
+
+
 ### [Other method on Traffic forecasting ](#content)
 
 <p id = "twoone">[2.1]</p>
 
-**Urban Traffic Prediction from Spatio-Temporal Data Using Deep Meta Learning.** SIGKDD 2019. [paper](http://urban-computing.com/pdf/kdd_2019_camera_ready_ST_MetaNet.pdf)
+**Urban Traffic Prediction from Spatio-Temporal Data Using Deep Meta Learning.** KDD 2019. [paper](http://urban-computing.com/pdf/kdd_2019_camera_ready_ST_MetaNet.pdf)
 
 | Models | Modules | Architecture | conclusion |
 | :----: | :-----: | :----------: | :--------: |
@@ -552,7 +554,7 @@ Loading...
 
 <p id = "twothree">[2.3]</p>
 
-**Deep Spatial–Temporal 3D Convolutional Neural Networks for Traffic Data Forecasting.** IEEE Transactions on Intelligent Transportation Systems 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8684259/)
+**Deep Spatial–Temporal 3D Convolutional Neural Networks for Traffic Data Forecasting.** TITS 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8684259/)
 
 | Models | Modules | Architecture | conclusion |
 | :----: | :-----: | :----------: | :--------: |
@@ -624,7 +626,7 @@ Loading...
 
 <p id = "threetwo">[3.2]</p>  
 
-**UrbanFM: Inferring Fine-Grained Urban Flows.** SIGKDD 2019. [paper](https://arxiv.org/pdf/1902.05377.pdf)
+**UrbanFM: Inferring Fine-Grained Urban Flows.** KDD 2019. [paper](https://arxiv.org/pdf/1902.05377.pdf)
 
 | Models  |             Modules             |         Architecture          | conclusion                                                   |
 | :-----: | :-----------------------------: | :---------------------------: | :----------------------------------------------------------- |
@@ -638,7 +640,7 @@ Loading...
 
 <p id = "threethree">[3.3]</p>  
 
-**DeepSTD: Mining Spatio-Temporal Disturbances of Multiple Context Factors for Citywide Traffic Flow Prediction.** IEEE Transactions on Intelligent Transportation Systems 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8793226)
+**DeepSTD: Mining Spatio-Temporal Disturbances of Multiple Context Factors for Citywide Traffic Flow Prediction.** TITS 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8793226)
 
 | Models | Modules | Architecture | conclusion |
 | :----: | :-----: | :----------: | :--------: |
@@ -652,7 +654,7 @@ Loading...
 
 <p id = "threefour">[3.4]</p>  
 
-**Dynamic Spatial-Temporal Representation Learning for Traffic Flow Prediction.** IEEE Transactions on Intelligent Transportation Systems 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9127874/)
+**Dynamic Spatial-Temporal Representation Learning for Traffic Flow Prediction.** TITS 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9127874/)
 
 | Models | Modules | Architecture | conclusion |
 | :----: | :-----: | :----------: | :--------: |
@@ -780,7 +782,7 @@ Loading...
 
 <p id = "fourtwo">[4.2]</p>  
 
-**Origin-Destination Matrix Prediction via Graph Convolution: a New Perspective of Passenger Demand Modeling.** SIGKDD 2019. [paper](https://dl.acm.org/doi/abs/10.1145/3292500.3330877)
+**Origin-Destination Matrix Prediction via Graph Convolution: a New Perspective of Passenger Demand Modeling.** KDD 2019. [paper](https://dl.acm.org/doi/abs/10.1145/3292500.3330877)
 
 | Models | Modules | Architecture | conclusion |
 | :----: | :-----: | :----------: | :--------: |
@@ -803,4 +805,18 @@ Loading...
 
 
 *Lei Bai, Lina Yao , Salil.S Kanhere, Xianzhi Wang, Quan.Z Sheng*
+
+### [Travel time or Arrive time](#content)
+
+<p id = "fiveone">[5.1]</p>
+
+**HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival** KDD 2020. [paper]()
+
+| Models | Modules | Architecture | conclusion |
+| :----: | :-----: | :----------: | :--------: |
+|        |         |              |            |
+
+*Huiting Hong, Yucheng Lin, Xiaoqing Yang, Zang Li, Kun Fu, Zheng Wang, Xiaohu Qie, Jieping Ye*
+
+---
 
