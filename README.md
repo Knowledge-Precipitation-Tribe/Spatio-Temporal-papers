@@ -88,6 +88,8 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 [13] [人工智能与工业融合发展研究报告](https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/blob/master/pdf/人工智能与工业融合发展研究报告.pdf)
 
+[14] [2020年中国智慧城市发展研究报告](https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/blob/master/pdf/2020年中国智慧城市发展研究报告.pdf)
+
 # [Expert](#content)
 
 [1] Yu Zheng: [link](http://urban-computing.com/yuzheng)
