@@ -240,7 +240,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 ### [Survey](#content)
 
-[1] **Urban Computing: Concepts, Methodologies, and Applications.** TITS 2014. [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/UrbanComputing-zheng-tist2014.pdf)
+[1] **Urban Computing: Concepts, Methodologies, and Applications.** ACM Transactions on Intelligent Systems and Technology 2014. [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/UrbanComputing-zheng-tist2014.pdf)
 
 *YU ZHENG, LICIA CAPRA, OURI WOLFSON, HAI YANG*
 
@@ -258,19 +258,19 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 ---
 
-[4] **Deep Learning for Spatio-Temporal Data Mining: A Survey.** [paper](https://arxiv.org/pdf/1906.04928.pdf)
+[4] **Deep Learning for Spatio-Temporal Data Mining: A Survey.** arXiv [paper](https://arxiv.org/pdf/1906.04928.pdf)
 
 *Senzhang Wang, Jiannong Cao, Fellow, Philip S. Yu*
 
 ---
 
-[5] **Urban flows prediction from spatial-temporal data using machine learning: A survey.** Information Fusion 2020. [paper](https://www.sciencedirect.com/science/article/pii/S1566253519303094)
+[5] **Urban flows prediction from spatialtemporal data using machine learning: A survey.** Information Fusion 2020. [paper](https://www.sciencedirect.com/science/article/pii/S1566253519303094)
 
 *Peng Xie, Tianrui Li, Jia Liu, Shengdong Du, Xin Yang, Junbo Zhang*
 
 ---
 
-[6] **How to Build a Graph-Based Deep Learning Architecture in Traffic Domain: A Survey.** [paper](https://arxiv.org/pdf/2005.11691.pdf)
+[6] **How to Build a Graph-Based Deep Learning Architecture in Traffic Domain: A Survey.** arXiv [paper](https://arxiv.org/pdf/2005.11691.pdf)
 
 [translation](https://github.com/Knowledge-Precipitation-Tribe/How-to-Build-a-Graph-Based-Deep-Learning-Architecture-in-Traffic-Domain)
 
@@ -284,7 +284,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 ---
 
-[8] **A Survey of Hybrid Deep Learning Methods for Traffic Flow Prediction.** ACM International Conference Proceeding Series 2019. [paper](https://dl.acm.org/doi/pdf/10.1145/3373419.3373429)
+[8] **A Survey of Hybrid Deep Learning Methods for Traffic Flow Prediction.** ICAIP 2019. [paper](https://dl.acm.org/doi/pdf/10.1145/3373419.3373429)
 
 *Yan Shi, Haoran Feng, Xiongfei Geng, Xingui Tang, Yongcai Wang*
 
@@ -296,13 +296,13 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 ---
 
-[2] **AM-GCN: Adaptive Multi-channel Graph Convolutional Networks.** KDD 2020. [paper](http://www.shichuan.org/doc/86.pdf)
+[2] **AM-GCN: Adaptive Multi-channel Graph Convolutional Networks.** SIGKDD 2020. [paper](http://www.shichuan.org/doc/86.pdf)
 
 *Xiao Wang, Meiqi Zhu, Deyu Bo, Peng Cui, Chuan Shi, Jian Pei*
 
 ---
 
-[3] **Heterogeneous Graph Neural Network.** KDD 2019. [paper](https://dl.acm.org/doi/abs/10.1145/3292500.3330961)
+[3] **Heterogeneous Graph Neural Network.** SIGKDD 2019. [paper](https://dl.acm.org/doi/abs/10.1145/3292500.3330961)
 
 *Chuxu Zhang, Dongjin Song, Chao Huang, Ananthram Swami, Nitesh V. Chawla*
 
@@ -314,7 +314,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 ---
 
-[4] **Temporal Graph Networks for Deep Learning on Dynamic Graphs.** arxiv 2020. [paper](https://arxiv.org/abs/2006.10637)
+[4] **Temporal Graph Networks for Deep Learning on Dynamic Graphs.** arXiv 2020. [paper](https://arxiv.org/abs/2006.10637)
 
 *Ben Chamberlain, Fabrizio Frasca, Davide Eynard, Federico Monti, Michael Bronstein*
 
@@ -446,7 +446,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "onenine">[1.9]</p> 
 
-**STGRAT: A Spatio-Temporal Graph Attention Network for Traffic Forecasting.** [paper](http://arxiv-export-lb.library.cornell.edu/pdf/1911.13181)
+**STGRAT: A Spatio-Temporal Graph Attention Network for Traffic Forecasting.** AAAI 2020. [paper](http://arxiv-export-lb.library.cornell.edu/pdf/1911.13181)
 
 | Models | Modules | Architecture | conclusion |
 | :----: | :-----: | :----------: | :--------: |
@@ -474,7 +474,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "oneoneone">[1.11]</p> 
 
-**Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data.** KDD 2020. [paper](https://arxiv.org/pdf/2006.12715.pdf)
+**Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data.** SIGKDD 2020. [paper](https://arxiv.org/pdf/2006.12715.pdf)
 
 | Models | Modules | Architecture | conclusion |
 | :----: | :-----: | :----------: | :--------: |
@@ -516,7 +516,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "oneonefour">[1.14]</p>
 
-**Optimized Graph Convolution Recurrent Neural Network for Traffic Prediction** TITS 2020. [paper]()
+**Optimized Graph Convolution Recurrent Neural Network for Traffic Prediction.** TITS 2020. [paper]()
 
 **Kan Guo, Yongli Hu, ZhenQian, Hao Liu, Ke Zhang, Yanfeng Sun, Junbin Gao, Baocai Yin**
 
@@ -528,7 +528,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "twoone">[2.1]</p>
 
-**Urban Traffic Prediction from Spatio-Temporal Data Using Deep Meta Learning.** KDD 2019. [paper](http://urban-computing.com/pdf/kdd_2019_camera_ready_ST_MetaNet.pdf)
+**Urban Traffic Prediction from Spatio-Temporal Data Using Deep Meta Learning.** SIGKDD 2019. [paper](http://urban-computing.com/pdf/kdd_2019_camera_ready_ST_MetaNet.pdf)
 
 | Models | Modules | Architecture | conclusion |
 | :----: | :-----: | :----------: | :--------: |
@@ -570,7 +570,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "twofour">[2.4]</p>
 
-**GeoMAN: Multi-level Attention Networks for Geo-sensory Time Series Prediction** IJCAI 2018. [paper](https://www.ijcai.org/Proceedings/2018/0476.pdf), [code](https://github.com/yoshall/GeoMAN)
+**GeoMAN: Multi-level Attention Networks for Geo-sensory Time Series Prediction.** IJCAI 2018. [paper](https://www.ijcai.org/Proceedings/2018/0476.pdf), [code](https://github.com/yoshall/GeoMAN)
 
 | Models |                           Modules                           |        Architecture         | conclusion |
 | :----: | :---------------------------------------------------------: | :-------------------------: | :--------: |
@@ -584,7 +584,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "twofive">[2.5]</p>
 
-**Preserving Dynamic Attention for Long-Term Spatial-Temporal Prediction.** KDD 2020. [paper](https://arxiv.org/abs/2006.08849)
+**Preserving Dynamic Attention for Long-Term Spatial-Temporal Prediction.** SIGKDD 2020. [paper](https://arxiv.org/abs/2006.08849)
 
 | Models | Modules | Architecture | conclusion |
 | :----: | :-----: | :----------: | :--------: |
@@ -628,7 +628,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "threetwo">[3.2]</p>  
 
-**UrbanFM: Inferring Fine-Grained Urban Flows.** KDD 2019. [paper](https://arxiv.org/pdf/1902.05377.pdf)
+**UrbanFM: Inferring Fine-Grained Urban Flows.** SIGKDD 2019. [paper](https://arxiv.org/pdf/1902.05377.pdf)
 
 | Models  |             Modules             |         Architecture          | conclusion                                                   |
 | :-----: | :-----------------------------: | :---------------------------: | :----------------------------------------------------------- |
@@ -670,7 +670,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "threefive">[3.5]</p>  
 
-**AutoST: Efficient Neural Architecture Search for Spatio-Temporal Prediction.** KDD 2020. [paper](http://urban-computing.com/pdf/AutoST_kdd20_camera_ready.pdf)
+**AutoST: Efficient Neural Architecture Search for Spatio-Temporal Prediction.** SIGKDD 2020. [paper](http://urban-computing.com/pdf/AutoST_kdd20_camera_ready.pdf)
 
 | Models | Modules | Architecture | conclusion |
 | :----: | :-----: | :----------: | :--------: |
@@ -698,7 +698,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "threeseven">[3.7]</p>  
 
-**Multi-Graph Convolutional Network for Short-Term Passenger Flow Forecasting in Urban Rail Transit.** arxiv. [paper](https://arxiv.org/pdf/2001.07512.pdf)
+**Multi-Graph Convolutional Network for Short-Term Passenger Flow Forecasting in Urban Rail Transit.** IET Intelligent Transport Systems 2020. [paper](https://arxiv.org/pdf/2001.07512.pdf)
 
 | Models | Modules | Architecture | conclusion |
 | :----: | :-----: | :----------: | :--------: |
@@ -712,7 +712,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "threeeight">[3.8]</p>  
 
-**Revisiting Convolutional Neural Networks for Urban Flow Analytics** arxiv 2020. [paper](https://arxiv.org/pdf/2003.00895.pdf)
+**Revisiting Convolutional Neural Networks for Urban Flow Analytics.** arXiv 2020. [paper](https://arxiv.org/pdf/2003.00895.pdf)
 
 | Models | Modules | Architecture | conclusion |
 | :----: | :-----: | :----------: | :--------: |
@@ -726,7 +726,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "threenine">[3.9]</p>  
 
-**Citywide Traffic Flow Prediction Based on Multiple Gated Spatio-temporal Convolutional Neural Networks.** ACM Transactions on Knowledge Discovery from Data 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3385414)
+**Citywide Traffic Flow Prediction Based on Multiple Gated Spatio-temporal Convolutional Neural Networks.** TKDD 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3385414)
 
 | Models | Modules | Architecture | conclusion |
 | :----: | :-----: | :----------: | :--------: |
@@ -740,7 +740,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "threeten">[3.10]</p>  
 
-**Physical-Virtual Collaboration Modeling for Intra-and Inter-Station Metro Ridership Prediction.** arxiv 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3385414)
+**Physical-Virtual Collaboration Modeling for Intra-and Inter-Station Metro Ridership Prediction.** arXiv 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3385414)
 
 | Models | Modules | Architecture | conclusion |
 | :----: | :-----: | :----------: | :--------: |
@@ -754,7 +754,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "threeten">[3.10]</p>  
 
-**Predicting Citywide Crowd Flows in Irregular Regions Using Multi-View Graph Convolutional Networks.** arxiv 2020. [paper](https://arxiv.org/abs/1903.07789)
+**Predicting Citywide Crowd Flows in Irregular Regions Using Multi-View Graph Convolutional Networks.** TKDE 2020. [paper](https://arxiv.org/abs/1903.07789)
 
 | Models | Modules | Architecture | conclusion |
 | :----: | :-----: | :----------: | :--------: |
@@ -784,7 +784,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "fourtwo">[4.2]</p>  
 
-**Origin-Destination Matrix Prediction via Graph Convolution: a New Perspective of Passenger Demand Modeling.** KDD 2019. [paper](https://dl.acm.org/doi/abs/10.1145/3292500.3330877)
+**Origin-Destination Matrix Prediction via Graph Convolution: a New Perspective of Passenger Demand Modeling.** SIGKDD 2019. [paper](https://dl.acm.org/doi/abs/10.1145/3292500.3330877)
 
 | Models | Modules | Architecture | conclusion |
 | :----: | :-----: | :----------: | :--------: |
@@ -812,7 +812,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "fiveone">[5.1]</p>
 
-**HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival** KDD 2020. [paper]()
+**HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival.** SIGKDD 2020. [paper](https://www.kdd.org/kdd2020/accepted-papers/view/heteta-heterogeneous-information-network-embedding-for-estimating-time-of-a) [code](https://github.com/didi/heteta)
 
 | Models | Modules | Architecture | conclusion |
 | :----: | :-----: | :----------: | :--------: |
