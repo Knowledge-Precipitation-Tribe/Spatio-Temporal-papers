@@ -314,9 +314,33 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 ---
 
-[4] **Temporal Graph Networks for Deep Learning on Dynamic Graphs.** arXiv 2020. [paper](https://arxiv.org/abs/2006.10637)
+[5] **Temporal Graph Networks for Deep Learning on Dynamic Graphs.** arXiv 2020. [paper](https://arxiv.org/abs/2006.10637)
 
 *Ben Chamberlain, Fabrizio Frasca, Davide Eynard, Federico Monti, Michael Bronstein*
+
+---
+
+[6] **GEOM-GCN: GEOMETRIC GRAPH CONVOLUTIONAL NETWORKS.** ICLR 2020. [paper](https://arxiv.org/abs/2002.05287)
+
+*Hongbin Pei, Bingzhe Wei, Kevin Chen-Chuan Chang, Yu Lei, Bo Yang*
+
+---
+
+[7] **Investigating and Mitigating Degree-Related Biases in Graph Convolutional Networks.** CIKM 2020. [paper](https://arxiv.org/pdf/2006.15643.pdf)
+
+*Xianfeng Tang, Huaxiu Yao, Yiwei Sun, Yiqi Wang, Jiliang Tang, Charu Aggarwal, Prasenjit Mitra, Suhang Wang*
+
+---
+
+[7] **TinyGNN: Learning Efficient Graph Neural Networks.** KDD 2020. [paper](https://www.kdd.org/kdd2020/accepted-papers/view/tinygnn-learning-efficient-graph-neural-networks)
+
+*Bencheng Yan, Chaokun Wang, Gaoyang Guo, Yunkai Lou*
+
+---
+
+[8] **Graph Neural Architecture Search.** IJCAI 2020. [paper](https://www.ijcai.org/Proceedings/2020/195)
+
+*Yang Gao, Hong Yang, Peng Zhang, Chuan Zhou, Yue Hu*
 
 ### [Long-term Dependencies](#content)
 
@@ -516,12 +540,35 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "oneonefour">[1.14]</p>
 
-**Optimized Graph Convolution Recurrent Neural Network for Traffic Prediction.** TITS 2020. [paper]()
+**Optimized Graph Convolution Recurrent Neural Network for Traffic Prediction.** TITS 2020. [paper](https://ieeexplore.ieee.org/document/8959420)
 
-**Kan Guo, Yongli Hu, ZhenQian, Hao Liu, Ke Zhang, Yanfeng Sun, Junbin Gao, Baocai Yin**
+*Kan Guo, Yongli Hu, ZhenQian, Hao Liu, Ke Zhang, Yanfeng Sun, Junbin Gao, Baocai Yin*
 
 ---
 
+<p id = "oneonefive">[1.15]</p>
+
+**Dynamic Graph Convolution Network for Traffic Forecasting Based on Latent Network of Laplace Matrix Estimation.** TITS 2020. [paper](https://ieeexplore.ieee.org/document/9190068)
+
+*Kan Guo, Yongli Hu, ZhenQian, Hao Liu, Ke Zhang, Yanfeng Sun, Junbin Gao, Baocai Yin*
+
+---
+
+<p id = "oneonesix">[1.16]</p>
+
+**GSTNet: Global Spatial-Temporal Network for Traffic Flow Prediction.** IJCAI 2019. [paper](https://www.ijcai.org/Proceedings/2019/0317.pdf)
+
+*Shen Fang, Qi Zhang, Gaofeng Meng, Shiming Xiang, Chunhong Pan*
+
+---
+
+<p id = "oneoneseven">[1.17]</p>
+
+**Short-Term Traffic Flow Forecasting Method With M-B-LSTM Hybrid Network.** TITS 2020. [paper](https://ieeexplore.ieee.org/document/9152107)
+
+*Qu Zhaowei, Li Haitao, Li Zhihui, Zhong Tao*
+
+---
 
 
 ### [Other method on Traffic forecasting ](#content)
@@ -798,7 +845,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "fourthree">[4.3]</p>  
 
-**STG2Seq: Spatial-temporal Graph to Sequence Model for Multi-step Passenger Demand Forecasting.** IJCAI 2019. [paper]()
+**STG2Seq: Spatial-temporal Graph to Sequence Model for Multi-step Passenger Demand Forecasting.** IJCAI 2019. [paper](https://arxiv.org/abs/1905.10069)
 
 | Models | Modules | Architecture | conclusion |
 | :----: | :-----: | :----------: | :--------: |
@@ -807,6 +854,21 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 
 *Lei Bai, Lina Yao , Salil.S Kanhere, Xianzhi Wang, Quan.Z Sheng*
+
+---
+
+<p id = "fourfour">[4.4]</p>  
+
+**Taxi Demand Prediction Using Parallel Multi-Task Learning Model.** TITS 2020. [paper](https://ieeexplore.ieee.org/document/9172100)
+
+| Models | Modules | Architecture | conclusion |
+| :----: | :-----: | :----------: | :--------: |
+|        |         |              |            |
+
+
+
+*Chizhan Zhang, Fenghua Zhu, Xiao Wang, LeileiSun, Haina Tang, Yisheng Lv*
+
 
 ### [Travel time or Arrive time](#content)
 
@@ -822,3 +884,15 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 ---
 
+<p id = "fivetwo">[5.2]</p>
+
+**CompactETA: A Fast Inference System for Travel Time Prediction
+Kun.** SIGKDD 2020. [paper](https://www.kdd.org/kdd2020/accepted-papers/view/compacteta-a-fast-inference-system-for-travel-time-prediction)
+
+| Models | Modules | Architecture | conclusion |
+| :----: | :-----: | :----------: | :--------: |
+|        |         |              |            |
+
+*Kun Fu, Fanlin Meng, Jieping Ye, Zheng Wang*
+
+---
