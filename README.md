@@ -370,18 +370,6 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "onetwo">[1.2]</p>
 
-**Spatiotemporal Multi-Graph Convolution Network for Ride-hailing Demand Forecasting.** AAAI 2019. [paper](http://www-scf.usc.edu/~yaguang/papers/aaai19_multi_graph_convolution.pdf).
-
-| Models |  Modules  |        Architecture         | conclusion |
-| :----: | :-------: | :-------------------------: | :--------: |
-| STMGCN | GCN,CGRNN | ![STMGCN](./img/STMGCN.png) |            |
-
-
-
-
-
-*Xu Geng, Yaguang Li, Leye Wang, Lingyu Zhang, Qiang Yang, Jieping Ye, Yan Liu*
-
 ---
 
 <p id = "onethree">[1.3]</p>
@@ -402,9 +390,9 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 **GMAN: A Graph Multi-Attention Network for Traffic Prediction.** AAAI 2020. [paper](https://arxiv.org/pdf/1911.08415.pdf), [code](https://github.com/zhengchuanpan/GMAN).
 
-| Models |                   Modules                    |      Architecture       | conclusion |
-| :----: | :------------------------------------------: | :---------------------: | :--------: |
-|  GMAN  | Encoder-Decoder,ST-Attention,Trans Attention | ![GMAN](./img/GMAN.png) |            |
+| Models |                   Modules                    |      Architecture       | conclusion                                                   |
+| :----: | :------------------------------------------: | :---------------------: | :----------------------------------------------------------- |
+|  GMAN  | Encoder-Decoder,ST-Attention,Trans Attention | ![GMAN](./img/GMAN.png) | This paper proposes a spatial-temporal attention mechanism with gated fusion to simulate complex spatial-temporal correlation. |
 
 
 
@@ -619,9 +607,9 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 **GeoMAN: Multi-level Attention Networks for Geo-sensory Time Series Prediction.** IJCAI 2018. [paper](https://www.ijcai.org/Proceedings/2018/0476.pdf), [code](https://github.com/yoshall/GeoMAN)
 
-| Models |                           Modules                           |        Architecture         | conclusion |
-| :----: | :---------------------------------------------------------: | :-------------------------: | :--------: |
-| GeoMAN | Spatial Attention,Temporal Attention, LSTM, Encoder-decoder | ![GeoMAN](./img/GeoMAN.png) |            |
+| Models |                           Modules                           |        Architecture         | conclusion                                                   |
+| :----: | :---------------------------------------------------------: | :-------------------------: | :----------------------------------------------------------- |
+| GeoMAN | Spatial Attention,Temporal Attention, LSTM, Encoder-decoder | ![GeoMAN](./img/GeoMAN.png) | This paper applies local and global spatial attention mechanisms to capture dynamic correlations between sensors in the data. And time attention is used to adaptively select the relevant time step to make the prediction. In addition, the proposed model takes into account the influence of external factors through a common fusion module. |
 
 
 
@@ -896,3 +884,14 @@ Kun.** SIGKDD 2020. [paper](https://www.kdd.org/kdd2020/accepted-papers/view/com
 *Kun Fu, Fanlin Meng, Jieping Ye, Zheng Wang*
 
 ---
+
+<p id = "fivethree">[5.3]</p>
+
+**Spatiotemporal Multi-Graph Convolution Network for Ride-hailing Demand Forecasting.** AAAI 2019. [paper](http://www-scf.usc.edu/~yaguang/papers/aaai19_multi_graph_convolution.pdf).
+
+| Models |  Modules  |        Architecture         | conclusion                                                   |
+| :----: | :-------: | :-------------------------: | :----------------------------------------------------------- |
+| STMGCN | GCN,CGRNN | ![STMGCN](./img/STMGCN.png) | This paper simulates complex spatial relationships by constructing multi-graphs, captures temporal dependencies by context-gated RNN, and captures spatial dependencies by GCN. |
+
+
+*Xu Geng, Yaguang Li, Leye Wang, Lingyu Zhang, Qiang Yang, Jieping Ye, Yan Liu*
