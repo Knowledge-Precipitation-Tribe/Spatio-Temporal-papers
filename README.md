@@ -370,6 +370,16 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "onetwo">[1.2]</p>
 
+**Dynamic Graph Convolution Network for Traffic Forecasting Based on Latent Network of Laplace Matrix Estimation.** TITS 2020. [paper](https://ieeexplore.ieee.org/document/9190068)
+
+| Models | Modules | Architecture | conclusion |
+| :----: | :-----: | :----------: | :--------: |
+|        |         |              |            |
+
+
+
+*Kan Guo, Yongli Hu, ZhenQian, Yanfeng Sun, Junbin Gao, Baocai Yin*
+
 ---
 
 <p id = "onethree">[1.3]</p>
