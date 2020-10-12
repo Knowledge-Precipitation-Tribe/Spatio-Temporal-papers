@@ -354,7 +354,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id="oneone">[1.1]</p> 
 
-**Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting.** IJCAI 2018. [paper](https://arxiv.org/pdf/1709.04875.pdf), [code](https://github.com/ShichengChen/Spatio-Temporal-Graph-Convolutional-Networks-A-Deep-Learning-Framework-for-Traffic-Forecasting).
+**Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting.** IJCAI 2018. [paper](https://arxiv.org/pdf/1709.04875.pdf), [github](https://github.com/ShichengChen/Spatio-Temporal-Graph-Convolutional-Networks-A-Deep-Learning-Framework-for-Traffic-Forecasting), [code](https://pan.baidu.com/s/1eCtxVTjEFYTmUVqHH9hV4Q)  密码:j6ak.
 
 | Models |    Modules    |       Architecture        | conclusion                                                   |
 | :----- | :-----------: | :-----------------------: | :----------------------------------------------------------- |
@@ -388,7 +388,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "onefour">[1.4]</p>
 
-**GMAN: A Graph Multi-Attention Network for Traffic Prediction.** AAAI 2020. [paper](https://arxiv.org/pdf/1911.08415.pdf), [code](https://github.com/zhengchuanpan/GMAN).
+**GMAN: A Graph Multi-Attention Network for Traffic Prediction.** AAAI 2020. [paper](https://arxiv.org/pdf/1911.08415.pdf), [github](https://github.com/zhengchuanpan/GMAN), [code](https://pan.baidu.com/s/18vnklh--AhFEkjvIrZH3kg) 密码:4fdh.
 
 | Models |                   Modules                    |      Architecture       | conclusion                                                   |
 | :----: | :------------------------------------------: | :---------------------: | :----------------------------------------------------------- |
@@ -402,7 +402,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "onefive">[1.5]</p>
 
-**Graph WaveNet for Deep Spatial-Temporal Graph Modeling.** IJCAI 2019. [paper](https://arxiv.org/abs/1906.00121), [code](https://github.com/nnzhan/Graph-WaveNet).
+**Graph WaveNet for Deep Spatial-Temporal Graph Modeling.** IJCAI 2019. [paper](https://arxiv.org/abs/1906.00121), [github](https://github.com/nnzhan/Graph-WaveNet), [code](https://pan.baidu.com/s/1irrICIGnNkZLleZiLRVBYw) 密码:acfw.
 
 | Models |              Modules               |     Architecture      | conclusion                                                   |
 | :----: | :--------------------------------: | :-------------------: | :----------------------------------------------------------- |
@@ -416,7 +416,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "onesix">[1.6]</p>
 
-**Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting.** AAAI 2020. [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-SongC.8074.pdf), [code](https://github.com/Davidham3/STSGCN).
+**Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting.** AAAI 2020. [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-SongC.8074.pdf), [github](https://github.com/Davidham3/STSGCN), [code](https://pan.baidu.com/s/1RlzpUMMcoaQSIwz1B5aF8Q ) 密码:3jkd.
 
 | Models |               Modules               |        Architecture         | conclusion                                                   |
 | :----: | :---------------------------------: | :-------------------------: | :----------------------------------------------------------- |
@@ -430,7 +430,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "oneseven">[1.7]</p> 
 
-**DIFFUSION CONVOLUTIONAL RECURRENT NEURAL NETWORK: DATA-DRIVEN TRAFFIC FORECASTING.** ICLR 2018. [paper](https://arxiv.org/abs/1707.01926).
+**DIFFUSION CONVOLUTIONAL RECURRENT NEURAL NETWORK: DATA-DRIVEN TRAFFIC FORECASTING.** ICLR 2018. [paper](https://arxiv.org/abs/1707.01926), [github](https://github.com/liyaguang/DCRNN), [code](https://pan.baidu.com/s/1ufAQxCt6dn-h16l-h_EfhQ)  密码:ba0q.
 
 | Models |                       Modules                       |       Architecture        | conclusion                                                   |
 | :----: | :-------------------------------------------------: | :-----------------------: | :----------------------------------------------------------- |
@@ -444,7 +444,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "oneeight">[1.8]</p> 
 
-**Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting.** AAAI 2019. [paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/3881) [code](https://github.com/Davidham3/ASTGCN).
+**Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting.** AAAI 2019. [paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/3881) [github](https://github.com/guoshnBJTU/ASTGCN-r-pytorch), [code](https://pan.baidu.com/s/10gDoeRDXaH6UM2Am4rVRxw)  密码:nbje.
 
 | Models | Modules | Architecture | conclusion |
 | :----: | :-----: | :----------: | :--------: |
@@ -577,7 +577,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "twotwo">[2.2]</p>
 
-**Revisiting Spatial-Temporal Similarity: A Deep Learning Framework for Traffic Prediction.** AAAI 2019. [paper](https://arxiv.org/pdf/1803.01254.pdf), [code](https://github.com/tangxianfeng/STDN)
+**Revisiting Spatial-Temporal Similarity: A Deep Learning Framework for Traffic Prediction.** AAAI 2019. [paper](https://arxiv.org/pdf/1803.01254.pdf), [github](https://github.com/tangxianfeng/STDN), [code](https://pan.baidu.com/s/1GHHBZKuH0q2ZCkSIZR1j5A)  密码:7hu9
 
 | Models |          Modules          |      Architecture       | conclusion                                                   |
 | :----: | :-----------------------: | :---------------------: | :----------------------------------------------------------- |
@@ -605,7 +605,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "twofour">[2.4]</p>
 
-**GeoMAN: Multi-level Attention Networks for Geo-sensory Time Series Prediction.** IJCAI 2018. [paper](https://www.ijcai.org/Proceedings/2018/0476.pdf), [code](https://github.com/yoshall/GeoMAN)
+**GeoMAN: Multi-level Attention Networks for Geo-sensory Time Series Prediction.** IJCAI 2018. [paper](https://www.ijcai.org/Proceedings/2018/0476.pdf), [github](https://github.com/yoshall/GeoMAN), [code](https://pan.baidu.com/s/1hP-pTdzhhterbKFB5NbbHQ)  密码:vavc
 
 | Models |                           Modules                           |        Architecture         | conclusion                                                   |
 | :----: | :---------------------------------------------------------: | :-------------------------: | :----------------------------------------------------------- |
@@ -862,7 +862,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "fiveone">[5.1]</p>
 
-**HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival.** SIGKDD 2020. [paper](https://www.kdd.org/kdd2020/accepted-papers/view/heteta-heterogeneous-information-network-embedding-for-estimating-time-of-a) [code](https://github.com/didi/heteta)
+**HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival.** SIGKDD 2020. [paper](https://www.kdd.org/kdd2020/accepted-papers/view/heteta-heterogeneous-information-network-embedding-for-estimating-time-of-a) [github](https://github.com/didi/heteta), [code](https://pan.baidu.com/s/1ogQzIiw8xMPdqPvu3xXGgQ ) 密码:38k8
 
 | Models | Modules | Architecture | conclusion |
 | :----: | :-----: | :----------: | :--------: |
