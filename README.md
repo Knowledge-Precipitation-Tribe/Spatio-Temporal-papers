@@ -156,7 +156,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 [2] Illinois traffic flow datasets: [link](http://www.travelmidwest.com/)
 
-[3] PEMS: [link](http://pems.dot.ca.gov/), [Baidu Netdisk](https://pan.baidu.com/s/1c3NNV7nGnDylFJ9tBYUF0g) password:jutw
+[3] PeMS: [link](http://pems.dot.ca.gov/), [Baidu Netdisk](https://pan.baidu.com/s/1c3NNV7nGnDylFJ9tBYUF0g) password:jutw | [PeMS Guide](https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/blob/master/PEMS.md)
 
 ## [Trajectory data](#content)
 

@@ -49,5 +49,5 @@ PeMS系统上提供了多种数据集，一般我们使用Type为Station 5-Minut
 
 ## 参考
 
-[1] [PeMS_intro_User_Guide](./pdf/PeMS_intro_User_Guide.pdf)
+[1] [PeMS_intro_User_Guide](https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/blob/master/pdf/PeMS_Intro_User_Guide_v6.pdf)
 
