@@ -929,8 +929,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "fivetwo">[5.2]</p>
 
-**CompactETA: A Fast Inference System for Travel Time Prediction
-Kun.** SIGKDD 2020. [paper](https://www.kdd.org/kdd2020/accepted-papers/view/compacteta-a-fast-inference-system-for-travel-time-prediction)
+**CompactETA: A Fast Inference System for Travel Time Prediction.** KDD 2020. [paper](https://www.kdd.org/kdd2020/accepted-papers/view/compacteta-a-fast-inference-system-for-travel-time-prediction)
 
 | Models | Modules | Architecture | conclusion |
 | :----: | :-----: | :----------: | :--------: |
