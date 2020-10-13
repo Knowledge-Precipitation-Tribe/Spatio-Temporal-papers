@@ -90,6 +90,8 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 [14] [2020年中国智慧城市发展研究报告](https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/blob/master/pdf/2020年中国智慧城市发展研究报告.pdf)
 
+[15] [数据生产力崛起：新动能 新治理](https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/blob/master/pdf/数据生产力崛起：新动能 新治理.pdf)
+
 # [Expert](#content)
 
 [1] Yu Zheng: [link](http://urban-computing.com/yuzheng)
