@@ -874,9 +874,9 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 **HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival.** SIGKDD 2020. [paper](https://www.kdd.org/kdd2020/accepted-papers/view/heteta-heterogeneous-information-network-embedding-for-estimating-time-of-a) [github](https://github.com/didi/heteta), [code](https://pan.baidu.com/s/1ogQzIiw8xMPdqPvu3xXGgQ ) 密码:38k8
 
-| Models | Modules | Architecture | conclusion |
-| :----: | :-----: | :----------: | :--------: |
-|        |         |              |            |
+| Models |    Modules     |        Architecture         |                          conclusion                          |
+| :----: | :------------: | :-------------------------: | :----------------------------------------------------------: |
+| HetETA | GatedCNNs, GCN | ![HetETA](./img/HetETA.png) | HetETA combines gated convolution neural networks and graph neural networks to capture the correlations in spatiotemporal information. To tackle the different types of relationships among vertices, we design an attention-based Het-ChebNet and construct a double-stuffed graph convolution layer to embed our induced networks, including the multi-relational road network and vehicle-trajectories based network. Comprehensive |
 
 *Huiting Hong, Yucheng Lin, Xiaoqing Yang, Zang Li, Kun Fu, Zheng Wang, Xiaohu Qie, Jieping Ye*
 
