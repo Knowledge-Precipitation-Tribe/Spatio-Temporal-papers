@@ -540,6 +540,12 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 **Optimized Graph Convolution Recurrent Neural Network for Traffic Prediction.** TITS 2020. [paper](https://ieeexplore.ieee.org/document/8959420)
 
+| Models | Modules | Architecture | conclusion |
+| :----: | :-----: | :----------: | :--------: |
+|        |         |              |            |
+
+
+
 *Kan Guo, Yongli Hu, ZhenQian, Hao Liu, Ke Zhang, Yanfeng Sun, Junbin Gao, Baocai Yin*
 
 ---
@@ -547,6 +553,11 @@ Contributions are always welcome! Make an individual pull request for each sugge
 <p id = "oneonefive">[1.15]</p>
 
 **Dynamic Graph Convolution Network for Traffic Forecasting Based on Latent Network of Laplace Matrix Estimation.** TITS 2020. [paper](https://ieeexplore.ieee.org/document/9190068)
+
+| Models | Modules | Architecture | conclusion |
+| :----: | :-----: | :----------: | :--------: |
+|        |         |              |            |
+
 
 *Kan Guo, Yongli Hu, ZhenQian, Hao Liu, Ke Zhang, Yanfeng Sun, Junbin Gao, Baocai Yin*
 
@@ -556,6 +567,11 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 **GSTNet: Global Spatial-Temporal Network for Traffic Flow Prediction.** IJCAI 2019. [paper](https://www.ijcai.org/Proceedings/2019/0317.pdf)
 
+| Models | Modules | Architecture | conclusion |
+| :----: | :-----: | :----------: | :--------: |
+|        |         |              |            |
+
+
 *Shen Fang, Qi Zhang, Gaofeng Meng, Shiming Xiang, Chunhong Pan*
 
 ---
@@ -564,10 +580,25 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 **Short-Term Traffic Flow Forecasting Method With M-B-LSTM Hybrid Network.** TITS 2020. [paper](https://ieeexplore.ieee.org/document/9152107)
 
+| Models | Modules | Architecture | conclusion |
+| :----: | :-----: | :----------: | :--------: |
+|        |         |              |            |
+
 *Qu Zhaowei, Li Haitao, Li Zhihui, Zhong Tao*
 
 ---
 
+<p id = "oneoneeight">[1.18]</p>
+
+**Traffic Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting.** TITS 2019. [paper](https://arxiv.org/abs/1802.07007)
+
+| Models | Modules | Architecture | conclusion |
+| :----: | :-----: | :----------: | :--------: |
+|        |         |              |            |
+
+*Zhiyong Cui, Kristian Henrickson, Ruimin Ke, Yinhai Wang*
+
+---
 
 ### [Other method on Traffic forecasting ](#content)
 
@@ -867,6 +898,20 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 *Chizhan Zhang, Fenghua Zhu, Xiao Wang, LeileiSun, Haina Tang, Yisheng Lv*
 
+---
+
+<p id = "fourfive">[4.5]</p>  
+
+**Traffic Demand Prediction Based on Dynamic Transition Convolutiona.** TITS 2020. [paper](https://ieeexplore.ieee.org/document/9172100)
+
+| Models | Modules | Architecture | conclusion |
+| :----: | :-----: | :----------: | :--------: |
+|        |         |              |            |
+
+
+
+*Bowen Du, Xiao Hu, Leilei Sun, Junming Liu, Yanan Qiao, Weifeng Lv*
+
 
 ### [Travel time or Arrive time](#content)
 
@@ -874,8 +919,8 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 **HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival.** SIGKDD 2020. [paper](https://www.kdd.org/kdd2020/accepted-papers/view/heteta-heterogeneous-information-network-embedding-for-estimating-time-of-a) [github](https://github.com/didi/heteta), [code](https://pan.baidu.com/s/1ogQzIiw8xMPdqPvu3xXGgQ ) 密码:38k8
 
-| Models |    Modules     |        Architecture         |                          conclusion                          |
-| :----: | :------------: | :-------------------------: | :----------------------------------------------------------: |
+| Models |    Modules     |        Architecture         | conclusion                                                   |
+| :----: | :------------: | :-------------------------: | :----------------------------------------------------------- |
 | HetETA | GatedCNNs, GCN | ![HetETA](./img/HetETA.png) | HetETA combines gated convolution neural networks and graph neural networks to capture the correlations in spatiotemporal information. To tackle the different types of relationships among vertices, we design an attention-based Het-ChebNet and construct a double-stuffed graph convolution layer to embed our induced networks, including the multi-relational road network and vehicle-trajectories based network. Comprehensive |
 
 *Huiting Hong, Yucheng Lin, Xiaoqing Yang, Zang Li, Kun Fu, Zheng Wang, Xiaohu Qie, Jieping Ye*
