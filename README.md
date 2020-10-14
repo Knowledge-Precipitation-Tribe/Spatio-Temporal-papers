@@ -334,13 +334,13 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 ---
 
-[7] **TinyGNN: Learning Efficient Graph Neural Networks.** KDD 2020. [paper](https://www.kdd.org/kdd2020/accepted-papers/view/tinygnn-learning-efficient-graph-neural-networks)
+[8] **TinyGNN: Learning Efficient Graph Neural Networks.** KDD 2020. [paper](https://www.kdd.org/kdd2020/accepted-papers/view/tinygnn-learning-efficient-graph-neural-networks)
 
 *Bencheng Yan, Chaokun Wang, Gaoyang Guo, Yunkai Lou*
 
 ---
 
-[8] **Graph Neural Architecture Search.** IJCAI 2020. [paper](https://www.ijcai.org/Proceedings/2020/195)
+[9] **Graph Neural Architecture Search.** IJCAI 2020. [paper](https://www.ijcai.org/Proceedings/2020/195)
 
 *Yang Gao, Hong Yang, Peng Zhang, Chuan Zhou, Yue Hu*
 
@@ -386,7 +386,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "onethree">[1.3]</p>
 
-**Spatio-Temporal Graph Structure Learning for Traffic Forecasting.** AAAI 2020. [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhangQ.7934.pdf).
+**Spatio-Temporal Graph Structure Learning for Traffic Forecasting.** AAAI 2020. [paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/5470).
 
 | Models |  Modules   |     Architecture      | conclusion                                                   |
 | :----: | :--------: | :-------------------: | :----------------------------------------------------------- |
@@ -428,7 +428,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "onesix">[1.6]</p>
 
-**Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting.** AAAI 2020. [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-SongC.8074.pdf), [github](https://github.com/Davidham3/STSGCN), [code](https://pan.baidu.com/s/1RlzpUMMcoaQSIwz1B5aF8Q ) 密码:3jkd.
+**Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting.** AAAI 2020. [paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/5438), [github](https://github.com/Davidham3/STSGCN), [code](https://pan.baidu.com/s/1RlzpUMMcoaQSIwz1B5aF8Q ) 密码:3jkd.
 
 | Models |               Modules               |        Architecture         | conclusion                                                   |
 | :----: | :---------------------------------: | :-------------------------: | :----------------------------------------------------------- |
@@ -512,7 +512,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "oneonetwo">[1.12]</p> 
 
-**Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting.** AAAI 2020. [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ChenW.6413.pdf)
+**Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting.** AAAI 2020. [paper](https://arxiv.org/ftp/arxiv/papers/1911/1911.12093.pdf)
 
 | Models | Modules | Architecture | conclusion |
 | :----: | :-----: | :----------: | :--------: |
