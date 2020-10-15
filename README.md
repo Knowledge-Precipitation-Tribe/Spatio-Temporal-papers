@@ -266,7 +266,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 ---
 
-[5] **Urban flows prediction from spatialtemporal data using machine learning: A survey.** Information Fusion 2020. [paper](https://www.sciencedirect.com/science/article/pii/S1566253519303094)
+[5] **Urban flow prediction from spatialtemporal data using machine learning: A survey.** Information Fusion 2020. [paper](https://www.sciencedirect.com/science/article/pii/S1566253519303094)
 
 *Peng Xie, Tianrui Li, Jia Liu, Shengdong Du, Xin Yang, Junbo Zhang*
 
@@ -294,7 +294,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 [1] **GRAPH ATTENTION NETWORKS.** ICLR 2018. [paper](https://arxiv.org/pdf/1710.10903.pdf)
 
-*Petar Veliˇckovi´, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Li`, Yoshua Bengio*
+*Petar Veliˇckovi´c, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Li`o, Yoshua Bengio*
 
 ---
 
@@ -318,7 +318,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 [5] **Temporal Graph Networks for Deep Learning on Dynamic Graphs.** arXiv 2020. [paper](https://arxiv.org/abs/2006.10637)
 
-*Ben Chamberlain, Fabrizio Frasca, Davide Eynard, Federico Monti, Michael Bronstein*
+*Emanuele Rossi,Ben Chamberlain, Fabrizio Frasca, Davide Eynard, Federico Monti, Michael Bronstein*
 
 ---
 
@@ -334,19 +334,19 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 ---
 
-[7] **TinyGNN: Learning Efficient Graph Neural Networks.** KDD 2020. [paper](https://www.kdd.org/kdd2020/accepted-papers/view/tinygnn-learning-efficient-graph-neural-networks)
+[8] **TinyGNN: Learning Efficient Graph Neural Networks.** KDD 2020. [paper](https://www.kdd.org/kdd2020/accepted-papers/view/tinygnn-learning-efficient-graph-neural-networks)
 
 *Bencheng Yan, Chaokun Wang, Gaoyang Guo, Yunkai Lou*
 
 ---
 
-[8] **Graph Neural Architecture Search.** IJCAI 2020. [paper](https://www.ijcai.org/Proceedings/2020/195)
+[9] **Graph Neural Architecture Search.** IJCAI 2020. [paper](https://www.ijcai.org/Proceedings/2020/195)
 
 *Yang Gao, Hong Yang, Peng Zhang, Chuan Zhou, Yue Hu*
 
 ### [Long-term Dependencies](#content)
 
-[1] **Learning Long-term Dependencies Using Cognitive Inductive Biases in Self-attention RNNs.** PMLR 2020. [paper](https://arxiv.org/pdf/1806.01261.pdf)
+[1] **Learning Long-term Dependencies Using Cognitive Inductive Biases in Self-attention RNNs.** PMLR 2020. [paper](https://biases-invariances-generalization.github.io/pdf/big_31.pdf)
 
 *Giancarlo Kerg, Bhargav Kanuparthi, Anirudh Goyal, Kyle Goyette, Yoshua Bengio, Guillaume Lajoie*
 
@@ -386,7 +386,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "onethree">[1.3]</p>
 
-**Spatio-Temporal Graph Structure Learning for Traffic Forecasting.** AAAI 2020. [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhangQ.7934.pdf).
+**Spatio-Temporal Graph Structure Learning for Traffic Forecasting.** AAAI 2020. [paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/5470).
 
 | Models |  Modules   |     Architecture      | conclusion                                                   |
 | :----: | :--------: | :-------------------: | :----------------------------------------------------------- |
@@ -428,7 +428,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "onesix">[1.6]</p>
 
-**Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting.** AAAI 2020. [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-SongC.8074.pdf), [github](https://github.com/Davidham3/STSGCN), [code](https://pan.baidu.com/s/1RlzpUMMcoaQSIwz1B5aF8Q ) 密码:3jkd.
+**Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting.** AAAI 2020. [paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/5438), [github](https://github.com/Davidham3/STSGCN), [code](https://pan.baidu.com/s/1RlzpUMMcoaQSIwz1B5aF8Q ) 密码:3jkd.
 
 | Models |               Modules               |        Architecture         | conclusion                                                   |
 | :----: | :---------------------------------: | :-------------------------: | :----------------------------------------------------------- |
@@ -492,7 +492,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 
 
-*Mingqi Lv , Zhaoxiong Hong, Ling Chen , Tieming Chen, Tiantian Zhu , and Shouling Ji*
+*Mingqi Lv , Zhaoxiong Hong, Ling Chen , Tieming Chen, Tiantian Zhu , Shouling Ji*
 
 ---
 
@@ -512,7 +512,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "oneonetwo">[1.12]</p> 
 
-**Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting.** AAAI 2020. [paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ChenW.6413.pdf)
+**Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting.** AAAI 2020. [paper](https://arxiv.org/ftp/arxiv/papers/1911/1911.12093.pdf)
 
 | Models | Modules | Architecture | conclusion |
 | :----: | :-----: | :----------: | :--------: |
@@ -548,7 +548,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 
 
-*Kan Guo, Yongli Hu, ZhenQian, Hao Liu, Ke Zhang, Yanfeng Sun, Junbin Gao, Baocai Yin*
+*Kan Guo, Yongli Hu, Zhen Qian, Hao Liu, Ke Zhang, Yanfeng Sun, Junbin Gao, Baocai Yin*
 
 ---
 
@@ -561,7 +561,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 |        |         |              |            |
 
 
-*Kan Guo, Yongli Hu, ZhenQian, Hao Liu, Ke Zhang, Yanfeng Sun, Junbin Gao, Baocai Yin*
+*Kan Guo, Yongli Hu, ZhenQian, Yanfeng Sun, Junbin Gao, Baocai Yin*
 
 ---
 
@@ -598,7 +598,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 | :----: | :-----: | :----------: | :--------: |
 |        |         |              |            |
 
-*Zhiyong Cui, Kristian Henrickson, Ruimin Ke, Yinhai Wang*
+*Zhiyong Cui, Kristian Henrickson, Ruimin Ke,  Ziyuan Pu, Yinhai Wang*
 
 ---
 
