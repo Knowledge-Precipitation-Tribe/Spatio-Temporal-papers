@@ -870,7 +870,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 
 
-*Yuandong Wang, Hongzhi Yin, Hongxu Chen, Tianyu Wo, Jie Xu*
+*Yuandong Wang, Hongzhi Yin, Hongxu Chen, Tianyu Wo, Jie Xu, Kai Zheng*
 
 ---
 
