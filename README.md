@@ -784,7 +784,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 
 
-*Junbo Zhang, Yu Zheng, Junkai Sun, Dekang Qi*
+*Jinlei Zhang, Feng Chen, Yinan Guo, Xiaohong Li*
 
 ---
 
