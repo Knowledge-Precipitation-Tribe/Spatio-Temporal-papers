@@ -346,7 +346,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 ### [Long-term Dependencies](#content)
 
-[1] **Learning Long-term Dependencies Using Cognitive Inductive Biases in Self-attention RNNs.** PMLR 2020. [paper](https://arxiv.org/pdf/1806.01261.pdf)
+[1] **Learning Long-term Dependencies Using Cognitive Inductive Biases in Self-attention RNNs.** PMLR 2020. [paper](https://biases-invariances-generalization.github.io/pdf/big_31.pdf)
 
 *Giancarlo Kerg, Bhargav Kanuparthi, Anirudh Goyal, Kyle Goyette, Yoshua Bengio, Guillaume Lajoie*
 
