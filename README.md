@@ -812,7 +812,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 
 
-*CEN CHEN, KENLI LI,SIN G. TEO,XIAOFENG ZOU,KEQIN LI,ZENG ZENG*
+*Cen Chen, Kenli Li, Sin G. Teo, Xiaofeng Zou, Keqin Li, Zeng Zeng*
 
 ---
 
