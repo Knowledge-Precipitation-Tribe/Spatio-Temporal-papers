@@ -784,13 +784,13 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 
 
-*Junbo Zhang, Yu Zheng, Junkai Sun, Dekang Qi*
+*Jinlei Zhang, Feng Chen, Yinan Guo, Xiaohong Li*
 
 ---
 
 <p id = "threeeight">[3.8]</p>  
 
-**Revisiting Convolutional Neural Networks for Urban Flow Analytics.** arXiv 2020. [paper](https://arxiv.org/pdf/2003.00895.pdf)
+**Revisiting Convolutional Neural Networks for Citywide Crowd Flow Analytics.** arXiv 2020. [paper](https://arxiv.org/pdf/2003.00895.pdf)
 
 | Models | Modules | Architecture | conclusion |
 | :----: | :-----: | :----------: | :--------: |
@@ -798,7 +798,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 
 
-*Yuxuan Liang, Kun Ouyang1, Junbo Zhang, Yu Zheng, David S. Rosenblum*
+*Yuxuan Liang, Kun Ouyang, Yiwei Wang, Ye Liu, Junbo Zhang, Yu Zheng, David S. Rosenblum*
 
 ---
 
@@ -812,13 +812,13 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 
 
-*CEN CHEN, KENLI LI,SIN G. TEO,XIAOFENG ZOU,KEQIN LI,ZENG ZENG*
+*Cen Chen, Kenli Li, Sin G. Teo, Xiaofeng Zou, Keqin Li, Zeng Zeng*
 
 ---
 
 <p id = "threeten">[3.10]</p>  
 
-**Physical-Virtual Collaboration Modeling for Intra-and Inter-Station Metro Ridership Prediction.** arXiv 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3385414)
+**Physical-Virtual Collaboration Modeling for Intra-and Inter-Station Metro Ridership Prediction.** arXiv 2020. [paper](https://arxiv.org/abs/2001.04889)
 
 | Models | Modules | Architecture | conclusion |
 | :----: | :-----: | :----------: | :--------: |
@@ -830,7 +830,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 ---
 
-<p id = "threeten">[3.10]</p>  
+<p id = "threeten">[3.11]</p>  
 
 **Predicting Citywide Crowd Flows in Irregular Regions Using Multi-View Graph Convolutional Networks.** TKDE 2020. [paper](https://arxiv.org/abs/1903.07789)
 
@@ -870,7 +870,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 
 
-*Yuandong Wang, Hongzhi Yin, Hongxu Chen, Tianyu Wo, Jie Xu*
+*Yuandong Wang, Hongzhi Yin, Hongxu Chen, Tianyu Wo, Jie Xu, Kai Zheng*
 
 ---
 
@@ -898,13 +898,13 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 
 
-*Chizhan Zhang, Fenghua Zhu, Xiao Wang, LeileiSun, Haina Tang, Yisheng Lv*
+*Chizhan Zhang, Fenghua Zhu, Xiao Wang, Leilei Sun, Haina Tang, Yisheng Lv*
 
 ---
 
 <p id = "fourfive">[4.5]</p>  
 
-**Traffic Demand Prediction Based on Dynamic Transition Convolutiona.** TITS 2020. [paper](https://ieeexplore.ieee.org/document/9172100)
+**Traffic Demand Prediction Based on Dynamic Transition Convolutional Neural Network.** TITS 2020. [paper](https://ieeexplore.ieee.org/abstract/document/8968739)
 
 | Models | Modules | Architecture | conclusion |
 | :----: | :-----: | :----------: | :--------: |
@@ -919,7 +919,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "fiveone">[5.1]</p>
 
-**HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival.** SIGKDD 2020. [paper](https://www.kdd.org/kdd2020/accepted-papers/view/heteta-heterogeneous-information-network-embedding-for-estimating-time-of-a) [github](https://github.com/didi/heteta), [code](https://pan.baidu.com/s/1ogQzIiw8xMPdqPvu3xXGgQ ) 密码:38k8
+**HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival.** SIGKDD 2020. [paper](https://www.kdd.org/kdd2020/accepted-papers/view/heteta-heterogeneous-information-network-embedding-for-estimating-time-of-a) [github](https://github.com/didi/heteta), [code](https://pan.baidu.com/s/18gnb6JIwnTMJ-wwmlwLhUw ) 密码:eag2
 
 | Models |    Modules     |        Architecture         | conclusion                                                   |
 | :----: | :------------: | :-------------------------: | :----------------------------------------------------------- |
