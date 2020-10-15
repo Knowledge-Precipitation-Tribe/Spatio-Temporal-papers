@@ -898,7 +898,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 
 
-*Chizhan Zhang, Fenghua Zhu, Xiao Wang, LeileiSun, Haina Tang, Yisheng Lv*
+*Chizhan Zhang, Fenghua Zhu, Xiao Wang, Leilei Sun, Haina Tang, Yisheng Lv*
 
 ---
 
