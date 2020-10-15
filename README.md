@@ -266,7 +266,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 ---
 
-[5] **Urban flows prediction from spatialtemporal data using machine learning: A survey.** Information Fusion 2020. [paper](https://www.sciencedirect.com/science/article/pii/S1566253519303094)
+[5] **Urban flow prediction from spatialtemporal data using machine learning: A survey.** Information Fusion 2020. [paper](https://www.sciencedirect.com/science/article/pii/S1566253519303094)
 
 *Peng Xie, Tianrui Li, Jia Liu, Shengdong Du, Xin Yang, Junbo Zhang*
 
@@ -294,7 +294,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 [1] **GRAPH ATTENTION NETWORKS.** ICLR 2018. [paper](https://arxiv.org/pdf/1710.10903.pdf)
 
-*Petar Veliˇckovi´, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Li`, Yoshua Bengio*
+*Petar Veliˇckovi´c, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Li`o, Yoshua Bengio*
 
 ---
 
@@ -318,7 +318,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 [5] **Temporal Graph Networks for Deep Learning on Dynamic Graphs.** arXiv 2020. [paper](https://arxiv.org/abs/2006.10637)
 
-*Ben Chamberlain, Fabrizio Frasca, Davide Eynard, Federico Monti, Michael Bronstein*
+*Emanuele Rossi,Ben Chamberlain, Fabrizio Frasca, Davide Eynard, Federico Monti, Michael Bronstein*
 
 ---
 
@@ -492,7 +492,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 
 
-*Mingqi Lv , Zhaoxiong Hong, Ling Chen , Tieming Chen, Tiantian Zhu , and Shouling Ji*
+*Mingqi Lv , Zhaoxiong Hong, Ling Chen , Tieming Chen, Tiantian Zhu , Shouling Ji*
 
 ---
 
@@ -548,7 +548,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 
 
-*Kan Guo, Yongli Hu, ZhenQian, Hao Liu, Ke Zhang, Yanfeng Sun, Junbin Gao, Baocai Yin*
+*Kan Guo, Yongli Hu, Zhen Qian, Hao Liu, Ke Zhang, Yanfeng Sun, Junbin Gao, Baocai Yin*
 
 ---
 
@@ -561,7 +561,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 |        |         |              |            |
 
 
-*Kan Guo, Yongli Hu, ZhenQian, Hao Liu, Ke Zhang, Yanfeng Sun, Junbin Gao, Baocai Yin*
+*Kan Guo, Yongli Hu, ZhenQian, Yanfeng Sun, Junbin Gao, Baocai Yin*
 
 ---
 
@@ -598,7 +598,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 | :----: | :-----: | :----------: | :--------: |
 |        |         |              |            |
 
-*Zhiyong Cui, Kristian Henrickson, Ruimin Ke, Yinhai Wang*
+*Zhiyong Cui, Kristian Henrickson, Ruimin Ke,  Ziyuan Pu, Yinhai Wang*
 
 ---
 
