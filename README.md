@@ -919,7 +919,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "fiveone">[5.1]</p>
 
-**HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival.** SIGKDD 2020. [paper](https://www.kdd.org/kdd2020/accepted-papers/view/heteta-heterogeneous-information-network-embedding-for-estimating-time-of-a) [github](https://github.com/didi/heteta), [code](https://pan.baidu.com/s/1ogQzIiw8xMPdqPvu3xXGgQ ) 密码:38k8
+**HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival.** SIGKDD 2020. [paper](https://www.kdd.org/kdd2020/accepted-papers/view/heteta-heterogeneous-information-network-embedding-for-estimating-time-of-a) [github](https://github.com/didi/heteta), [code](https://pan.baidu.com/s/18gnb6JIwnTMJ-wwmlwLhUw ) 密码:eag2
 
 | Models |    Modules     |        Architecture         | conclusion                                                   |
 | :----: | :------------: | :-------------------------: | :----------------------------------------------------------- |
