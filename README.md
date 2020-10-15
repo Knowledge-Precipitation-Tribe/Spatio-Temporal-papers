@@ -818,7 +818,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "threeten">[3.10]</p>  
 
-**Physical-Virtual Collaboration Modeling for Intra-and Inter-Station Metro Ridership Prediction.** arXiv 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3385414)
+**Physical-Virtual Collaboration Modeling for Intra-and Inter-Station Metro Ridership Prediction.** arXiv 2020. [paper](https://arxiv.org/abs/2001.04889)
 
 | Models | Modules | Architecture | conclusion |
 | :----: | :-----: | :----------: | :--------: |
@@ -830,7 +830,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 ---
 
-<p id = "threeten">[3.10]</p>  
+<p id = "threeten">[3.11]</p>  
 
 **Predicting Citywide Crowd Flows in Irregular Regions Using Multi-View Graph Convolutional Networks.** TKDE 2020. [paper](https://arxiv.org/abs/1903.07789)
 
