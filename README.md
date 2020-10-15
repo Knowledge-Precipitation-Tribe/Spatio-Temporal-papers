@@ -904,7 +904,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "fourfive">[4.5]</p>  
 
-**Traffic Demand Prediction Based on Dynamic Transition Convolutiona.** TITS 2020. [paper](https://ieeexplore.ieee.org/document/9172100)
+**Traffic Demand Prediction Based on Dynamic Transition Convolutional Neural Network.** TITS 2020. [paper](https://ieeexplore.ieee.org/abstract/document/8968739)
 
 | Models | Modules | Architecture | conclusion |
 | :----: | :-----: | :----------: | :--------: |
