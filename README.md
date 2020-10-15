@@ -790,7 +790,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "threeeight">[3.8]</p>  
 
-**Revisiting Convolutional Neural Networks for Urban Flow Analytics.** arXiv 2020. [paper](https://arxiv.org/pdf/2003.00895.pdf)
+**Revisiting Convolutional Neural Networks for Citywide Crowd Flow Analytics.** arXiv 2020. [paper](https://arxiv.org/pdf/2003.00895.pdf)
 
 | Models | Modules | Architecture | conclusion |
 | :----: | :-----: | :----------: | :--------: |
@@ -798,7 +798,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 
 
-*Yuxuan Liang, Kun Ouyang1, Junbo Zhang, Yu Zheng, David S. Rosenblum*
+*Yuxuan Liang, Kun Ouyang, Yiwei Wang, Ye Liu, Junbo Zhang, Yu Zheng, David S. Rosenblum*
 
 ---
 
