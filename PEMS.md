@@ -31,13 +31,31 @@ PeMS系统上提供了多种数据集，一般我们使用Type为Station 5-Minut
 
 ![pems-1703](./img/pems/PEMS-1703.png)
 
-点击对应的灰色按钮后，下方的Available Files会提供你需要的数据，点击即可下载。
+点击对应的**灰色按钮**后，下方的Available Files会提供你需要的数据，点击即可下载。
 
 4. 解压下载的压缩包，观察数据
 
 ![PEMS-1703dara](./img/pems/PEMS-1703data.png)
 
 纯手动下载较为麻烦，这里提供一个[爬虫项目]()(待完善)来爬去对应的数据。
+
+5. 下载metadata
+
+我们刚才下载到的数据仅包含每个传感器对应的观测值等信息，但是并不包含传感器本身的信息，我们通过如下操作可以下载到传感器的metadata。
+
+首先修改Type为Station Metadata然后District选择District 7，具体选择如下
+
+![station-metadata](./img/pems/station-metadata.png)
+
+默认提供的仍然是最新的数据，然后我们仍然选择17年三月的作为案例进行下载。
+
+![metadata-1703](./img/pems/metadata-1703.png)
+
+修改之后在下方的Available Files可以看到对应的可下载的数据信息。
+
+![metadata](./img/pems/metadata-files.png)
+
+6. 查看metadata
 
 ## 数据处理
 
