@@ -6,14 +6,17 @@
 
 ## 介绍
 
-PeMS数据集提供了加州高速公路的各种监测数据，包括路况信息，车辆平均行速度，交通事故等。通过对得到的时空数据进行挖掘，并建立适当的模型对交通状况进行预测，可以解决城市计算中的许多问题。
+PeMS数据集提供了加州高速公路的各种监测数据，包括路况信息，车辆平均行速度，交通事故等。通过对得到的时空数据进行挖掘，建立适当的模型对交通状况进行预测，可以解决城市计算中的许多问题。
 
 ## 下载
 
 下面我们通过例子演示如何下载PeMS数据集。
 
 1. 首先注册并登陆PeMS官网
-2. 向下滑动页面，在页面左下角找到[Data Clearinghouse](http://pems.dot.ca.gov/?dnode=Clearinghouse)
+
+![login](./img/pems/pems-login.png)
+
+2. 成功登陆后，向下滑动页面，在页面左下角找到[Data Clearinghouse](http://pems.dot.ca.gov/?dnode=Clearinghouse)
 
 ![pems-dataclearing](./img/pems/PEMS-dataclearing.png)
 
@@ -27,7 +30,7 @@ PeMS系统上提供了多种数据集，一般我们使用Type为Station 5-Minut
 
 ![pems-files](./img/pems/PEMS-files.png)
 
-如果我们想要获取之前的历史数据，需要选择对应的日期，例如想要下载2017年3月份的数据。
+默认提供的是最新的数据，如果我们想要获取之前的历史数据，需要选择对应的日期，例如想要下载2017年3月份的数据。
 
 ![pems-1703](./img/pems/PEMS-1703.png)
 
@@ -43,7 +46,7 @@ PeMS系统上提供了多种数据集，一般我们使用Type为Station 5-Minut
 
 我们刚才下载到的数据仅包含每个传感器对应的观测值等信息，但是并不包含传感器本身的信息，我们通过如下操作可以下载到传感器的metadata。
 
-首先修改Type为Station Metadata然后District选择District 7，具体选择如下
+首先修改Type为Station Metadata然后District选择District 7，具体操作如下
 
 ![station-metadata](./img/pems/station-metadata.png)
 
@@ -56,6 +59,12 @@ PeMS系统上提供了多种数据集，一般我们使用Type为Station 5-Minut
 ![metadata](./img/pems/metadata-files.png)
 
 6. 查看metadata
+
+![metadata](./img/pems/pems-metadata.png)
+
+在这里看到传感器对应的经纬度，以及一些其他特征信息。通过获取到的经纬度信息我们可以在真实的地图上进行标点做进一步观察。
+
+![pems-map](./img/pems/pems-map.png)
 
 ## 数据处理
 
