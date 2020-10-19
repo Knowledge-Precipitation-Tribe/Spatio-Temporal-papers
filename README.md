@@ -344,6 +344,12 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 *Yang Gao, Hong Yang, Peng Zhang, Chuan Zhou, Yue Hu*
 
+---
+
+[10] **A Practical Guide to Graph Neural Networks.** arXiv 2020. [paper](https://arxiv.org/pdf/2010.05234v1.pdf)
+
+*ISAAC RONALD WARD, JACK JOYNER, CASEY LICKFOLD,STASH ROWE,YULAN GUO,MOHAMMED BENNAMOUN*
+
 ### [Long-term Dependencies](#content)
 
 [1] **Learning Long-term Dependencies Using Cognitive Inductive Biases in Self-attention RNNs.** PMLR 2020. [paper](https://biases-invariances-generalization.github.io/pdf/big_31.pdf)
