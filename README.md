@@ -684,9 +684,9 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 **Self-Attention ConvLSTM for Spatiotemporal Prediction.** AAAI 2020. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/6819)
 
-| Models | Modules | Architecture | conclusion |
-| :----: | :-----: | :----------: | :--------: |
-|        |         |              |            |
+|   Models    |                       Modules                        |     Architecture      | conclusion                                                   |
+| :---------: | :--------------------------------------------------: | :-------------------: | :----------------------------------------------------------- |
+| SA-ConvLSTM | self-attention,ConvLSTM,Self-Attention Memory Module | ![SAM](./img/SAM.png) | This paper attempts to capture long-term spatial and temporal dependence by constructing a self-attention memory module. It was combined with ConvLSTM for spatiotemporal prediction. |
 
 
 
@@ -929,7 +929,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 | Models |    Modules     |        Architecture         | conclusion                                                   |
 | :----: | :------------: | :-------------------------: | :----------------------------------------------------------- |
-| HetETA | GatedCNNs, GCN | ![HetETA](./img/HetETA.png) | HetETA combines gated convolution neural networks and graph neural networks to capture the correlations in spatiotemporal information. To tackle the different types of relationships among vertices, we design an attention-based Het-ChebNet and construct a double-stuffed graph convolution layer to embed our induced networks, including the multi-relational road network and vehicle-trajectories based network. Comprehensive |
+| HetETA | GatedCNNs, GCN | ![HetETA](./img/HetETA.png) | In this paper, traffic structure is constructed by digging deeper semantic information of traffic network. HetETA combines gated convolution neural networks and graph neural networks to capture the correlations in spatiotemporal information. |
 
 *Huiting Hong, Yucheng Lin, Xiaoqing Yang, Zang Li, Kun Fu, Zheng Wang, Xiaohu Qie, Jieping Ye*
 
