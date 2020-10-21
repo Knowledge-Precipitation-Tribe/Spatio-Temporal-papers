@@ -48,9 +48,9 @@ Contributions are always welcome! Make an individual pull request for each sugge
 - <a href ="#Long-term-Dependencies">Long-term Dependencies</a>
 - <a href = "#gnn-papers-on-traffic-forecasting">1. GNN methods on Traffic forecasting</a>
 - <a href = "#other-method-on-traffic-forecasting">2. Other methods on Traffic forecasting</a>
-- <a href = "#Flows Prediction">3. Flows Prediction</a>
-- <a href = "#Demand Prediction">4. Demand Prediction</a>
-- <a href = "#Travel time or Arrive time">5. Travel time or Arrive time</a>
+- <a href = "#Flows-Prediction">3. Flows Prediction</a>
+- <a href = "#Demand-Prediction">4. Demand Prediction</a>
+- <a href = "#Travel-time-or-Arrive-time">5. Travel time or Arrive time</a>
 
 # [New infrastructure](#content)
 
