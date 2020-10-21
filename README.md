@@ -15,7 +15,7 @@
 
 This project is a collection of recent research in areas such as new infrastructure and urban computing, including white papers, academic papers, AI lab and dataset etc.
 
-# Contribute
+# Contribution
 
 Contributions are always welcome! Make an individual pull request for each suggestion.
 
@@ -31,7 +31,8 @@ Contributions are always welcome! Make an individual pull request for each sugge
   - <a href = "#Demand-data">Demand data</a>
   - <a href = "#Public-transportation-system-transaction-records">Public transportation system transaction records</a>
 
-## **Method summary**
+---
+**Method summary**
 
 - <a href = "#Mind-map">Mind map</a>
 - <a href = "#Spatial-dependence-modeling">Spatial dependence modeling</a>
@@ -39,16 +40,17 @@ Contributions are always welcome! Make an individual pull request for each sugge
 - <a href = "#External-factors">External factors</a>
 - <a href = "#Tricks">Tricks</a>
 
-## **Relevant papers**
+---
+**Relevant papers**
 
 - <a href = "#Survey">Survey</a>
 - <a href = "#GNN">GNN</a>
 - <a href ="#Long-term-Dependencies">Long-term Dependencies</a>
-- <a href = "#trafic-forecasting">1. Trafic forecasting</a>
-  - <a href = "#gnn-papers-on-traffic-forecasting">1.1 GNN methods on Traffic forecasting</a>
-  - <a href = "#other-method-on-traffic-forecasting">1.2 Other methods on Traffic forecasting</a>
-- <a href = "Flows Prediction">2. Flows Prediction</a>
-- <a href = "Demand Prediction">3. Demand Prediction</a>
+- <a href = "#gnn-papers-on-traffic-forecasting">1. GNN methods on Traffic forecasting</a>
+- <a href = "#other-method-on-traffic-forecasting">2. Other methods on Traffic forecasting</a>
+- <a href = "#Flows Prediction">3. Flows Prediction</a>
+- <a href = "#Demand Prediction">4. Demand Prediction</a>
+- <a href = "#Travel time or Arrive time">5. Travel time or Arrive time</a>
 
 # [New infrastructure](#content)
 
@@ -356,9 +358,11 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 *Giancarlo Kerg, Bhargav Kanuparthi, Anirudh Goyal, Kyle Goyette, Yoshua Bengio, Guillaume Lajoie*
 
-### [Traffic forecasting](#content)
+---
 
-### [GNN papers on Traffic forecasting](#content)
+
+
+### 1、[GNN papers on Traffic forecasting](#content)
 
 <p id="oneone">[1.1]</p> 
 
@@ -608,7 +612,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 ---
 
-### [Other method on Traffic forecasting ](#content)
+### 2、[Other method on Traffic forecasting ](#content)
 
 <p id = "twoone">[2.1]</p>
 
@@ -694,7 +698,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 ---
 
-### [Flows Prediction](#content)
+### 3、[Flows Prediction](#content)
 
 <p id = "threeone">[3.1]</p> 
 
@@ -850,7 +854,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 ---
 
-### [Demand Prediction](#content)
+### 4、[Demand Prediction](#content)
 
 <p id = "fourone">[4.1]</p> 
 
@@ -921,7 +925,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 *Bowen Du, Xiao Hu, Leilei Sun, Junming Liu, Yanan Qiao, Weifeng Lv*
 
 
-### [Travel time or Arrive time](#content)
+### 5、[Travel time or Arrive time](#content)
 
 <p id = "fiveone">[5.1]</p>
 
