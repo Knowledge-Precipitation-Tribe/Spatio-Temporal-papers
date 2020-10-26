@@ -40,7 +40,7 @@ PeMS系统上提供了多种数据集，一般我们使用Type为Station 5-Minut
 
 ![PEMS-1703dara](../img/pems/PEMS-1703data.png)
 
-纯手动下载较为麻烦，这里提供一个[爬虫项目]()(待完善)来爬去对应的数据。
+纯手动下载较为麻烦，这里提供一个[爬虫项目]()(待完善)来爬取相应的数据。
 
 5. **下载metadata**
 
@@ -67,6 +67,84 @@ PeMS系统上提供了多种数据集，一般我们使用Type为Station 5-Minut
 ![pems-map](../img/pems/pems-map.png)
 
 ## 数据处理
+
+我们来处理一下下载的2017年3月1日的数据，首先导入我们需要的库并观察一下数据
+
+```python
+import numpy as np
+import pandas as pd
+
+data = pd.read_table("./data/2017_03_01.txt", sep=",", header=None)
+data.columns=['Timestamp', 'Station', 'District', 'Freeway', 'Direction of Travel', 'Lane Type', 'Station Length', 
+              'Samples', '% Observed', 'Total Flow', 'Avg Occupancy', 'Avg Speed', 
+              'Lane 1 Samples', 'Lane 1 Flow', 'Lane 1 Avg Occ', 'Lane 1 Avg Speed', 'Lane 1 Observed', 
+              'Lane 2 Samples', 'Lane 2 Flow', 'Lane 2 Avg Occ', 'Lane 2 Avg Speed', 'Lane 2 Observed', 
+              'Lane 3 Samples', 'Lane 3 Flow', 'Lane 3 Avg Occ', 'Lane 3 Avg Speed', 'Lane 3 Observed', 
+              'Lane 4 Samples', 'Lane 4 Flow', 'Lane 4 Avg Occ', 'Lane 4 Avg Speed', 'Lane 4 Observed', 
+              'Lane 5 Samples', 'Lane 5 Flow', 'Lane 5 Avg Occ', 'Lane 5 Avg Speed', 'Lane 5 Observed', 
+              'Lane 6 Samples', 'Lane 6 Flow', 'Lane 6 Avg Occ', 'Lane 6 Avg Speed', 'Lane 6 Observed', 
+              'Lane 7 Samples', 'Lane 7 Flow', 'Lane 7 Avg Occ', 'Lane 7 Avg Speed', 'Lane 7 Observed', 
+              'Lane 8 Samples', 'Lane 8 Flow', 'Lane 8 Avg Occ', 'Lane 8 Avg Speed', 'Lane 8 Observed']
+
+data.head()
+```
+
+输出结果如下
+
+![pems_head](../img/pems/data_head.png)
+
+因为我们每条数据都是传感器检测得到的，我们将传感去分组查看一下数据情况
+
+```python
+number = data.groupby(['Station'])
+number.size()
+```
+
+程序的输出结果如下
+
+![station_size](../img/pems/station_size.png)
+
+因为传感器是每5分钟汇总一次数据，所以一天会产生288条数据与我们观察到的一致，而且可以看到在District 7地区共有4801个传感器。
+
+接下来我们主要对平均速度数据进行处理，首先看看速度的缺失值有多少
+
+```python
+speed = data['Avg Speed']
+speed.isnull().sum()
+# 输出：600192
+```
+
+原始数据中平均速度共有600192条缺失值，在一些论文中是采用线性插值的方式对缺失值进行填充，那我们接下来也采用同样的方式处理一下数据
+
+```python
+data['Avg Speed full'] = data['Avg Speed'].interpolate()
+data['Avg Speed full'].head(10)
+data['Avg Speed'].head(10)
+```
+
+程序输出结果如下图所示
+
+![speed](../img/pems/speed.png)
+
+可以看到数据已经按照线行插值的方式对缺失值进行了补充。但是我们需要的不是这样的数据格式，我们想要将数据按照时间戳进行汇总，然后在每个时间戳下观察每个传感器的平均速度是多少，可以通过下面的方式实现
+
+```python
+new_data = data[['Timestamp','Station','Avg Speed full']]
+speed_index = new_data.set_index(["Timestamp", "Station"])["Avg Speed full"]
+new_df = speed_index.unstack()
+new_df = new_df.rename_axis(columns=None)
+new_df.head()
+```
+
+得到的数据结果如下
+
+![format_data](../img/pems/format_data.png)
+
+可以看到数据已经按照我们想要的格式进行了汇总，我们先对数据进行保存以用于下一步的操作。
+
+```python
+new_df.to_csv("./data/2017_03_01_full_speed.csv")
+```
 
 
 
