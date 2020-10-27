@@ -480,15 +480,15 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id = "onenine">[1.9]</p> 
 
-**STGRAT: A Spatio-Temporal Graph Attention Network for Traffic Forecasting.** AAAI 2020. [paper](http://arxiv-export-lb.library.cornell.edu/pdf/1911.13181)
+**ST-GRAT: A Novel Spatio-temporal Graph Attention Network for Accurately Forecasting Dynamically Changing Road Speed.** CIKM 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3340531.3411940)
 
-| Models | Modules | Architecture | conclusion |
-| :----: | :-----: | :----------: | :--------: |
-|        |         |              |            |
+| Models  |                           Modules                            |         Architecture          | conclusion                                                   |
+| :-----: | :----------------------------------------------------------: | :---------------------------: | :----------------------------------------------------------- |
+| ST-GRAT | Encoder-Decoder, Embedding, Spatial Attention, Temporal Attention | ![ST-GRAT](./img/ST-GRAT.png) | This paper presented ST-GRAT with a novel spatial and temporal attention for accurate traffic speed prediction. Spatial attention captures the spatial correlation among roads, utilizing graph structure information, while temporal attention captures the temporal dynamics of the road network by directly attending to features in long sequences. |
 
 
 
-*Cheonbok Park , Chunggi Lee , Hyojin Bahng, Taeyun won*
+*Cheonbok Park , Chunggi Lee , Hyojin Bahng, Yunwon Tae, Seungmin Jin, Kihwan Kim, Sungahn Ko, Jaegul Choo*
 
 ---
 
