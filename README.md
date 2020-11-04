@@ -242,7 +242,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 ## Relevant papers
 
-**All papers have been sorted into folders. **[Link(Code:HC8C)](https://pan.baidu.com/s/1XekZ_TO-tFR1K5nlAk30tQ )  
+**All papers have been sorted into folders. ** [Link(Code:HC8C)](https://pan.baidu.com/s/1XekZ_TO-tFR1K5nlAk30tQ )  
 
 ### [Survey](#content)
 
@@ -963,3 +963,9 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 
 *Xu Geng, Yaguang Li, Leye Wang, Lingyu Zhang, Qiang Yang, Jieping Ye, Yan Liu*
+
+---
+
+## Contributors
+
+- <a href="https://github.com/SuperSupeng"><img src="https://avatars2.githubusercontent.com/u/20471278?s=460&u=f62611f65c6c368293c0fd73b92aac7d7219b731&v=4" width=2px></img></a>
