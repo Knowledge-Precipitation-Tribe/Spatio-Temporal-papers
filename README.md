@@ -7,7 +7,7 @@
 <a href="https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/issues">     <img border="0" src="https://img.shields.io/github/issues/Knowledge-Precipitation-Tribe/Urban-computing-papers" /> </a>
 <a href="https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/network/members">     <img border="0" src="https://img.shields.io/github/forks/Knowledge-Precipitation-Tribe/Urban-computing-papers" /> </a>
 <a href="https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/stargazers">     <img border="0" src="https://img.shields.io/github/stars/Knowledge-Precipitation-Tribe/Urban-computing-papers" /> </a>
-<a href="https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/blob/master/LICENSE">     <img border="0" src="https://img.shields.io/github/license/Knowledge-Precipitation-Tribe/Urban-computing-papers" /> </a>
+<img alt="知识共享许可协议" src="https://camo.githubusercontent.com/75335faf011cd2856b147fa63e9ee383cc15a0a3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d434325323042592d2d4e432d2d5341253230342e302d6c6967687467726579" data-canonical-src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey" style="max-width:100%;">
 <a href="https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/blob/master/wechat.md">     <img border="0" src="https://camo.githubusercontent.com/013c283843363c72b1463af208803bfbd5746292/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f7765636861742e737667" /> </a>
 </div>
 
@@ -242,10 +242,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 ## Relevant papers
 
-
-
-**All papers have been sorted into folders. If the paper cannot be downloaded, please help yourself. ➡ ** [Link(Code:HC8C)](https://pan.baidu.com/s/1XekZ_TO-tFR1K5nlAk30tQ )  
-
+**All papers have been sorted into folders. If the paper cannot be downloaded, please help yourself. ➡** [Link(Code:HC8C)](https://pan.baidu.com/s/1XekZ_TO-tFR1K5nlAk30tQ)  
 
 
 ### [Survey](#content)
