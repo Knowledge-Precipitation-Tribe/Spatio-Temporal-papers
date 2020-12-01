@@ -369,15 +369,11 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <p id="oneone">[1.1]</p> 
 
-**Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting.** IJCAI 2018. [paper](https://arxiv.org/pdf/1709.04875.pdf), [github](https://github.com/ShichengChen/Spatio-Temporal-Graph-Convolutional-Networks-A-Deep-Learning-Framework-for-Traffic-Forecasting), [code](https://pan.baidu.com/s/1eCtxVTjEFYTmUVqHH9hV4Q)  密码:j6ak.
+**Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting.** IJCAI 2018. **[note](https://github.com/Knowledge-Precipitation-Tribe/STGCN-keras/tree/master/ppt)** [paper](https://arxiv.org/pdf/1709.04875.pdf), [github](https://github.com/ShichengChen/Spatio-Temporal-Graph-Convolutional-Networks-A-Deep-Learning-Framework-for-Traffic-Forecasting), [code](https://pan.baidu.com/s/1eCtxVTjEFYTmUVqHH9hV4Q)  密码:j6ak.
 
 | Models |    Modules    |       Architecture        | conclusion                                                   |
 | :----- | :-----------: | :-----------------------: | :----------------------------------------------------------- |
 | STGCN  | GCN,Gated CNN | ![STGCN](./img/STGCN.png) | This paper uses GCN to model spatial dependence, temporal dependence modeling uses causal convolution, and uses the gating mechanism GLU. The bottleneck strategy is used in the structure to achieve feature compression. This paper is also the first application of GCN in the field of transportation. |
-
-
-
-**[Detailed analysis](https://github.com/Knowledge-Precipitation-Tribe/STGCN-keras/tree/master/ppt)**
 
 *Bing Yu, Haoteng Yin, Zhanxing Zhu*
 
@@ -843,7 +839,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 ---
 
-<p id = "threeten">[3.11]</p>  
+<p id = "threeoneone">[3.11]</p>  
 
 **Predicting Citywide Crowd Flows in Irregular Regions Using Multi-View Graph Convolutional Networks.** TKDE 2020. [paper](https://arxiv.org/abs/1903.07789)
 
@@ -854,6 +850,18 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 
 *Junkai Sun, Junbo Zhang, Qiaofei Li, Xiuwen Yi, Yuxuan Liang, Yu Zheng*
+
+---
+
+<p id = "threeonetwo">[3.12]</p>  
+
+**Spatial-Temporal Convolutional Graph Attention Networks for Citywide Traffic Flow Forecasting.** CIKM 2020. **[note](./note/ST-CGA.md)** [paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3411941) [code](https://github.com/jillbetty001/ST-CGA)
+
+| Models | Modules |                 Architecture                  | conclusion                                                   |
+| :----: | :-----: | :-------------------------------------------: | :----------------------------------------------------------- |
+| ST-CGA |         | ![framework](./note/ST-CGA/img/framework.png) | i) captures the multiple granularity-aware temporal factors that govern the dynamic transition regularities of traffic flow; ii) models the high-order spatial relation structures with a channel-aware convolutional graph learning model; iii) integrates the collaborative signals from spatial, temporal and semantic dimensions. |
+
+*Xiyue Zhang, Chao Huang, Yong Xu, Lianghao Xia*
 
 ---
 
