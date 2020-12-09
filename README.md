@@ -15,6 +15,8 @@
 
 This project is a collection of recent research in areas such as new infrastructure and urban computing, including white papers, academic papers, AI lab and dataset etc.
 
+**相关项目：[spatio-temporal-papers](https://github.com/datawhalechina/spatio-temporal-papers)**
+
 # Contribution
 
 Contributions are always welcome! Make an individual pull request for each suggestion.
