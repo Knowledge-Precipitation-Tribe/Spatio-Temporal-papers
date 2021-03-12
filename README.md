@@ -365,6 +365,18 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 ---
 
+[2] **[Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting.](./papers/2021/AAAI/Informer)** AAAI 2021. [note](./papers/2019/IJCAI/GWN/note.md). [paper](https://arxiv.org/abs/2012.07436), [github](https://github.com/zhouhaoyi/Informer2020)
+
+|  Models  | Modules |                         Architecture                         | conclusion |
+| :------: | :-----: | :----------------------------------------------------------: | :--------- |
+| Informer |         | ![](https://tva1.sinaimg.cn/large/008eGmZEly1goh7xk5gtcj30s00e841f.jpg) |            |
+
+*Zonghan Wu, Shirui Pan, Guodong Long, Jing Jiang, Chengqi Zhang*
+
+---
+
+
+
 
 
 ### 1、[GNN papers on Traffic forecasting](#content)
