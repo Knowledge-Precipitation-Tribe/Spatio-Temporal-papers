@@ -993,9 +993,11 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 <a href="https://github.com/SuperSupeng"><img src="https://avatars2.githubusercontent.com/u/20471278?s=460&u=f62611f65c6c368293c0fd73b92aac7d7219b71&v=4" width=98px></img></a> <a href="https://github.com/chenwangnatsukashii"><img src="https://avatars1.githubusercontent.com/u/32348047?s=460&v=4" width=98px></img></a> <a href="https://github.com/zhangjunming123"><img src="https://avatars2.githubusercontent.com/u/38833798?s=460&v=4" width=98px></img></a> <a href="https://github.com/Sylvia822"><img src="https://avatars0.githubusercontent.com/u/63226742?s=460&u=f8485c2378d4454cdedb483e35d9aa603e687e78&v=4" width=98px></img></a> <a href="https://github.com/makeittrue"><img src="https://avatars2.githubusercontent.com/u/39159570?s=460&u=af6cc2ccda8ea0fbf1ab0a440f74887e65b6d18d&v=4" width=98px></img></a>
 
-## Contact
+# Stargazers over time
 
-![group](./img/group.jpeg)
+[![Stargazers over time](https://starcharts.herokuapp.com/Knowledge-Precipitation-Tribe/Spatio-Temporal-papers.svg)](https://github.com/Knowledge-Precipitation-Tribe/Spatio-Temporal-papers)
+
+
 
 ## LICENSE
 
