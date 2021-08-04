@@ -11,6 +11,8 @@
 <a href="https://github.com/Knowledge-Precipitation-Tribe/Urban-computing-papers/blob/master/wechat.md">     <img border="0" src="https://camo.githubusercontent.com/013c283843363c72b1463af208803bfbd5746292/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f7765636861742e737667" /> </a>
 </div>
 
+> I have not experienced the maintenance of this project, if you are interested in maintenance, please contact me.
+
 # Introduction
 
 This project is a collection of recent research in areas such as new infrastructure and urban computing, including white papers, academic papers, AI lab and dataset etc.
