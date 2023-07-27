@@ -726,7 +726,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 ---
 <p id = "twosix">[2.8]</p>
 
-**Unified Spatio-Temporal Modeling for Traffic Forecasting using Graph Neural Network.** IJCNN 2020. [paper](https://ieeexplore.ieee.org/document/9533319)
+**Unified Spatio-Temporal Modeling for Traffic Forecasting using Graph Neural Network.** IJCNN 2021. [paper](https://ieeexplore.ieee.org/document/9533319)
 
 |   Models    |                       Modules                        |     Architecture      | conclusion                                                   |
 | :---------: | :--------------------------------------------------: | :-------------------: | :----------------------------------------------------------- |
