@@ -713,6 +713,30 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 ---
 
+<p id = "twosix">[2.7]</p>
+
+**SST-GNN: Simplified Spatio-temporal Traffic forecasting model using Graph Neural Network.** PAKDD 2021. [paper](https://link.springer.com/chapter/10.1007/978-3-030-75768-7_8)
+
+|   Models    |                       Modules                        |     Architecture      | conclusion                                                   |
+| :---------: | :--------------------------------------------------: | :-------------------: | :----------------------------------------------------------- |
+
+
+Amit Roy*, Kashob Kumar Roy*, Amin Ahsan Ali, M Ashraful Amin and A K M Mahbubur Rahman
+
+---
+<p id = "twosix">[2.8]</p>
+
+**Unified Spatio-Temporal Modeling for Traffic Forecasting using Graph Neural Network.** IJCNN 2021. [paper](https://ieeexplore.ieee.org/document/9533319)
+
+|   Models    |                       Modules                        |     Architecture      | conclusion                                                   |
+| :---------: | :--------------------------------------------------: | :-------------------: | :----------------------------------------------------------- |
+
+
+Amit Roy*, Kashob Kumar Roy*, Amin Ahsan Ali, M Ashraful Amin and A K M Mahbubur Rahman
+
+---
+
+
 ### 3、[Flows Prediction](#content)
 
 <p id = "threeone">[3.1]</p> 
