@@ -721,7 +721,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 | :---------: | :--------------------------------------------------: | :-------------------: | :----------------------------------------------------------- |
 
 
-*Amit Roy*, Kashob Kumar Roy*, Amin Ahsan Ali, M Ashraful Amin and A K M Mahbubur Rahman, *
+Amit Roy*, Kashob Kumar Roy*, Amin Ahsan Ali, M Ashraful Amin and A K M Mahbubur Rahman
 
 ---
 <p id = "twosix">[2.8]</p>
@@ -732,7 +732,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 | :---------: | :--------------------------------------------------: | :-------------------: | :----------------------------------------------------------- |
 
 
-*Amit Roy*, Kashob Kumar Roy*, Amin Ahsan Ali, M Ashraful Amin and A K M Mahbubur Rahman, *
+Amit Roy*, Kashob Kumar Roy*, Amin Ahsan Ali, M Ashraful Amin and A K M Mahbubur Rahman
 
 ---
 
